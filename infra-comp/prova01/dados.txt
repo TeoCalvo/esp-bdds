@@ -1,0 +1,21 @@
+Aldebaran Leite Agner,-,-,6
+Alessandro Bueno de Souza,103,A,0
+Alexandre Rodizio Bento,91.5,A,0
+Charles Laudemaine,82,B,0
+Debora Ruedell,102.5,A,0
+Dirlei F. Lopes da Silva,97.5,A,0
+Edson Flavio de Souza,108,A,2
+Fabiana Cristian Penter,107.5,A,0
+Helio Augusto Goncalves,79,C,0
+Isaias Arcilio dos Santos,70,C,1
+Joao Carlos Balzan,70.5,C,0
+Jonsue Trapp Martins,100,A,2
+Misael Alves Bortolaz,102.5,A,1
+Rafael Hammerschimidt,110,A,0
+Ricardo Esteves da Costa,99,A,0
+Rosangela Binneck,81,B,0
+Sergio Ribeiro da Luz Wanderley,90.2,A,3
+Stefano Chapoval Fontes,102,A,1
+Wanderlei Wormsbecker,82.5,B,2
+Wellington Telles Cunha,97.5,A,0
+Yuri Matos Freitas,99.5,A,0
