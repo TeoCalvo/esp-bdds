@@ -1,0 +1,102 @@
+1. Crie um arquivo com os dados de exemplo abaixo
+
+Fred apples 20
+Susy oranges 5
+Susy oranges 5
+Mark watermellons 12
+Robert pears 4
+Terry oranges 9
+Lisa peaches 7
+Susy oranges 12
+Mark grapes 39
+Mark grapes 39
+Anne mangoes 7
+Greg pineapples 3
+Oliver rockmellons 2
+Betty limes 14
+
+2. Execute o comando top em uma janela, mostrando apenas seus processos, enquanto faz os exercícios em outra janela.
+
+	top | grep tbcalvo
+
+3. Entenda o que faz cada linha de comando dos slides de aula.
+
+4. Use o comando cut na saída de um comando ls -l para mostrar apenas as permissões dos arquivos no diretório /etc.
+Depois use sort e uniq para mostrar quantas permissões diferentes existem naquele diretório.
+
+	ls -l /etc/
+	ls -l /etc/ | sed 's/\s\s*/ /g' | cut -d ' ' -f 1 | tail -n +2 | sort | uniq -c
+
+5. Quantos processos você está rodando neste momento?
+
+	ps aux | grep tbcalvo | wc -l
+
+6. Quantos arquivos invisíveis (iniciados com .) há na sua área HOME?
+
+	ls -a | egrep '^\.[^.].+' | wc -l
+
+7. Quantos diretórios há na sua área HOME?
+
+	ls -l | cut -d ' ' -f 1 | egrep '^d' | wc -l
+
+8. Liste todos os atributos de todos os arquivos de um diretório e utilize o cut para mostrar apenas suas permissões e seu nome.
+
+	ls -l | sed 's/\s\s*/ /g' | cut -d ' ' -f 1,9
+
+9. Liste todos os arquivos e seus atributos (somente os arquivos, diretórios não devem aparecer)
+do diretório /etc, ordenando a saída por data do arquivo, e guarde a saída no arquivo teste.txt na sua área.
+
+	ls -ltr /etc | egrep '^-' > $HOME/teste.txt
+
+10. O que faz o comando kill -9 -1
+
+	Mata todos os processos que o usuário tenho possibilidade de matar.
+
+11. Mostre apenas o vigésimo arquivo do diretório /etc
+
+	ls -l /etc/ | egrep "^d" | nl | egrep "^ *(20){1}"
+
+12. Mostre apenas os arquivos e diretórios para os quais você tem permissão de execução na sua área HOME.
+
+	ls -l $HOME | egrep "[-drw]{3}x"
+
+13. Quais os programas com maior utilização de CPU que estão rodando?
+
+	ps -aux --sort=-pcpu |  head -6 | sed 's/\s\s*/ /g' | cut -d ' ' -f 3,4,11
+
+14. Mostre a quantidade de processadores que seu computador tem conforme o que consta no
+arquivo /proc/cpuinfo.
+
+15. Mostre a quantidade de memória disponível no seu computador conforme o que consta no arquivo /proc/meminfo.
+
+16. Acesse o servidor ssh.inf.ufpr.br. Utilize o comando finger para mostrar o Login de todos usuários cujo primeiro nome seja Daniel.
+
+17. Execute os comandos a seguir como usuário normal. Determine o que é stdin, stdout e
+stderr para cada comando (o conteúdo de cada fluxo para cada comando):
+	1. cat nonexistentfile
+	2. file /sbin/ifconfig
+	3. grep root /etc/passwd /etc/nofiles > grepresults
+	4. /etc/init.d/sshd start > /var/tmp/output
+	5. /etc/init.d/crond start > /var/tmp/output 2>&1
+	6. Confira seu resultado repetindo os comandos e atribuindo stdout para /HOME/saida.txt e stderr para /$HOME/erro.txt.
+
+18. Observe as seguintes sequências de comandos e responda às perguntas:
+
+	mkdir vazio
+	cd vazio
+	cp a b
+	cp: cannot stat 'a': No such file or directory
+	cp a b >a
+
+18.1 Por que não há mensagem de erro após o segundo comando cp? Qual o conteúdo do arquivo a?
+
+	date >a
+	cat a
+	Wed Feb 8 03:01:21 EST 2012
+	cp a b
+	cat b
+	Wed Feb 8 03:01:21 EST 2012
+	cp a b >a
+	cat b
+
+18.2 Por que o arquivo b está vazio? O que há no arquivo a?
