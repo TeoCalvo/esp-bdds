@@ -1,0 +1,2320 @@
+-rw-r--r--  1 teo  teo     0 abr 15 18:28 erro.txt
+
+/etc:
+total 1536
+drwxr-xr-x 3 root root   4096 fev  3 11:05 acpi
+-rw-r--r-- 1 root root     44 fev 14 16:00 adjtime
+-rw-r--r-- 1 root root    541 jun 29  2016 anacrontab
+-rw-r--r-- 1 root root    769 jan 22 20:51 appstream.conf
+lrwxrwxrwx 1 root root     15 nov 27 16:29 arch-release -> manjaro-release
+-rw-r--r-- 1 root root    260 jun 30  2014 asound.conf
+drwxr-xr-x 3 root root   4096 fev  3 11:06 avahi
+-rw-r--r-- 1 root root     28 fev 18 15:57 bash.bash_logout
+-rw-r--r-- 1 root root    618 fev 18 15:57 bash.bashrc
+drwxr-xr-x 2 root root   4096 jan 15 11:12 binfmt.d
+drwxr-xr-x 2 root root   4096 mar 19 21:44 bluetooth
+drwxr-xr-x 4 root root   4096 fev  3 11:05 ca-certificates
+drwxr-xr-x 2 root root   4096 fev  3 11:06 cifs-utils
+drwxr-xr-x 2 root root   4096 mar 19 21:45 conf.d
+-rw-r--r-- 1 root root    175 jan 30 01:01 cpufreq-bench.conf
+drwxr-xr-x 2 root root   4096 fev  3 11:05 cron.d
+drwxr-xr-x 2 root root   4096 jun 29  2016 cron.daily
+-rw-r--r-- 1 root root     74 jun 29  2016 cron.deny
+drwxr-xr-x 2 root root   4096 fev  3 11:05 cron.hourly
+drwxr-xr-x 2 root root   4096 jun 29  2016 cron.monthly
+drwxr-xr-x 2 root root   4096 jun 29  2016 cron.weekly
+-rw------- 1 root root    566 fev 14 16:00 crypttab
+drwxr-xr-x 4 root cups   4096 abr 15 17:38 cups
+drwxr-xr-x 2 root root   4096 fev 17 11:38 cupshelpers
+drwxr-xr-x 3 root root   4096 mar 19 21:44 dbus-1
+drwxr-xr-x 2 root root   4096 mar 19 21:44 default
+drwxr-xr-x 2 root root   4096 fev 24  2017 depmod.d
+-rw-r--r-- 1 root root   1268 fev 12 09:28 dhcpcd.conf
+-rw-r--r-- 1 root root  26715 mar 18 16:27 dnsmasq.conf
+-rw-r--r-- 1 root root  12474 mar 21 14:59 drirc
+-rw-r--r-- 1 root root     97 jun  9  2016 environment
+-rw-r--r-- 1 root root   1362 fev 12 21:47 ethertypes
+-rw-r--r-- 1 root root    439 dez 21 18:10 exports
+drwxr-xr-x 2 root root   4096 dez 21 18:10 exports.d
+drwxr-xr-x 4 root root   4096 fev  3 11:06 fonts
+drwxr-xr-x 2 root root   4096 fev  3 11:07 foomatic
+-rw-r--r-- 1 root root    947 fev 14 16:17 fstab
+-rw-r--r-- 1 root root    216 dez  9 01:39 fuse.conf
+-rw-r--r-- 1 root root   2584 jan 17 19:10 gai.conf
+drwxr-xr-x 6 root root   4096 fev  3 11:07 gconf
+-rw-r--r-- 1 root root    266 mar  2 19:42 gemrc
+drwxr-xr-x 2 root root   4096 fev  3 11:07 geoclue
+-rw-r--r-- 1 root root   1080 mar 25 16:17 group
+-rw-r--r-- 1 root root   1067 fev 14 18:06 group-
+drwxr-xr-x 2 root root   4096 mar 19 21:44 grub.d
+-rw------- 1 root root    915 mar 25 16:17 gshadow
+-rw------- 1 root root    904 fev 14 18:06 gshadow-
+drwxr-xr-x 3 root root   4096 fev  3 11:05 gss
+drwxr-xr-x 2 root root   4096 fev 17 11:37 gssproxy
+drwxr-xr-x 2 root root   4096 fev  3 11:08 gtk-2.0
+drwxr-xr-x 2 root root   4096 fev 17 11:37 gtk-3.0
+-rw-r--r-- 1 root root    450 out 28  2016 healthd.conf
+-rw-r--r-- 1 root root     63 nov 27 16:29 host.conf
+-rw-r--r-- 1 root root      7 fev 14 16:00 hostname
+-rw-r--r-- 1 root root    122 fev 14 16:00 hosts
+drwxr-xr-x 2 root root   4096 mar 25 14:29 hp
+-rw-r--r-- 1 root root   4849 dez 21 18:10 idmapd.conf
+drwxr-xr-x 2 root root   4096 mar 25 14:29 ImageMagick-6
+drwxr-xr-x 2 root root   4096 mar 25 14:29 ImageMagick-7
+drwxr-xr-x 4 root root   4096 fev  3 11:04 initcpio
+-rw-r--r-- 1 root root    714 jan 30  2017 inputrc
+drwxr-xr-x 2 root root   4096 fev 17 11:37 iproute2
+drwxr-xr-x 2 root root   4096 fev 25 21:13 iptables
+-rw-r--r-- 1 root root     30 nov 27 16:29 issue
+drwxr-xr-x 6 root root   4096 mar 19 21:44 java-8-openjdk
+drwxr-xr-x 3 root root   4096 fev  3 11:04 kernel
+-rw-r--r-- 1 root root    369 dez  5 15:36 krb5.conf
+-rw-r--r-- 1 root root   1174 mar  6 09:46 ksysguarddrc
+-rw-r--r-- 1 root root 233757 abr  1 19:17 ld.so.cache
+-rw-r--r-- 1 root root     71 nov 27 16:29 ld.so.conf
+drwxr-xr-x 2 root root   4096 mar 30 10:33 ld.so.conf.d
+-rw-r--r-- 1 root root     38 fev  7 06:29 libao.conf
+drwxr-xr-x 3 root root   4096 fev  3 11:07 libblockdev
+drwxr-xr-x 2 root root   4096 fev  3 11:04 libnl
+drwxr-xr-x 2 root root   4096 dez 29  2016 libpaper.d
+drwxr-xr-x 2 root root   4096 mar  7 22:43 libreoffice
+-rw-r--r-- 1 root root    230 fev 14 16:00 locale.conf
+-rw-r--r-- 1 root root   9758 fev 14 16:00 locale.gen
+lrwxrwxrwx 1 root root     37 fev 14 16:00 localtime -> /usr/share/zoneinfo/America/Sao_Paulo
+-rw-r--r-- 1 root root   5645 dez 16 14:03 login.defs
+-rw-r--r-- 1 root root    686 dez  9 10:23 logrotate.conf
+drwxr-xr-x 2 root root   4096 mar 19 21:45 logrotate.d
+-rw-r--r-- 1 root root    108 fev 23 17:56 lsb-release
+drwxr-xr-x 6 root root   4096 mar 19 21:44 lvm
+-r--r--r-- 1 root root     33 fev 14 16:00 machine-id
+-rw-r--r-- 1 root root    272 nov 22 17:40 mailcap
+-r--r--r-- 1 root root   8349 mar  7 15:45 mail.rc
+-rw-r--r-- 1 root root   5919 jul 15  2017 makepkg.conf
+-rw-r--r-- 1 root root   5134 fev 28 13:01 man_db.conf
+-rw-r--r-- 1 root root   7656 mar 16 06:41 manjaro-firefox-developer-edition.ini
+-rw-r--r-- 1 root root   7620 mar 16 06:41 manjaro-firefox.ini
+-rw-r--r-- 1 root root   7632 mar 16 06:41 manjaro-firefox-kde.ini
+-rw-r--r-- 1 root root     14 nov 27 16:29 manjaro-release
+-rw-r--r-- 1 root root   2349 mar  9  2017 mdadm.conf
+-rw-r--r-- 1 root root  61433 nov 22 17:40 mime.types
+-rw-r--r-- 1 root root    812 mar  8 06:48 mke2fs.conf
+-rw-r--r-- 1 root root   2504 fev 14 16:00 mkinitcpio.conf
+drwxr-xr-x 2 root root   4096 mar 25 14:29 mkinitcpio.d
+drwxr-xr-x 2 root root   4096 fev 14 16:00 modprobe.d
+drwxr-xr-x 2 root root   4096 fev 14 16:00 modules-load.d
+-rw-r--r-- 1 root root    246 mar  7 14:43 mongodb.conf
+-rw-r--r-- 1 root root      0 nov 27 16:29 motd
+-rw-r--r-- 1 root root    180 fev 25 17:57 mpd.conf
+lrwxrwxrwx 1 root root     19 nov 27 16:29 mtab -> ../proc/self/mounts
+drwxr-xr-x 2 root root   4096 mar 25 22:08 mysql
+-rw-r--r-- 1 root root   9156 mar  9 03:45 nanorc
+-rw-r--r-- 1 root root    767 mar 16 04:44 netconfig
+drwxr-xr-x 8 root root   4096 mar 25 14:29 NetworkManager
+-rw-r--r-- 1 root root    993 dez 21 18:10 nfs.conf
+-rw-r--r-- 1 root root   3605 dez 21 18:10 nfsmount.conf
+drwxr-xr-x 2 root root   4096 mar 19 21:44 nghttpx
+drwxr-xr-x 2 root root   4096 fev  3 11:08 nginx
+-rw-r--r-- 1 root root   2387 jan 17 19:10 nscd.conf
+-rw-r--r-- 1 root root    350 nov 27 16:29 nsswitch.conf
+-rw-r--r-- 1 root root    706 mar  7 15:48 ntp.conf
+drwxr-xr-x 2 root root   4096 mar 21 05:44 ODBCDataSources
+-rw-r--r-- 1 root root      0 mar 21 05:44 odbc.ini
+-rw-r--r-- 1 root root      0 mar 21 05:44 odbcinst.ini
+drwxr-xr-x 3 root root   4096 fev 27 21:10 OpenCL
+drwxr-xr-x 2 root root   4096 fev  3 11:04 openldap
+-rw-r--r-- 1 root root    665 out 23 09:21 openswap.conf
+drwxr-xr-x 4 root root   4096 fev  3 11:06 openvpn
+lrwxrwxrwx 1 root root     21 nov 27 16:29 os-release -> ../usr/lib/os-release
+drwxr-xr-x 3 root root   4096 fev  3 11:08 ostree
+-rw-r--r-- 1 root root     79 fev 23 18:29 ostree-mkinitcpio.conf
+-rw-r--r-- 1 root root   3067 fev  3 11:09 pacman.conf
+drwxr-xr-x 3 root root   4096 fev  3 11:09 pacman.d
+-rw-r--r-- 1 root root    793 fev  3 11:09 pacman-mirrors.conf
+drwxr-xr-x 2 root root   4096 mar 19 21:45 pam.d
+-rw-r--r-- 1 root root     68 dez 29  2016 papersize
+-rw-r--r-- 1 root root   1853 mar 25 16:17 passwd
+-rw-r--r-- 1 root root   1800 fev 14 18:06 passwd-
+-rw-r--r-- 1 root root   1071 fev  3 11:07 passwd.OLD
+drwxr-xr-x 2 root root   4096 fev  3 11:05 pcmcia
+drwxr-xr-x 2 root root   4096 mar  5 19:31 pipewire
+drwxr-xr-x 2 root root   4096 mar 19 21:44 pkcs11
+drwxr-xr-x 3 root root   4096 fev  3 11:06 polkit-1
+drwxr-xr-x 7 root root   4096 fev 17 11:38 ppp
+-rw-r--r-- 1 root root    135 fev 14 16:02 printcap
+-rw-r--r-- 1 root root    573 nov 27 16:29 profile
+drwxr-xr-x 2 root root   4096 mar 19 21:44 profile.d
+-rw-r--r-- 1 root root   3145 fev 22 17:25 protocols
+drwxr-xr-x 2 root root   4096 fev  3 11:07 pulse
+drwxr-xr-x 2 root root   4096 mar 30 10:33 R
+drwxr-xr-x 2 root root   4096 mai 11  2017 rc_keymaps
+-rw-r--r-- 1 root root     68 nov 27 16:29 rc.local
+-rw-r--r-- 1 root root     66 nov 27 16:29 rc.local.shutdown
+-rw-r--r-- 1 root root   6362 fev 16 18:45 rc_maps.cfg
+-rw-r--r-- 1 root root   1814 mar 16  2017 request-key.conf
+drwxr-xr-x 2 root root   4096 fev  3 11:06 request-key.d
+-rw-r--r-- 1 root root     65 abr 15 17:33 resolv.conf
+-rw-r--r-- 1 root root    254 mar  4  2017 resolvconf.conf
+-rw-r--r-- 1 root root   1634 jan 17 19:09 rpc
+-rw-r--r-- 1 root root    172 jan 29 05:41 rsyncd.conf
+drwxr-xr-x 3 root root   4096 fev  3 11:06 samba
+drwxr-xr-x 3 root root   4096 fev  3 11:08 sane.d
+-rwxr-xr-x 1 root root    825 fev 14 16:00 sddm.conf
+-rw-r--r-- 1 root root     86 nov 27 16:29 securetty
+drwxr-xr-x 4 root root   4096 fev  3 11:07 security
+-rw-r--r-- 1 root root  10215 out 28  2016 sensors3.conf
+drwxr-xr-x 2 root root   4096 out 28  2016 sensors.d
+-rw-r--r-- 1 root root 296299 fev 22 17:25 services
+-rw------- 1 root root   1057 mar 25 16:17 shadow
+-rw------- 1 root root   1036 fev 14 18:06 shadow-
+-rw-r--r-- 1 root root     93 fev  3 11:07 shells
+-rw-r--r-- 1 root root   1803 jun  7  2016 signond.conf
+drwxr-xr-x 3 root root   4096 fev  3 11:08 signon-ui
+drwxr-xr-x 4 root root   4096 fev 25 21:13 skel
+-rw-r--r-- 1 root root   2030 mar  9 16:53 slsh.rc
+-rw-r--r-- 1 root root     78 dez  6  2015 sni-qt.conf
+drwxr-xr-x 2 root root   4096 fev  3 11:06 ssh
+drwxr-xr-x 5 root root   4096 fev  3 11:05 ssl
+-r--r----- 1 root root   3174 jan 21 17:06 sudoers
+drwxr-x--- 2 root root   4096 fev 14 16:00 sudoers.d
+drwxr-xr-x 2 root root   4096 fev  3 11:09 sysctl.d
+drwxr-xr-x 5 root root   4096 mar 19 21:44 systemd
+drwxr-xr-x 9 root root   4096 mar 30 10:33 texmf
+-rw-r--r-- 1 root root     18 fev 14 16:00 timezone
+drwxr-xr-x 2 root root   4096 jan 15 11:12 tmpfiles.d
+-rw-r--r-- 1 root root   1107 jul 11  2017 trusted-key.key
+-rw-r--r-- 1 root root    852 jan 11 17:40 ts.conf
+drwxr-xr-x 4 root root   4096 abr  1 19:17 udev
+drwxr-xr-x 2 root root   4096 fev 25 21:13 udisks2
+drwxr-xr-x 2 root root   4096 fev  3 11:07 UPower
+-rw-r--r-- 1 root root   1522 jan  5 14:00 usb_modeswitch.conf
+drwxr-xr-x 2 root root   4096 jan  5 14:00 usb_modeswitch.d
+-rw-r--r-- 1 root root  78853 jan  5 14:00 usb_modeswitch.setup
+-rw-r--r-- 1 root root     34 fev 14 16:00 vconsole.conf
+-rw-r--r-- 1 root root     51 nov 11 20:50 vdpau_wrapper.cfg
+-rw-r--r-- 1 root root    912 fev 26 19:02 vimrc
+drwxr-xr-x 2 root root   4096 fev  3 11:06 vpnc
+-rw-r--r-- 1 root root   5026 mar 14 09:11 wgetrc
+drwxr-xr-x 2 root root   4096 out 16 07:27 wpa_supplicant
+drwxr-xr-x 5 root root   4096 fev  3 11:07 X11
+drwxr-xr-x 8 root root   4096 mar 19 21:45 xdg
+drwxr-xr-x 2 root root   4096 fev  3 11:08 xinetd.d
+drwxr-xr-x 2 root root   4096 fev  3 11:07 xml
+-rw-r--r-- 1 root root   1284 ago 12  2017 yaourtrc
+drwxr-xr-x 2 root root   4096 fev  3 11:05 zsh
+
+/etc/acpi:
+total 8
+drwxr-xr-x 2 root root 4096 fev  3 11:05 events
+-rwxr-xr-x 1 root root 1837 set 17  2016 handler.sh
+
+/etc/acpi/events:
+total 4
+-rw-r--r-- 1 root root 84 set 17  2016 anything
+
+/etc/avahi:
+total 20
+-rwxr-xr-x 1 root root 2561 jan  8 23:51 avahi-autoipd.action
+-rw-r--r-- 1 root root 1753 jan  8 23:51 avahi-daemon.conf
+-rwxr-xr-x 1 root root 2743 jan  8 23:51 avahi-dnsconfd.action
+-rw-r--r-- 1 root root 1121 jan  8 23:51 hosts
+drwxr-xr-x 2 root root 4096 jan  8 23:51 services
+
+/etc/avahi/services:
+total 0
+
+/etc/binfmt.d:
+total 0
+
+/etc/bluetooth:
+total 8
+-rw-r--r-- 1 root root 4121 mar 11 15:42 main.conf
+
+/etc/ca-certificates:
+total 8
+drwxr-xr-x 3 root root 4096 mar 19 21:45 extracted
+drwxr-xr-x 4 root root 4096 fev  3 11:05 trust-source
+
+/etc/ca-certificates/extracted:
+total 680
+-r--r--r-- 1 root root 263221 mar 19 21:45 ca-bundle.trust.crt
+dr-xr-xr-x 2 root root  20480 mar 19 21:45 cadir
+-r--r--r-- 1 root root 182452 mar 19 21:45 email-ca-bundle.pem
+-r--r--r-- 1 root root   5230 mar 19 21:45 objsign-ca-bundle.pem
+-r--r--r-- 1 root root 216889 mar 19 21:45 tls-ca-bundle.pem
+
+/etc/ca-certificates/extracted/cadir:
+total 588
+lrwxrwxrwx 1 root root   26 mar 19 21:45 00673b5b.0 -> thawte_Primary_Root_CA.pem
+lrwxrwxrwx 1 root root   45 mar 19 21:45 02265526.0 -> Entrust_Root_Certification_Authority_-_G2.pem
+lrwxrwxrwx 1 root root   23 mar 19 21:45 02756ea4.0 -> Certplus_Root_CA_G1.pem
+lrwxrwxrwx 1 root root   36 mar 19 21:45 03179a64.0 -> Staat_der_Nederlanden_EV_Root_CA.pem
+lrwxrwxrwx 1 root root   41 mar 19 21:45 04f60c28.0 -> USERTrust_ECC_Certification_Authority.pem
+lrwxrwxrwx 1 root root   27 mar 19 21:45 062cdee6.0 -> GlobalSign_Root_CA_-_R3.pem
+lrwxrwxrwx 1 root root   25 mar 19 21:45 064e0aa9.0 -> QuoVadis_Root_CA_2_G3.pem
+lrwxrwxrwx 1 root root   50 mar 19 21:45 06dc52d5.0 -> SSL.com_EV_Root_Certification_Authority_RSA_R2.pem
+lrwxrwxrwx 1 root root   20 mar 19 21:45 080911ac.0 -> QuoVadis_Root_CA.pem
+lrwxrwxrwx 1 root root   54 mar 19 21:45 09789157.0 -> Starfield_Services_Root_Certificate_Authority_-_G2.pem
+lrwxrwxrwx 1 root root   16 mar 19 21:45 0b1b94ef.0 -> CFCA_EV_ROOT.pem
+lrwxrwxrwx 1 root root   44 mar 19 21:45 0bf05006.0 -> SSL.com_Root_Certification_Authority_ECC.pem
+lrwxrwxrwx 1 root root   34 mar 19 21:45 0c4c9b6c.0 -> Global_Chambersign_Root_-_2008.pem
+lrwxrwxrwx 1 root root   61 mar 19 21:45 0d5a4e1c.0 -> T__RKTRUST_Elektronik_Sertifika_Hizmet_Sa__lay__c__s___H5.pem
+lrwxrwxrwx 1 root root   31 mar 19 21:45 0d69c7e1.0 -> GlobalSign_ECC_Root_CA_-_R4.pem
+lrwxrwxrwx 1 root root   26 mar 19 21:45 0f6fa695.0 -> GDCA_TrustAUTH_R5_ROOT.pem
+lrwxrwxrwx 1 root root   54 mar 19 21:45 10531352.0 -> Starfield_Services_Root_Certificate_Authority_-_G2.pem
+lrwxrwxrwx 1 root root   46 mar 19 21:45 106f3e4d.0 -> Entrust_Root_Certification_Authority_-_EC1.pem
+lrwxrwxrwx 1 root root   27 mar 19 21:45 111e6273.0 -> GlobalSign_Root_CA_-_R2.pem
+lrwxrwxrwx 1 root root   49 mar 19 21:45 116bf586.0 -> GeoTrust_Primary_Certification_Authority_-_G2.pem
+lrwxrwxrwx 1 root root   35 mar 19 21:45 128805a3.0 -> EE_Certification_Centre_Root_CA.pem
+lrwxrwxrwx 1 root root   18 mar 19 21:45 12d55845.0 -> DST_Root_CA_X3.pem
+lrwxrwxrwx 1 root root   26 mar 19 21:45 157753a5.0 -> AddTrust_External_Root.pem
+lrwxrwxrwx 1 root root   59 mar 19 21:45 1636090b.0 -> Hellenic_Academic_and_Research_Institutions_RootCA_2011.pem
+lrwxrwxrwx 1 root root   31 mar 19 21:45 17b51fe6.0 -> Certplus_Class_2_Primary_CA.pem
+lrwxrwxrwx 1 root root   23 mar 19 21:45 18856ac4.0 -> SecureSign_RootCA11.pem
+lrwxrwxrwx 1 root root   31 mar 19 21:45 1d3472b9.0 -> GlobalSign_ECC_Root_CA_-_R5.pem
+lrwxrwxrwx 1 root root   15 mar 19 21:45 1dcd6f4c.0 -> Taiwan_GRCA.pem
+lrwxrwxrwx 1 root root   34 mar 19 21:45 1df5a75f.0 -> D-TRUST_Root_Class_3_CA_2_2009.pem
+lrwxrwxrwx 1 root root   37 mar 19 21:45 1e08bfd1.0 -> IdenTrust_Public_Sector_Root_CA_1.pem
+lrwxrwxrwx 1 root root   32 mar 19 21:45 1e09d511.0 -> T-TeleSec_GlobalRoot_Class_2.pem
+lrwxrwxrwx 1 root root   32 mar 19 21:45 1e1eab7c.0 -> T-TeleSec_GlobalRoot_Class_3.pem
+lrwxrwxrwx 1 root root   27 mar 19 21:45 1e8e7201.0 -> GlobalSign_Root_CA_-_R3.pem
+lrwxrwxrwx 1 root root   36 mar 19 21:45 1eb37bdf.0 -> Chambers_of_Commerce_Root_-_2008.pem
+lrwxrwxrwx 1 root root   25 mar 19 21:45 1f58a078.0 -> QuoVadis_Root_CA_2_G3.pem
+lrwxrwxrwx 1 root root   23 mar 19 21:45 219d9499.0 -> Go_Daddy_Class_2_CA.pem
+lrwxrwxrwx 1 root root   24 mar 19 21:45 23f4c490.0 -> Starfield_Class_2_CA.pem
+lrwxrwxrwx 1 root root   38 mar 19 21:45 244b5494.0 -> DigiCert_High_Assurance_EV_Root_CA.pem
+lrwxrwxrwx 1 root root   49 mar 19 21:45 27af790d.0 -> GeoTrust_Primary_Certification_Authority_-_G2.pem
+lrwxrwxrwx 1 root root   31 mar 19 21:45 2add47b6.0 -> GlobalSign_ECC_Root_CA_-_R5.pem
+lrwxrwxrwx 1 root root   20 mar 19 21:45 2ae6433e.0 -> CA_Disig_Root_R2.pem
+lrwxrwxrwx 1 root root   26 mar 19 21:45 2b349938.0 -> AffirmTrust_Commercial.pem
+lrwxrwxrwx 1 root root   24 mar 19 21:45 2c11d503.0 -> OpenTrust_Root_CA_G3.pem
+lrwxrwxrwx 1 root root   22 mar 19 21:45 2c543cd1.0 -> GeoTrust_Global_CA.pem
+lrwxrwxrwx 1 root root   27 mar 19 21:45 2d9dafe4.0 -> Buypass_Class_3_Root_CA.pem
+lrwxrwxrwx 1 root root   26 mar 19 21:45 2e4eed3c.0 -> thawte_Primary_Root_CA.pem
+lrwxrwxrwx 1 root root   18 mar 19 21:45 2e5ac55d.0 -> DST_Root_CA_X3.pem
+lrwxrwxrwx 1 root root   43 mar 19 21:45 2fa87019.0 -> Network_Solutions_Certificate_Authority.pem
+lrwxrwxrwx 1 root root   49 mar 19 21:45 31188b5e.0 -> TUBITAK_Kamu_SM_SSL_Kok_Sertifikasi_-_Surum_1.pem
+lrwxrwxrwx 1 root root   59 mar 19 21:45 32888f65.0 -> Hellenic_Academic_and_Research_Institutions_RootCA_2015.pem
+lrwxrwxrwx 1 root root   44 mar 19 21:45 33ee480d.0 -> SSL.com_Root_Certification_Authority_RSA.pem
+lrwxrwxrwx 1 root root   26 mar 19 21:45 343eb6cb.0 -> Cybertrust_Global_Root.pem
+lrwxrwxrwx 1 root root   10 mar 19 21:45 349f2832.0 -> EC-ACC.pem
+lrwxrwxrwx 1 root root   41 mar 19 21:45 35105088.0 -> USERTrust_RSA_Certification_Authority.pem
+lrwxrwxrwx 1 root root   27 mar 19 21:45 3513523f.0 -> DigiCert_Global_Root_CA.pem
+lrwxrwxrwx 1 root root   24 mar 19 21:45 3929ec9f.0 -> OpenTrust_Root_CA_G2.pem
+lrwxrwxrwx 1 root root   27 mar 19 21:45 399e7759.0 -> DigiCert_Global_Root_CA.pem
+lrwxrwxrwx 1 root root   35 mar 19 21:45 3a3b02ce.0 -> OISTE_WISeKey_Global_Root_GA_CA.pem
+lrwxrwxrwx 1 root root   29 mar 19 21:45 3ad48a91.0 -> Baltimore_CyberTrust_Root.pem
+lrwxrwxrwx 1 root root   61 mar 19 21:45 3bde41ac.0 -> Autoridad_de_Certificacion_Firmaprofesional_CIF_A62634068.pem
+lrwxrwxrwx 1 root root   26 mar 19 21:45 3c58f906.0 -> AddTrust_External_Root.pem
+lrwxrwxrwx 1 root root   36 mar 19 21:45 3c6676aa.0 -> Staat_der_Nederlanden_EV_Root_CA.pem
+lrwxrwxrwx 1 root root   26 mar 19 21:45 3c860d51.0 -> SwissSign_Gold_CA_-_G2.pem
+lrwxrwxrwx 1 root root   13 mar 19 21:45 3c9a4d3b.0 -> ACCVRAIZ1.pem
+lrwxrwxrwx 1 root root   38 mar 19 21:45 3d441de8.0 -> Staat_der_Nederlanden_Root_CA_-_G2.pem
+lrwxrwxrwx 1 root root   26 mar 19 21:45 3e44d2f7.0 -> TrustCor_RootCert_CA-2.pem
+lrwxrwxrwx 1 root root   27 mar 19 21:45 3e45d192.0 -> Hongkong_Post_Root_CA_1.pem
+lrwxrwxrwx 1 root root   45 mar 19 21:45 3e7271e8.0 -> Entrust.net_Premium_2048_Secure_Server_CA.pem
+lrwxrwxrwx 1 root root   31 mar 19 21:45 40193066.0 -> Certum_Trusted_Network_CA_2.pem
+lrwxrwxrwx 1 root root   16 mar 19 21:45 4042bcee.0 -> ISRG_Root_X1.pem
+lrwxrwxrwx 1 root root   34 mar 19 21:45 40547a79.0 -> COMODO_Certification_Authority.pem
+lrwxrwxrwx 1 root root   59 mar 19 21:45 40dc992e.0 -> Hellenic_Academic_and_Research_Institutions_RootCA_2011.pem
+lrwxrwxrwx 1 root root   43 mar 19 21:45 4304c5e5.0 -> Network_Solutions_Certificate_Authority.pem
+lrwxrwxrwx 1 root root   23 mar 19 21:45 451b5485.0 -> Certplus_Root_CA_G2.pem
+lrwxrwxrwx 1 root root   45 mar 19 21:45 455f1b52.0 -> Entrust_Root_Certification_Authority_-_G2.pem
+lrwxrwxrwx 1 root root   44 mar 19 21:45 480720ec.0 -> GeoTrust_Primary_Certification_Authority.pem
+lrwxrwxrwx 1 root root   14 mar 19 21:45 48a195d8.0 -> Izenpe.com.pem
+lrwxrwxrwx 1 root root   29 mar 19 21:45 48bec511.0 -> Certum_Trusted_Network_CA.pem
+lrwxrwxrwx 1 root root   27 mar 19 21:45 4a6481c9.0 -> GlobalSign_Root_CA_-_R2.pem
+lrwxrwxrwx 1 root root   37 mar 19 21:45 4be590e0.0 -> IdenTrust_Public_Sector_Root_CA_1.pem
+lrwxrwxrwx 1 root root   45 mar 19 21:45 4bfab552.0 -> Starfield_Root_Certificate_Authority_-_G2.pem
+lrwxrwxrwx 1 root root   30 mar 19 21:45 4e18c148.0 -> Deutsche_Telekom_Root_CA_2.pem
+lrwxrwxrwx 1 root root   26 mar 19 21:45 4f316efb.0 -> SwissSign_Gold_CA_-_G2.pem
+lrwxrwxrwx 1 root root   28 mar 19 21:45 5046c355.0 -> SwissSign_Silver_CA_-_G2.pem
+lrwxrwxrwx 1 root root   51 mar 19 21:45 524d9b43.0 -> VeriSign_Universal_Root_Certification_Authority.pem
+lrwxrwxrwx 1 root root   35 mar 19 21:45 5273a94c.0 -> E-Tugra_Certification_Authority.pem
+lrwxrwxrwx 1 root root   25 mar 19 21:45 52b525c7.0 -> QuoVadis_Root_CA_1_G3.pem
+lrwxrwxrwx 1 root root   32 mar 19 21:45 5443e9e3.0 -> T-TeleSec_GlobalRoot_Class_3.pem
+lrwxrwxrwx 1 root root   27 mar 19 21:45 54657681.0 -> Buypass_Class_2_Root_CA.pem
+lrwxrwxrwx 1 root root   24 mar 19 21:45 559f7c71.0 -> OpenTrust_Root_CA_G3.pem
+lrwxrwxrwx 1 root root   28 mar 19 21:45 57bcb2da.0 -> SwissSign_Silver_CA_-_G2.pem
+lrwxrwxrwx 1 root root   50 mar 19 21:45 583d0756.0 -> SSL.com_EV_Root_Certification_Authority_RSA_R2.pem
+lrwxrwxrwx 1 root root   23 mar 19 21:45 590d426f.0 -> CAcert_Class_3_Root.pem
+lrwxrwxrwx 1 root root   38 mar 19 21:45 5a250ea7.0 -> Staat_der_Nederlanden_Root_CA_-_G3.pem
+lrwxrwxrwx 1 root root   34 mar 19 21:45 5a3f0ff8.0 -> COMODO_Certification_Authority.pem
+lrwxrwxrwx 1 root root   38 mar 19 21:45 5a4d6896.0 -> Staat_der_Nederlanden_Root_CA_-_G3.pem
+lrwxrwxrwx 1 root root   22 mar 19 21:45 5ad8a5d6.0 -> GlobalSign_Root_CA.pem
+lrwxrwxrwx 1 root root   38 mar 19 21:45 5c44d531.0 -> Staat_der_Nederlanden_Root_CA_-_G2.pem
+lrwxrwxrwx 1 root root   26 mar 19 21:45 5cd81ad7.0 -> TeliaSonera_Root_CA_v1.pem
+lrwxrwxrwx 1 root root   20 mar 19 21:45 5cf9d536.0 -> QuoVadis_Root_CA.pem
+lrwxrwxrwx 1 root root   26 mar 19 21:45 5d3033c5.0 -> TrustCor_RootCert_CA-1.pem
+lrwxrwxrwx 1 root root   64 mar 19 21:45 5e4e69e7.0 -> VeriSign_Class_3_Public_Primary_Certification_Authority_-_G4.pem
+lrwxrwxrwx 1 root root   29 mar 19 21:45 5ed36f99.0 -> CA_Cert_Signing_Authority.pem
+lrwxrwxrwx 1 root root   23 mar 19 21:45 5f15c80c.0 -> TWCA_Global_Root_CA.pem
+lrwxrwxrwx 1 root root   34 mar 19 21:45 5f47b495.0 -> Actalis_Authentication_Root_CA.pem
+lrwxrwxrwx 1 root root   27 mar 19 21:45 607986c7.0 -> DigiCert_Global_Root_G2.pem
+lrwxrwxrwx 1 root root   24 mar 19 21:45 608a55ad.0 -> OpenTrust_Root_CA_G2.pem
+lrwxrwxrwx 1 root root   48 mar 19 21:45 60afe812.0 -> NetLock_Arany__Class_Gold__F__tan__s__tv__ny.pem
+lrwxrwxrwx 1 root root   16 mar 19 21:45 6187b673.0 -> ISRG_Root_X1.pem
+lrwxrwxrwx 1 root root   26 mar 19 21:45 63a2c897.0 -> TeliaSonera_Root_CA_v1.pem
+lrwxrwxrwx 1 root root   15 mar 19 21:45 6410666e.0 -> Taiwan_GRCA.pem
+lrwxrwxrwx 1 root root   29 mar 19 21:45 653b494a.0 -> Baltimore_CyberTrust_Root.pem
+lrwxrwxrwx 1 root root   31 mar 19 21:45 67495436.0 -> thawte_Primary_Root_CA_-_G3.pem
+lrwxrwxrwx 1 root root   31 mar 19 21:45 69105f4f.0 -> DigiCert_Assured_ID_Root_CA.pem
+lrwxrwxrwx 1 root root   40 mar 19 21:45 6b99d060.0 -> Entrust_Root_Certification_Authority.pem
+lrwxrwxrwx 1 root root   20 mar 19 21:45 6d41d539.0 -> Amazon_Root_CA_2.pem
+lrwxrwxrwx 1 root root   44 mar 19 21:45 6fa5da56.0 -> SSL.com_Root_Certification_Authority_RSA.pem
+lrwxrwxrwx 1 root root   23 mar 19 21:45 6fcc125d.0 -> Visa_eCommerce_Root.pem
+lrwxrwxrwx 1 root root   24 mar 19 21:45 706f604c.0 -> XRamp_Global_CA_Root.pem
+lrwxrwxrwx 1 root root   25 mar 19 21:45 749e9e03.0 -> QuoVadis_Root_CA_1_G3.pem
+lrwxrwxrwx 1 root root   28 mar 19 21:45 75680d2e.0 -> Comodo_AAA_Services_root.pem
+lrwxrwxrwx 1 root root   28 mar 19 21:45 75d1b2ed.0 -> DigiCert_Trusted_Root_G4.pem
+lrwxrwxrwx 1 root root   24 mar 19 21:45 76579174.0 -> XRamp_Global_CA_Root.pem
+lrwxrwxrwx 1 root root   26 mar 19 21:45 76cb8f92.0 -> Cybertrust_Global_Root.pem
+lrwxrwxrwx 1 root root   22 mar 19 21:45 76faf6c0.0 -> QuoVadis_Root_CA_3.pem
+lrwxrwxrwx 1 root root   63 mar 19 21:45 7719f463.0 -> Hellenic_Academic_and_Research_Institutions_ECC_RootCA_2015.pem
+lrwxrwxrwx 1 root root   47 mar 19 21:45 7892ad52.0 -> SSL.com_EV_Root_Certification_Authority_ECC.pem
+lrwxrwxrwx 1 root root   61 mar 19 21:45 7992b8bb.0 -> T__RKTRUST_Elektronik_Sertifika_Hizmet_Sa__lay__c__s___H5.pem
+lrwxrwxrwx 1 root root   22 mar 19 21:45 7999be0d.0 -> GeoTrust_Global_CA.pem
+lrwxrwxrwx 1 root root   20 mar 19 21:45 7a7c655d.0 -> Amazon_Root_CA_3.pem
+lrwxrwxrwx 1 root root   22 mar 19 21:45 7a819ef2.0 -> QuoVadis_Root_CA_2.pem
+lrwxrwxrwx 1 root root   18 mar 19 21:45 7aaf71c0.0 -> TrustCor_ECA-1.pem
+lrwxrwxrwx 1 root root   26 mar 19 21:45 7c302982.0 -> TrustCor_RootCert_CA-1.pem
+lrwxrwxrwx 1 root root   64 mar 19 21:45 7d0b38bd.0 -> VeriSign_Class_3_Public_Primary_Certification_Authority_-_G4.pem
+lrwxrwxrwx 1 root root   64 mar 19 21:45 7d453d8f.0 -> Verisign_Class_3_Public_Primary_Certification_Authority_-_G3.pem
+lrwxrwxrwx 1 root root   31 mar 19 21:45 7f3d5d1d.0 -> DigiCert_Assured_ID_Root_G3.pem
+lrwxrwxrwx 1 root root   30 mar 19 21:45 812e17de.0 -> Deutsche_Telekom_Root_CA_2.pem
+lrwxrwxrwx 1 root root   34 mar 19 21:45 8160b96c.0 -> Microsec_e-Szigno_Root_CA_2009.pem
+lrwxrwxrwx 1 root root   38 mar 19 21:45 81b9768f.0 -> DigiCert_High_Assurance_EV_Root_CA.pem
+lrwxrwxrwx 1 root root   27 mar 19 21:45 82223c44.0 -> Buypass_Class_2_Root_CA.pem
+lrwxrwxrwx 1 root root   45 mar 19 21:45 85cde254.0 -> Starfield_Root_Certificate_Authority_-_G2.pem
+lrwxrwxrwx 1 root root   26 mar 19 21:45 86212b19.0 -> AffirmTrust_Networking.pem
+lrwxrwxrwx 1 root root   24 mar 19 21:45 87229d21.0 -> OpenTrust_Root_CA_G1.pem
+lrwxrwxrwx 1 root root   27 mar 19 21:45 87753b0d.0 -> GeoTrust_Universal_CA_2.pem
+lrwxrwxrwx 1 root root   20 mar 19 21:45 882de061.0 -> certSIGN_ROOT_CA.pem
+lrwxrwxrwx 1 root root   27 mar 19 21:45 8867006a.0 -> GeoTrust_Universal_CA_2.pem
+lrwxrwxrwx 1 root root   44 mar 19 21:45 88950faa.0 -> SSL.com_Root_Certification_Authority_ECC.pem
+lrwxrwxrwx 1 root root   38 mar 19 21:45 89c02a45.0 -> COMODO_ECC_Certification_Authority.pem
+lrwxrwxrwx 1 root root   20 mar 19 21:45 8cb5ee0f.0 -> Amazon_Root_CA_3.pem
+lrwxrwxrwx 1 root root   31 mar 19 21:45 8d6437c3.0 -> DigiCert_Assured_ID_Root_G2.pem
+lrwxrwxrwx 1 root root   20 mar 19 21:45 8d86cdd1.0 -> certSIGN_ROOT_CA.pem
+lrwxrwxrwx 1 root root   23 mar 19 21:45 9168f543.0 -> Certplus_Root_CA_G1.pem
+lrwxrwxrwx 1 root root   35 mar 19 21:45 91739615.0 -> EE_Certification_Centre_Root_CA.pem
+lrwxrwxrwx 1 root root   16 mar 19 21:45 9282e51c.0 -> CFCA_EV_ROOT.pem
+lrwxrwxrwx 1 root root   34 mar 19 21:45 930ac5d2.0 -> Actalis_Authentication_Root_CA.pem
+lrwxrwxrwx 1 root root   22 mar 19 21:45 9339512a.0 -> QuoVadis_Root_CA_3.pem
+lrwxrwxrwx 1 root root   26 mar 19 21:45 93bc0acc.0 -> AffirmTrust_Networking.pem
+lrwxrwxrwx 1 root root   63 mar 19 21:45 9479c8c3.0 -> Hellenic_Academic_and_Research_Institutions_ECC_RootCA_2015.pem
+lrwxrwxrwx 1 root root   20 mar 19 21:45 9576d26b.0 -> CA_Disig_Root_R2.pem
+lrwxrwxrwx 1 root root   29 mar 19 21:45 95aff9e3.0 -> Certum_Trusted_Network_CA.pem
+lrwxrwxrwx 1 root root   27 mar 19 21:45 9685a493.0 -> Hongkong_Post_Root_CA_1.pem
+lrwxrwxrwx 1 root root   44 mar 19 21:45 9772ca32.0 -> GeoTrust_Primary_Certification_Authority.pem
+lrwxrwxrwx 1 root root   48 mar 19 21:45 988a38cb.0 -> NetLock_Arany__Class_Gold__F__tan__s__tv__ny.pem
+lrwxrwxrwx 1 root root   29 mar 19 21:45 99d0fa06.0 -> CA_Cert_Signing_Authority.pem
+lrwxrwxrwx 1 root root   26 mar 19 21:45 9c2e7d30.0 -> Sonera_Class_2_Root_CA.pem
+lrwxrwxrwx 1 root root   24 mar 19 21:45 9c3323d4.0 -> OpenTrust_Root_CA_G1.pem
+lrwxrwxrwx 1 root root   27 mar 19 21:45 9c8dfbd4.0 -> AffirmTrust_Premium_ECC.pem
+lrwxrwxrwx 1 root root   31 mar 19 21:45 9d04f354.0 -> DigiCert_Assured_ID_Root_G2.pem
+lrwxrwxrwx 1 root root   37 mar 19 21:45 9d6523ce.0 -> ePKI_Root_Certification_Authority.pem
+lrwxrwxrwx 1 root root   24 mar 19 21:45 9f0f5fd6.0 -> Certinomis_-_Root_CA.pem
+lrwxrwxrwx 1 root root   34 mar 19 21:45 9f533518.0 -> Global_Chambersign_Root_-_2008.pem
+lrwxrwxrwx 1 root root   28 mar 19 21:45 a2c66da8.0 -> DigiCert_Trusted_Root_G4.pem
+lrwxrwxrwx 1 root root   34 mar 19 21:45 a3896b44.0 -> Security_Communication_Root_CA.pem
+lrwxrwxrwx 1 root root   26 mar 19 21:45 a7605362.0 -> Sonera_Class_2_Root_CA.pem
+lrwxrwxrwx 1 root root   23 mar 19 21:45 a760e1bd.0 -> Visa_eCommerce_Root.pem
+lrwxrwxrwx 1 root root   31 mar 19 21:45 a7d2cf64.0 -> thawte_Primary_Root_CA_-_G2.pem
+lrwxrwxrwx 1 root root   19 mar 19 21:45 a81e292b.0 -> SZAFIR_ROOT_CA2.pem
+lrwxrwxrwx 1 root root   13 mar 19 21:45 a94d09e5.0 -> ACCVRAIZ1.pem
+lrwxrwxrwx 1 root root   23 mar 19 21:45 ab5346f4.0 -> SecureSign_RootCA11.pem
+lrwxrwxrwx 1 root root   26 mar 19 21:45 ab59055e.0 -> GDCA_TrustAUTH_R5_ROOT.pem
+-r--r--r-- 1 root root 2772 mar 19 21:45 ACCVRAIZ1.pem
+-r--r--r-- 1 root root 1972 mar 19 21:45 AC_RAIZ_FNMT-RCM.pem
+-r--r--r-- 1 root root 2049 mar 19 21:45 Actalis_Authentication_Root_CA.pem
+lrwxrwxrwx 1 root root   25 mar 19 21:45 ad088e1d.0 -> GeoTrust_Universal_CA.pem
+-r--r--r-- 1 root root 1521 mar 19 21:45 AddTrust_External_Root.pem
+lrwxrwxrwx 1 root root   10 mar 19 21:45 aeb67534.0 -> EC-ACC.pem
+lrwxrwxrwx 1 root root   45 mar 19 21:45 aee5f10d.0 -> Entrust.net_Premium_2048_Secure_Server_CA.pem
+-r--r--r-- 1 root root 1204 mar 19 21:45 AffirmTrust_Commercial.pem
+-r--r--r-- 1 root root 1204 mar 19 21:45 AffirmTrust_Networking.pem
+-r--r--r-- 1 root root  753 mar 19 21:45 AffirmTrust_Premium_ECC.pem
+-r--r--r-- 1 root root 1891 mar 19 21:45 AffirmTrust_Premium.pem
+-r--r--r-- 1 root root 1188 mar 19 21:45 Amazon_Root_CA_1.pem
+-r--r--r-- 1 root root 1883 mar 19 21:45 Amazon_Root_CA_2.pem
+-r--r--r-- 1 root root  656 mar 19 21:45 Amazon_Root_CA_3.pem
+-r--r--r-- 1 root root  737 mar 19 21:45 Amazon_Root_CA_4.pem
+-r--r--r-- 1 root root 1261 mar 19 21:45 Atos_TrustedRoot_2011.pem
+-r--r--r-- 1 root root 2167 mar 19 21:45 Autoridad_de_Certificacion_Firmaprofesional_CIF_A62634068.pem
+lrwxrwxrwx 1 root root   31 mar 19 21:45 b0e59380.0 -> GlobalSign_ECC_Root_CA_-_R4.pem
+lrwxrwxrwx 1 root root   23 mar 19 21:45 b0ed035a.0 -> TWCA_Global_Root_CA.pem
+lrwxrwxrwx 1 root root   22 mar 19 21:45 b0f3e76e.0 -> GlobalSign_Root_CA.pem
+lrwxrwxrwx 1 root root   31 mar 19 21:45 b1159c4c.0 -> DigiCert_Assured_ID_Root_CA.pem
+lrwxrwxrwx 1 root root   35 mar 19 21:45 b1b8a7f3.0 -> OISTE_WISeKey_Global_Root_GA_CA.pem
+lrwxrwxrwx 1 root root   64 mar 19 21:45 b204d74a.0 -> VeriSign_Class_3_Public_Primary_Certification_Authority_-_G5.pem
+lrwxrwxrwx 1 root root   46 mar 19 21:45 b3fb433b.0 -> Entrust_Root_Certification_Authority_-_EC1.pem
+lrwxrwxrwx 1 root root   20 mar 19 21:45 b66938e9.0 -> Secure_Global_CA.pem
+lrwxrwxrwx 1 root root   23 mar 19 21:45 b727005e.0 -> AffirmTrust_Premium.pem
+lrwxrwxrwx 1 root root   37 mar 19 21:45 b7a5b843.0 -> TWCA_Root_Certification_Authority.pem
+lrwxrwxrwx 1 root root   37 mar 19 21:45 b7db1890.0 -> TWCA_Root_Certification_Authority.pem
+lrwxrwxrwx 1 root root   25 mar 19 21:45 b872f2b4.0 -> Atos_TrustedRoot_2011.pem
+lrwxrwxrwx 1 root root   20 mar 19 21:45 b936d1c6.0 -> AC_RAIZ_FNMT-RCM.pem
+lrwxrwxrwx 1 root root   31 mar 19 21:45 ba89ed3b.0 -> thawte_Primary_Root_CA_-_G3.pem
+-r--r--r-- 1 root root 1261 mar 19 21:45 Baltimore_CyberTrust_Root.pem
+lrwxrwxrwx 1 root root   44 mar 19 21:45 bc3f2570.0 -> Go_Daddy_Root_Certificate_Authority_-_G2.pem
+lrwxrwxrwx 1 root root   20 mar 19 21:45 bdacca6f.0 -> Secure_Global_CA.pem
+lrwxrwxrwx 1 root root   40 mar 19 21:45 bf64f35b.0 -> Entrust_Root_Certification_Authority.pem
+-r--r--r-- 1 root root 1915 mar 19 21:45 Buypass_Class_2_Root_CA.pem
+-r--r--r-- 1 root root 1915 mar 19 21:45 Buypass_Class_3_Root_CA.pem
+lrwxrwxrwx 1 root root   51 mar 19 21:45 c01cdfa2.0 -> VeriSign_Universal_Root_Certification_Authority.pem
+lrwxrwxrwx 1 root root   31 mar 19 21:45 c089bbbd.0 -> thawte_Primary_Root_CA_-_G2.pem
+lrwxrwxrwx 1 root root   64 mar 19 21:45 c0ff1f52.0 -> Verisign_Class_3_Public_Primary_Certification_Authority_-_G3.pem
+lrwxrwxrwx 1 root root   34 mar 19 21:45 c28a8a30.0 -> D-TRUST_Root_Class_3_CA_2_2009.pem
+lrwxrwxrwx 1 root root   18 mar 19 21:45 c2c1704e.0 -> TrustCor_ECA-1.pem
+lrwxrwxrwx 1 root root   36 mar 19 21:45 c47d9980.0 -> Chambers_of_Commerce_Root_-_2008.pem
+lrwxrwxrwx 1 root root   31 mar 19 21:45 c491639e.0 -> DigiCert_Assured_ID_Root_G3.pem
+lrwxrwxrwx 1 root root   23 mar 19 21:45 c51c224c.0 -> Trustis_FPS_Root_CA.pem
+lrwxrwxrwx 1 root root   49 mar 19 21:45 c7e2a638.0 -> GeoTrust_Primary_Certification_Authority_-_G3.pem
+lrwxrwxrwx 1 root root   26 mar 19 21:45 c907e29b.0 -> LuxTrust_Global_Root_2.pem
+lrwxrwxrwx 1 root root   27 mar 19 21:45 c90bc37d.0 -> DigiCert_Global_Root_G2.pem
+lrwxrwxrwx 1 root root   37 mar 19 21:45 ca6e4ad9.0 -> ePKI_Root_Certification_Authority.pem
+-r--r--r-- 1 root root 2610 mar 19 21:45 CAcert_Class_3_Root.pem
+-r--r--r-- 1 root root 2569 mar 19 21:45 CA_Cert_Signing_Authority.pem
+-r--r--r-- 1 root root 1935 mar 19 21:45 CA_Disig_Root_R2.pem
+lrwxrwxrwx 1 root root   35 mar 19 21:45 cb156124.0 -> E-Tugra_Certification_Authority.pem
+lrwxrwxrwx 1 root root   31 mar 19 21:45 cb1c3204.0 -> Certum_Trusted_Network_CA_2.pem
+lrwxrwxrwx 1 root root   44 mar 19 21:45 cbf06781.0 -> Go_Daddy_Root_Certificate_Authority_-_G2.pem
+lrwxrwxrwx 1 root root   14 mar 19 21:45 cc450945.0 -> Izenpe.com.pem
+lrwxrwxrwx 1 root root   27 mar 19 21:45 ccc52f49.0 -> AffirmTrust_Premium_ECC.pem
+lrwxrwxrwx 1 root root   34 mar 19 21:45 cd58d51e.0 -> Security_Communication_RootCA2.pem
+lrwxrwxrwx 1 root root   20 mar 19 21:45 cd8c0d63.0 -> AC_RAIZ_FNMT-RCM.pem
+lrwxrwxrwx 1 root root   20 mar 19 21:45 ce5e74ef.0 -> Amazon_Root_CA_1.pem
+-r--r--r-- 1 root root 1330 mar 19 21:45 Certigna.pem
+-r--r--r-- 1 root root 1992 mar 19 21:45 Certinomis_-_Root_CA.pem
+-r--r--r-- 1 root root 1298 mar 19 21:45 Certplus_Class_2_Primary_CA.pem
+-r--r--r-- 1 root root 1939 mar 19 21:45 Certplus_Root_CA_G1.pem
+-r--r--r-- 1 root root  794 mar 19 21:45 Certplus_Root_CA_G2.pem
+-r--r--r-- 1 root root 1176 mar 19 21:45 certSIGN_ROOT_CA.pem
+-r--r--r-- 1 root root 2078 mar 19 21:45 Certum_Trusted_Network_CA_2.pem
+-r--r--r-- 1 root root 1354 mar 19 21:45 Certum_Trusted_Network_CA.pem
+lrwxrwxrwx 1 root root   18 mar 19 21:45 cf701eeb.0 -> SecureTrust_CA.pem
+-r--r--r-- 1 root root 1984 mar 19 21:45 CFCA_EV_ROOT.pem
+-r--r--r-- 1 root root 2594 mar 19 21:45 Chambers_of_Commerce_Root_-_2008.pem
+-r--r--r-- 1 root root 1517 mar 19 21:45 Comodo_AAA_Services_root.pem
+-r--r--r-- 1 root root 1489 mar 19 21:45 COMODO_Certification_Authority.pem
+-r--r--r-- 1 root root  940 mar 19 21:45 COMODO_ECC_Certification_Authority.pem
+-r--r--r-- 1 root root 2086 mar 19 21:45 COMODO_RSA_Certification_Authority.pem
+-r--r--r-- 1 root root 1318 mar 19 21:45 Cybertrust_Global_Root.pem
+lrwxrwxrwx 1 root root   32 mar 19 21:45 d06393bb.0 -> T-TeleSec_GlobalRoot_Class_2.pem
+lrwxrwxrwx 1 root root   26 mar 19 21:45 d0cddf45.0 -> TrustCor_RootCert_CA-2.pem
+lrwxrwxrwx 1 root root   61 mar 19 21:45 d16a5865.0 -> Autoridad_de_Certificacion_Firmaprofesional_CIF_A62634068.pem
+lrwxrwxrwx 1 root root   34 mar 19 21:45 d18e9066.0 -> IdenTrust_Commercial_Root_CA_1.pem
+lrwxrwxrwx 1 root root   20 mar 19 21:45 d41b5e2a.0 -> Amazon_Root_CA_4.pem
+lrwxrwxrwx 1 root root   38 mar 19 21:45 d4c339cb.0 -> COMODO_RSA_Certification_Authority.pem
+lrwxrwxrwx 1 root root   37 mar 19 21:45 d4dae3dd.0 -> D-TRUST_Root_Class_3_CA_2_EV_2009.pem
+lrwxrwxrwx 1 root root   34 mar 19 21:45 d59297b8.0 -> Security_Communication_RootCA2.pem
+lrwxrwxrwx 1 root root   38 mar 19 21:45 d6325660.0 -> COMODO_RSA_Certification_Authority.pem
+lrwxrwxrwx 1 root root   24 mar 19 21:45 d6e6eab9.0 -> Certinomis_-_Root_CA.pem
+lrwxrwxrwx 1 root root   37 mar 19 21:45 d7746a63.0 -> D-TRUST_Root_Class_3_CA_2_EV_2009.pem
+lrwxrwxrwx 1 root root   22 mar 19 21:45 d7e8dc79.0 -> QuoVadis_Root_CA_2.pem
+lrwxrwxrwx 1 root root   23 mar 19 21:45 d8317ada.0 -> Certplus_Root_CA_G2.pem
+lrwxrwxrwx 1 root root   23 mar 19 21:45 d853d49e.0 -> Trustis_FPS_Root_CA.pem
+lrwxrwxrwx 1 root root   23 mar 19 21:45 dbc54cab.0 -> AffirmTrust_Premium.pem
+lrwxrwxrwx 1 root root   59 mar 19 21:45 dc99f41e.0 -> Hellenic_Academic_and_Research_Institutions_RootCA_2015.pem
+lrwxrwxrwx 1 root root   27 mar 19 21:45 dd8e9d41.0 -> DigiCert_Global_Root_G3.pem
+lrwxrwxrwx 1 root root   20 mar 19 21:45 de6d66f3.0 -> Amazon_Root_CA_4.pem
+lrwxrwxrwx 1 root root   26 mar 19 21:45 def36a68.0 -> LuxTrust_Global_Root_2.pem
+-r--r--r-- 1 root root 1318 mar 19 21:45 Deutsche_Telekom_Root_CA_2.pem
+lrwxrwxrwx 1 root root   35 mar 19 21:45 dfc0fe80.0 -> OISTE_WISeKey_Global_Root_GB_CA.pem
+-r--r--r-- 1 root root 1350 mar 19 21:45 DigiCert_Assured_ID_Root_CA.pem
+-r--r--r-- 1 root root 1306 mar 19 21:45 DigiCert_Assured_ID_Root_G2.pem
+-r--r--r-- 1 root root  851 mar 19 21:45 DigiCert_Assured_ID_Root_G3.pem
+-r--r--r-- 1 root root 1338 mar 19 21:45 DigiCert_Global_Root_CA.pem
+-r--r--r-- 1 root root 1294 mar 19 21:45 DigiCert_Global_Root_G2.pem
+-r--r--r-- 1 root root  839 mar 19 21:45 DigiCert_Global_Root_G3.pem
+-r--r--r-- 1 root root 1367 mar 19 21:45 DigiCert_High_Assurance_EV_Root_CA.pem
+-r--r--r-- 1 root root 1988 mar 19 21:45 DigiCert_Trusted_Root_G4.pem
+-r--r--r-- 1 root root 1200 mar 19 21:45 DST_Root_CA_X3.pem
+-r--r--r-- 1 root root 1517 mar 19 21:45 D-TRUST_Root_Class_3_CA_2_2009.pem
+-r--r--r-- 1 root root 1537 mar 19 21:45 D-TRUST_Root_Class_3_CA_2_EV_2009.pem
+lrwxrwxrwx 1 root root   12 mar 19 21:45 e113c810.0 -> Certigna.pem
+lrwxrwxrwx 1 root root   25 mar 19 21:45 e18bfb83.0 -> QuoVadis_Root_CA_3_G3.pem
+lrwxrwxrwx 1 root root   49 mar 19 21:45 e2799e36.0 -> GeoTrust_Primary_Certification_Authority_-_G3.pem
+lrwxrwxrwx 1 root root   25 mar 19 21:45 e36a6752.0 -> Atos_TrustedRoot_2011.pem
+lrwxrwxrwx 1 root root   25 mar 19 21:45 e442e424.0 -> QuoVadis_Root_CA_3_G3.pem
+lrwxrwxrwx 1 root root   26 mar 19 21:45 e48193cf.0 -> AffirmTrust_Commercial.pem
+lrwxrwxrwx 1 root root   23 mar 19 21:45 e5662767.0 -> CAcert_Class_3_Root.pem
+lrwxrwxrwx 1 root root   35 mar 19 21:45 e73d606e.0 -> OISTE_WISeKey_Global_Root_GB_CA.pem
+lrwxrwxrwx 1 root root   25 mar 19 21:45 e775ed2d.0 -> GeoTrust_Universal_CA.pem
+lrwxrwxrwx 1 root root   34 mar 19 21:45 e8651083.0 -> Microsec_e-Szigno_Root_CA_2009.pem
+lrwxrwxrwx 1 root root   27 mar 19 21:45 e8de2f56.0 -> Buypass_Class_3_Root_CA.pem
+-r--r--r-- 1 root root 1911 mar 19 21:45 EC-ACC.pem
+lrwxrwxrwx 1 root root   27 mar 19 21:45 ed39abd0.0 -> DigiCert_Global_Root_G3.pem
+lrwxrwxrwx 1 root root   28 mar 19 21:45 ee64a828.0 -> Comodo_AAA_Services_root.pem
+-r--r--r-- 1 root root 1452 mar 19 21:45 EE_Certification_Centre_Root_CA.pem
+lrwxrwxrwx 1 root root   38 mar 19 21:45 eed8c118.0 -> COMODO_ECC_Certification_Authority.pem
+lrwxrwxrwx 1 root root   34 mar 19 21:45 ef954a4e.0 -> IdenTrust_Commercial_Root_CA_1.pem
+-r--r--r-- 1 root root 1505 mar 19 21:45 Entrust.net_Premium_2048_Secure_Server_CA.pem
+-r--r--r-- 1 root root 1090 mar 19 21:45 Entrust_Root_Certification_Authority_-_EC1.pem
+-r--r--r-- 1 root root 1533 mar 19 21:45 Entrust_Root_Certification_Authority_-_G2.pem
+-r--r--r-- 1 root root 1643 mar 19 21:45 Entrust_Root_Certification_Authority.pem
+-r--r--r-- 1 root root 2033 mar 19 21:45 ePKI_Root_Certification_Authority.pem
+-r--r--r-- 1 root root 2244 mar 19 21:45 E-Tugra_Certification_Authority.pem
+lrwxrwxrwx 1 root root   31 mar 19 21:45 f060240e.0 -> Certplus_Class_2_Primary_CA.pem
+lrwxrwxrwx 1 root root   23 mar 19 21:45 f081611a.0 -> Go_Daddy_Class_2_CA.pem
+lrwxrwxrwx 1 root root   47 mar 19 21:45 f0c70a8d.0 -> SSL.com_EV_Root_Certification_Authority_ECC.pem
+lrwxrwxrwx 1 root root   41 mar 19 21:45 f30dd6ad.0 -> USERTrust_ECC_Certification_Authority.pem
+lrwxrwxrwx 1 root root   34 mar 19 21:45 f3377b1b.0 -> Security_Communication_Root_CA.pem
+lrwxrwxrwx 1 root root   24 mar 19 21:45 f387163d.0 -> Starfield_Class_2_CA.pem
+lrwxrwxrwx 1 root root   18 mar 19 21:45 f39fc864.0 -> SecureTrust_CA.pem
+lrwxrwxrwx 1 root root   64 mar 19 21:45 facacbc6.0 -> VeriSign_Class_3_Public_Primary_Certification_Authority_-_G5.pem
+lrwxrwxrwx 1 root root   20 mar 19 21:45 fb5fa911.0 -> Amazon_Root_CA_2.pem
+lrwxrwxrwx 1 root root   41 mar 19 21:45 fc5a8f99.0 -> USERTrust_RSA_Certification_Authority.pem
+lrwxrwxrwx 1 root root   20 mar 19 21:45 fd08c599.0 -> Amazon_Root_CA_1.pem
+lrwxrwxrwx 1 root root   12 mar 19 21:45 fde84897.0 -> Certigna.pem
+lrwxrwxrwx 1 root root   19 mar 19 21:45 fe8a2cd8.0 -> SZAFIR_ROOT_CA2.pem
+lrwxrwxrwx 1 root root   49 mar 19 21:45 ff34af3f.0 -> TUBITAK_Kamu_SM_SSL_Kok_Sertifikasi_-_Surum_1.pem
+-r--r--r-- 1 root root 1980 mar 19 21:45 GDCA_TrustAUTH_R5_ROOT.pem
+-r--r--r-- 1 root root 1216 mar 19 21:45 GeoTrust_Global_CA.pem
+-r--r--r-- 1 root root  989 mar 19 21:45 GeoTrust_Primary_Certification_Authority_-_G2.pem
+-r--r--r-- 1 root root 1444 mar 19 21:45 GeoTrust_Primary_Certification_Authority_-_G3.pem
+-r--r--r-- 1 root root 1269 mar 19 21:45 GeoTrust_Primary_Certification_Authority.pem
+-r--r--r-- 1 root root 1939 mar 19 21:45 GeoTrust_Universal_CA_2.pem
+-r--r--r-- 1 root root 1935 mar 19 21:45 GeoTrust_Universal_CA.pem
+-r--r--r-- 1 root root 2585 mar 19 21:45 Global_Chambersign_Root_-_2008.pem
+-r--r--r-- 1 root root  713 mar 19 21:45 GlobalSign_ECC_Root_CA_-_R4.pem
+-r--r--r-- 1 root root  794 mar 19 21:45 GlobalSign_ECC_Root_CA_-_R5.pem
+-r--r--r-- 1 root root 1261 mar 19 21:45 GlobalSign_Root_CA.pem
+-r--r--r-- 1 root root 1354 mar 19 21:45 GlobalSign_Root_CA_-_R2.pem
+-r--r--r-- 1 root root 1229 mar 19 21:45 GlobalSign_Root_CA_-_R3.pem
+-r--r--r-- 1 root root 1448 mar 19 21:45 Go_Daddy_Class_2_CA.pem
+-r--r--r-- 1 root root 1367 mar 19 21:45 Go_Daddy_Root_Certificate_Authority_-_G2.pem
+-r--r--r-- 1 root root 1017 mar 19 21:45 Hellenic_Academic_and_Research_Institutions_ECC_RootCA_2015.pem
+-r--r--r-- 1 root root 1513 mar 19 21:45 Hellenic_Academic_and_Research_Institutions_RootCA_2011.pem
+-r--r--r-- 1 root root 2155 mar 19 21:45 Hellenic_Academic_and_Research_Institutions_RootCA_2015.pem
+-r--r--r-- 1 root root 1168 mar 19 21:45 Hongkong_Post_Root_CA_1.pem
+-r--r--r-- 1 root root 1923 mar 19 21:45 IdenTrust_Commercial_Root_CA_1.pem
+-r--r--r-- 1 root root 1931 mar 19 21:45 IdenTrust_Public_Sector_Root_CA_1.pem
+-r--r--r-- 1 root root 1939 mar 19 21:45 ISRG_Root_X1.pem
+-r--r--r-- 1 root root 2122 mar 19 21:45 Izenpe.com.pem
+-r--r--r-- 1 root root 2057 mar 19 21:45 LuxTrust_Global_Root_2.pem
+-r--r--r-- 1 root root 1460 mar 19 21:45 Microsec_e-Szigno_Root_CA_2009.pem
+-r--r--r-- 1 root root 1476 mar 19 21:45 NetLock_Arany__Class_Gold__F__tan__s__tv__ny.pem
+-r--r--r-- 1 root root 1411 mar 19 21:45 Network_Solutions_Certificate_Authority.pem
+-r--r--r-- 1 root root 1428 mar 19 21:45 OISTE_WISeKey_Global_Root_GA_CA.pem
+-r--r--r-- 1 root root 1346 mar 19 21:45 OISTE_WISeKey_Global_Root_GB_CA.pem
+-r--r--r-- 1 root root 1944 mar 19 21:45 OpenTrust_Root_CA_G1.pem
+-r--r--r-- 1 root root 1944 mar 19 21:45 OpenTrust_Root_CA_G2.pem
+-r--r--r-- 1 root root  798 mar 19 21:45 OpenTrust_Root_CA_G3.pem
+-r--r--r-- 1 root root 1923 mar 19 21:45 QuoVadis_Root_CA_1_G3.pem
+-r--r--r-- 1 root root 1923 mar 19 21:45 QuoVadis_Root_CA_2_G3.pem
+-r--r--r-- 1 root root 2041 mar 19 21:45 QuoVadis_Root_CA_2.pem
+-r--r--r-- 1 root root 1923 mar 19 21:45 QuoVadis_Root_CA_3_G3.pem
+-r--r--r-- 1 root root 2354 mar 19 21:45 QuoVadis_Root_CA_3.pem
+-r--r--r-- 1 root root 2078 mar 19 21:45 QuoVadis_Root_CA.pem
+-r--r--r-- 1 root root 1354 mar 19 21:45 Secure_Global_CA.pem
+-r--r--r-- 1 root root 1249 mar 19 21:45 SecureSign_RootCA11.pem
+-r--r--r-- 1 root root 1350 mar 19 21:45 SecureTrust_CA.pem
+-r--r--r-- 1 root root 1261 mar 19 21:45 Security_Communication_RootCA2.pem
+-r--r--r-- 1 root root 1224 mar 19 21:45 Security_Communication_Root_CA.pem
+-r--r--r-- 1 root root 1143 mar 19 21:45 Sonera_Class_2_Root_CA.pem
+-r--r--r-- 1 root root  956 mar 19 21:45 SSL.com_EV_Root_Certification_Authority_ECC.pem
+-r--r--r-- 1 root root 2114 mar 19 21:45 SSL.com_EV_Root_Certification_Authority_RSA_R2.pem
+-r--r--r-- 1 root root  944 mar 19 21:45 SSL.com_Root_Certification_Authority_ECC.pem
+-r--r--r-- 1 root root 2094 mar 19 21:45 SSL.com_Root_Certification_Authority_RSA.pem
+-r--r--r-- 1 root root 1948 mar 19 21:45 Staat_der_Nederlanden_EV_Root_CA.pem
+-r--r--r-- 1 root root 2069 mar 19 21:45 Staat_der_Nederlanden_Root_CA_-_G2.pem
+-r--r--r-- 1 root root 1952 mar 19 21:45 Staat_der_Nederlanden_Root_CA_-_G3.pem
+-r--r--r-- 1 root root 1468 mar 19 21:45 Starfield_Class_2_CA.pem
+-r--r--r-- 1 root root 1399 mar 19 21:45 Starfield_Root_Certificate_Authority_-_G2.pem
+-r--r--r-- 1 root root 1424 mar 19 21:45 Starfield_Services_Root_Certificate_Authority_-_G2.pem
+-r--r--r-- 1 root root 2045 mar 19 21:45 SwissSign_Gold_CA_-_G2.pem
+-r--r--r-- 1 root root 2049 mar 19 21:45 SwissSign_Silver_CA_-_G2.pem
+-r--r--r-- 1 root root 1257 mar 19 21:45 SZAFIR_ROOT_CA2.pem
+-r--r--r-- 1 root root 1948 mar 19 21:45 Taiwan_GRCA.pem
+-r--r--r-- 1 root root 1870 mar 19 21:45 TeliaSonera_Root_CA_v1.pem
+-r--r--r-- 1 root root  940 mar 19 21:45 thawte_Primary_Root_CA_-_G2.pem
+-r--r--r-- 1 root root 1505 mar 19 21:45 thawte_Primary_Root_CA_-_G3.pem
+-r--r--r-- 1 root root 1493 mar 19 21:45 thawte_Primary_Root_CA.pem
+-r--r--r-- 1 root root 1501 mar 19 21:45 T__RKTRUST_Elektronik_Sertifika_Hizmet_Sa__lay__c__s___H5.pem
+-r--r--r-- 1 root root 1493 mar 19 21:45 TrustCor_ECA-1.pem
+-r--r--r-- 1 root root 1513 mar 19 21:45 TrustCor_RootCert_CA-1.pem
+-r--r--r-- 1 root root 2204 mar 19 21:45 TrustCor_RootCert_CA-2.pem
+-r--r--r-- 1 root root 1241 mar 19 21:45 Trustis_FPS_Root_CA.pem
+-r--r--r-- 1 root root 1367 mar 19 21:45 T-TeleSec_GlobalRoot_Class_2.pem
+-r--r--r-- 1 root root 1367 mar 19 21:45 T-TeleSec_GlobalRoot_Class_3.pem
+-r--r--r-- 1 root root 1582 mar 19 21:45 TUBITAK_Kamu_SM_SSL_Kok_Sertifikasi_-_Surum_1.pem
+-r--r--r-- 1 root root 1883 mar 19 21:45 TWCA_Global_Root_CA.pem
+-r--r--r-- 1 root root 1269 mar 19 21:45 TWCA_Root_Certification_Authority.pem
+-r--r--r-- 1 root root  948 mar 19 21:45 USERTrust_ECC_Certification_Authority.pem
+-r--r--r-- 1 root root 2094 mar 19 21:45 USERTrust_RSA_Certification_Authority.pem
+-r--r--r-- 1 root root 1484 mar 19 21:45 Verisign_Class_3_Public_Primary_Certification_Authority_-_G3.pem
+-r--r--r-- 1 root root 1281 mar 19 21:45 VeriSign_Class_3_Public_Primary_Certification_Authority_-_G4.pem
+-r--r--r-- 1 root root 1732 mar 19 21:45 VeriSign_Class_3_Public_Primary_Certification_Authority_-_G5.pem
+-r--r--r-- 1 root root 1700 mar 19 21:45 VeriSign_Universal_Root_Certification_Authority.pem
+-r--r--r-- 1 root root 1322 mar 19 21:45 Visa_eCommerce_Root.pem
+-r--r--r-- 1 root root 1513 mar 19 21:45 XRamp_Global_CA_Root.pem
+
+/etc/ca-certificates/trust-source:
+total 8
+drwxr-xr-x 2 root root 4096 mar  7  2017 anchors
+drwxr-xr-x 2 root root 4096 mar  7  2017 blacklist
+
+/etc/ca-certificates/trust-source/anchors:
+total 0
+
+/etc/ca-certificates/trust-source/blacklist:
+total 0
+
+/etc/cifs-utils:
+total 0
+lrwxrwxrwx 1 root root 30 mar 17  2017 idmap-plugin -> /usr/lib/cifs-utils/idmapwb.so
+
+/etc/conf.d:
+total 24
+-rw-r--r-- 1 root root   73 dez 18 07:44 rpcbind
+-rw-r--r-- 1 root root  428 mar 13 09:54 samba
+-rw-r--r-- 1 root root  173 out 28  2016 sensord
+-rw-r--r-- 1 root root   62 jan 20 07:36 sndiod
+-rw-r--r-- 1 root root   99 jan  3 05:51 svnserve
+-rw-r--r-- 1 root root 3876 nov 25 06:33 wireless-regdom
+
+/etc/cron.d:
+total 4
+-rw-r--r-- 1 root root 128 jun 29  2016 0hourly
+
+/etc/cron.daily:
+total 0
+
+/etc/cron.hourly:
+total 4
+-rwxr-xr-x 1 root root 392 jun 29  2016 0anacron
+
+/etc/cron.monthly:
+total 0
+
+/etc/cron.weekly:
+total 0
+
+/etc/cups:
+total 88
+-rw------- 1 root cups     0 jan 27 07:26 classes.conf
+-rw-r--r-- 1 root cups 26953 mar  6 16:37 cups-browsed.conf
+-rw-r----- 1 root cups  6346 jan 27 07:26 cupsd.conf
+-rw-r----- 1 root cups  6346 jan 27 07:26 cupsd.conf.default
+-rw-r----- 1 root cups  2943 jan 27 07:26 cups-files.conf
+-rw-r----- 1 root cups  2943 jan 27 07:26 cups-files.conf.default
+-rw-r--r-- 1 root cups 10776 fev  1 18:45 cups-pdf.conf
+drwxr-xr-x 2 root cups  4096 jan 27 07:26 ppd
+-rw------- 1 root cups     0 jan 27 07:26 printers.conf
+-rw-r----- 1 root cups   142 jan 27 07:26 snmp.conf
+-rw-r----- 1 root cups   142 jan 27 07:26 snmp.conf.default
+drwx------ 2 root cups  4096 jan 27 07:26 ssl
+-rw-r----- 1 root cups   398 abr 15 17:38 subscriptions.conf
+-rw-r----- 1 root cups   111 abr 12 22:48 subscriptions.conf.O
+
+/etc/cups/ppd:
+total 0
+
+/etc/cupshelpers:
+total 12
+-rw-r--r-- 1 root root 10135 fev  8 14:03 preferreddrivers.xml
+
+/etc/dbus-1:
+total 12
+-rw-r--r-- 1 root root  838 mar  1 22:35 session.conf
+-rw-r--r-- 1 root root  833 mar  1 22:35 system.conf
+drwxr-xr-x 2 root root 4096 mar 25 14:29 system.d
+
+/etc/dbus-1/system.d:
+total 164
+-rw-r--r-- 1 root root 1146 jan  8 23:51 avahi-dbus.conf
+-rw-r--r-- 1 root root 1315 mar 11 15:42 bluetooth.conf
+-rw-r--r-- 1 root root 1007 fev  8 14:03 com.redhat.NewPrinterNotification.conf
+-rw-r--r-- 1 root root 1016 fev  8 14:03 com.redhat.PrinterDriversInstaller.conf
+-r--r--r-- 1 root root  460 jan 27 07:26 cups.conf
+-rw-r--r-- 1 root root  775 nov 22 13:05 nm-openconnect-service.conf
+-rw-r--r-- 1 root root  506 nov 22 13:04 nm-openvpn-service.conf
+-rw-r--r-- 1 root root  562 nov 22 13:07 nm-pptp-service.conf
+-rw-r--r-- 1 root root  494 nov 22 13:06 nm-vpnc-service.conf
+-rw-r--r-- 1 root root  917 abr 21  2017 org.freedesktop.Accounts.conf
+-rw-r--r-- 1 root root  708 mai 30  2017 org.freedesktop.GeoClue2.Agent.conf
+-rw-r--r-- 1 root root 1222 mai 30  2017 org.freedesktop.GeoClue2.conf
+-rw-r--r-- 1 root root 1470 mai 19  2017 org.freedesktop.NetworkManager.Manjaro.conf
+-rw-r--r-- 1 root root  638 jan 14 12:49 org.freedesktop.PolicyKit1.conf
+-rw-r--r-- 1 root root 1075 nov 22 13:32 org.freedesktop.RealtimeKit1.conf
+-rw-r--r-- 1 root root  525 fev 12 07:20 org.freedesktop.UDisks2.conf
+-rw-r--r-- 1 root root 1555 dez 15 21:34 org.freedesktop.UPower.conf
+-rw-r--r-- 1 root root  570 ago  8  2016 org.gnome.GConf.Defaults.conf
+-rw-r--r-- 1 root root  434 nov  4 23:51 org.kde.auth.conf
+-rw-r--r-- 1 root root  295 mar  6 11:05 org.kde.fontinst.conf
+-rw-r--r-- 1 root root  304 mar  6 11:05 org.kde.kcontrol.kcmclock.conf
+-rw-r--r-- 1 root root  307 mar  6 07:18 org.kde.kcontrol.kcmkwallet5.conf
+-rw-r--r-- 1 root root  303 mar  6 11:13 org.kde.kcontrol.kcmsddm.conf
+-rw-r--r-- 1 root root  306 dez  8  2015 org.kde.kcontrol.kcmsystemd.conf
+-rw-r--r-- 1 root root  443 mar  3 07:01 org.kde.kf5auth.conf
+-rw-r--r-- 1 root root  295 mar  9 21:37 org.kde.kio.file.conf
+-rw-r--r-- 1 root root  314 mar  6 10:47 org.kde.ksysguard.processlisthelper.conf
+-rw-r--r-- 1 root root  313 mar  9 22:12 org.kde.ktexteditor.katetextbuffer.conf
+-rw-r--r-- 1 root root  313 fev 20 03:36 org.kde.powerdevil.backlighthelper.conf
+-rw-r--r-- 1 root root  315 fev 20 03:36 org.kde.powerdevil.discretegpuhelper.conf
+-rw-r--r-- 1 root root  301 mar 22 04:53 org.manjaro.msm.kernel.conf
+-rw-r--r-- 1 root root  303 mar 22 04:53 org.manjaro.msm.keyboard.conf
+-rw-r--r-- 1 root root  311 mar 22 04:53 org.manjaro.msm.languagepackages.conf
+-rw-r--r-- 1 root root  301 mar 22 04:53 org.manjaro.msm.locale.conf
+-rw-r--r-- 1 root root  299 mar 22 04:53 org.manjaro.msm.mhwd.conf
+-rw-r--r-- 1 root root  300 mar 22 04:53 org.manjaro.msm.users.conf
+-rw-r--r-- 1 root root  597 mar 15 19:48 org.octopi.pacmanhelper.conf
+-rw-r--r-- 1 root root  535 mar  5  2016 org.opensuse.CupsPkHelper.Mechanism.conf
+-rw-r--r-- 1 root root 1180 dez  5 14:00 sddm_org.freedesktop.DisplayManager.conf
+-rw-r--r-- 1 root root  409 nov 10 11:05 teamd.conf
+-rw-r--r-- 1 root root 1096 out 16 07:27 wpa_supplicant.conf
+
+/etc/default:
+total 36
+-rw-r--r-- 1 root root  1007 jan 30 01:01 cpupower
+-rw-r--r-- 1 root root  1672 fev 14 16:00 grub
+-rw-r--r-- 1 root root   160 fev 14 16:00 keyboard
+-rw-r--r-- 1 root root   230 fev 14 16:00 locale
+-rw-r--r-- 1 root root   865 jun  9  2016 passwd
+-rw-r--r-- 1 root root 11820 jan 24 18:43 tlp
+-rw-r--r-- 1 root root   160 dez 16 14:03 useradd
+
+/etc/depmod.d:
+total 0
+
+/etc/exports.d:
+total 0
+
+/etc/fonts:
+total 20
+drwxr-xr-x 2 root root 4096 mar 25 14:29 conf.avail
+drwxr-xr-x 2 root root 4096 fev 25 21:13 conf.d
+-rw-r--r-- 1 root root 2339 nov 14 18:00 fonts.conf
+-rw-r--r-- 1 root root 7250 nov 14 18:00 fonts.dtd
+
+/etc/fonts/conf.avail:
+total 304
+-rw-r--r-- 1 root root   293 mar  4 06:54 09-texlive-fonts.conf
+-rw-r--r-- 1 root root   484 nov 14 18:00 10-autohint.conf
+-rw-r--r-- 1 root root   461 nov 14 18:00 10-hinting-full.conf
+-rw-r--r-- 1 root root   463 nov 14 18:00 10-hinting-medium.conf
+-rw-r--r-- 1 root root   461 nov 14 18:00 10-hinting-none.conf
+-rw-r--r-- 1 root root   463 nov 14 18:00 10-hinting-slight.conf
+-rw-r--r-- 1 root root   491 nov 14 18:00 10-no-sub-pixel.conf
+-rw-r--r-- 1 root root  2010 nov 14 18:00 10-scale-bitmap-fonts.conf
+-rw-r--r-- 1 root root   489 nov 14 18:00 10-sub-pixel-bgr.conf
+-rw-r--r-- 1 root root   489 nov 14 18:00 10-sub-pixel-rgb.conf
+-rw-r--r-- 1 root root   490 nov 14 18:00 10-sub-pixel-vbgr.conf
+-rw-r--r-- 1 root root   490 nov 14 18:00 10-sub-pixel-vrgb.conf
+-rw-r--r-- 1 root root   481 nov 14 18:00 10-unhinted.conf
+-rw-r--r-- 1 root root   526 nov 14 18:00 11-lcdfilter-default.conf
+-rw-r--r-- 1 root root   524 nov 14 18:00 11-lcdfilter-legacy.conf
+-rw-r--r-- 1 root root   522 nov 14 18:00 11-lcdfilter-light.conf
+-rw-r--r-- 1 root root   856 fev 16 21:03 20-unhint-small-dejavu-sans.conf
+-rw-r--r-- 1 root root   866 fev 16 21:03 20-unhint-small-dejavu-sans-mono.conf
+-rw-r--r-- 1 root root   858 fev 16 21:03 20-unhint-small-dejavu-serif.conf
+-rw-r--r-- 1 root root  1259 nov 14 18:00 20-unhint-small-vera.conf
+-rw-r--r-- 1 root root  3256 nov 14 18:00 25-unhint-nonlatin.conf
+-rw-r--r-- 1 root root 13013 nov 14 18:00 30-metric-aliases.conf
+-rw-r--r-- 1 root root   482 jan 14  2017 30-ttf-liberation-mono.conf
+-rw-r--r-- 1 root root   483 jan 14  2017 30-ttf-liberation-sans.conf
+-rw-r--r-- 1 root root   485 jan 14  2017 30-ttf-liberation-serif.conf
+-rwxr-xr-x 1 root root   278 jul 12  2017 33-TerminusPcfFont.conf
+-rw-r--r-- 1 root root  5182 nov 14 18:00 40-nonlatin.conf
+-rw-r--r-- 1 root root  3299 nov 14 18:00 45-generic.conf
+-rw-r--r-- 1 root root  6362 nov 14 18:00 45-latin.conf
+-rw-r--r-- 1 root root   545 nov 14 18:00 49-sansserif.conf
+-rw-r--r-- 1 root root   673 nov 14 18:00 50-user.conf
+-rw-r--r-- 1 root root   189 nov 14 18:00 51-local.conf
+-rw-r--r-- 1 root root  1711 fev 16 21:03 57-dejavu-sans.conf
+-rw-r--r-- 1 root root  1201 fev 16 21:03 57-dejavu-sans-mono.conf
+-rw-r--r-- 1 root root  1357 fev 16 21:03 57-dejavu-serif.conf
+-rw-r--r-- 1 root root  1795 nov 14 18:00 60-generic.conf
+-rw-r--r-- 1 root root  1833 nov 14 18:00 60-latin.conf
+-rw-r--r-- 1 root root   345 jan 12  2017 60-ttf-droid-sans-mono-fontconfig.conf
+-rw-r--r-- 1 root root 10118 nov 14 18:00 65-fonts-persian.conf
+-rw-r--r-- 1 root root   289 nov 14 18:00 65-khmer.conf
+-rw-r--r-- 1 root root  7931 nov 14 18:00 65-nonlatin.conf
+-rw-r--r-- 1 root root   348 jan 12  2017 65-ttf-droid-kufi-fontconfig.conf
+-rw-r--r-- 1 root root  7170 jan 12  2017 65-ttf-droid-sans-fontconfig.conf
+-rw-r--r-- 1 root root  1432 jan 12  2017 65-ttf-droid-serif-fontconfig.conf
+-rw-r--r-- 1 root root   316 nov 23 13:49 66-noto-mono.conf
+-rw-r--r-- 1 root root   318 nov 23 13:49 66-noto-sans.conf
+-rw-r--r-- 1 root root   310 nov 23 13:49 66-noto-serif.conf
+-rw-r--r-- 1 root root  1003 set 16  2017 69-c059.conf
+-rw-r--r-- 1 root root  1022 set 16  2017 69-d050000l.conf
+-rw-r--r-- 1 root root   899 set 16  2017 69-nimbus-mono-ps.conf
+-rw-r--r-- 1 root root   877 set 16  2017 69-nimbus-roman.conf
+-rw-r--r-- 1 root root   890 set 16  2017 69-nimbus-sans.conf
+-rw-r--r-- 1 root root   942 set 16  2017 69-nimbus-sans-narrow.conf
+-rw-r--r-- 1 root root   975 set 16  2017 69-p052.conf
+-rw-r--r-- 1 root root  1061 set 16  2017 69-standard-symbols-ps.conf
+-rw-r--r-- 1 root root   672 nov 14 18:00 69-unifont.conf
+-rw-r--r-- 1 root root  1021 set 16  2017 69-urw-bookman.conf
+-rw-r--r-- 1 root root  7891 set 16  2017 69-urw-fallback.conf
+-rw-r--r-- 1 root root   913 set 16  2017 69-urw-gothic.conf
+-rw-r--r-- 1 root root   865 set 16  2017 69-z003.conf
+-rw-r--r-- 1 root root   263 nov 14 18:00 70-no-bitmaps.conf
+-rw-r--r-- 1 root root   263 nov 14 18:00 70-yes-bitmaps.conf
+-rw-r--r-- 1 root root   341 mar 19 07:19 75-ttf-inconsolata.conf
+-rw-r--r-- 1 root root   269 jul 12  2017 75-yes-terminus.conf
+-rw-r--r-- 1 root root   422 nov 14 18:00 80-delicious.conf
+-rw-r--r-- 1 root root  1691 nov 14 18:00 90-synthetic.conf
+
+/etc/fonts/conf.d:
+total 4
+lrwxrwxrwx 1 root root  44 nov 14 18:00 10-hinting-slight.conf -> /etc/fonts/conf.avail/10-hinting-slight.conf
+lrwxrwxrwx 1 root root  48 nov 14 18:00 10-scale-bitmap-fonts.conf -> /etc/fonts/conf.avail/10-scale-bitmap-fonts.conf
+lrwxrwxrwx 1 root root  46 fev 16 21:03 20-unhint-small-dejavu-sans.conf -> ../conf.avail/20-unhint-small-dejavu-sans.conf
+lrwxrwxrwx 1 root root  51 fev 16 21:03 20-unhint-small-dejavu-sans-mono.conf -> ../conf.avail/20-unhint-small-dejavu-sans-mono.conf
+lrwxrwxrwx 1 root root  47 fev 16 21:03 20-unhint-small-dejavu-serif.conf -> ../conf.avail/20-unhint-small-dejavu-serif.conf
+lrwxrwxrwx 1 root root  47 nov 14 18:00 20-unhint-small-vera.conf -> /etc/fonts/conf.avail/20-unhint-small-vera.conf
+lrwxrwxrwx 1 root root  44 nov 14 18:00 30-metric-aliases.conf -> /etc/fonts/conf.avail/30-metric-aliases.conf
+lrwxrwxrwx 1 root root  37 jul 12  2017 33-TerminusPcfFont.conf -> ../conf.avail/33-TerminusPcfFont.conf
+lrwxrwxrwx 1 root root  38 nov 14 18:00 40-nonlatin.conf -> /etc/fonts/conf.avail/40-nonlatin.conf
+lrwxrwxrwx 1 root root  37 nov 14 18:00 45-generic.conf -> /etc/fonts/conf.avail/45-generic.conf
+lrwxrwxrwx 1 root root  35 nov 14 18:00 45-latin.conf -> /etc/fonts/conf.avail/45-latin.conf
+lrwxrwxrwx 1 root root  39 nov 14 18:00 49-sansserif.conf -> /etc/fonts/conf.avail/49-sansserif.conf
+lrwxrwxrwx 1 root root  34 nov 14 18:00 50-user.conf -> /etc/fonts/conf.avail/50-user.conf
+lrwxrwxrwx 1 root root  35 nov 14 18:00 51-local.conf -> /etc/fonts/conf.avail/51-local.conf
+lrwxrwxrwx 1 root root  33 fev 16 21:03 57-dejavu-sans.conf -> ../conf.avail/57-dejavu-sans.conf
+lrwxrwxrwx 1 root root  38 fev 16 21:03 57-dejavu-sans-mono.conf -> ../conf.avail/57-dejavu-sans-mono.conf
+lrwxrwxrwx 1 root root  34 fev 16 21:03 57-dejavu-serif.conf -> ../conf.avail/57-dejavu-serif.conf
+lrwxrwxrwx 1 root root  37 nov 14 18:00 60-generic.conf -> /etc/fonts/conf.avail/60-generic.conf
+lrwxrwxrwx 1 root root  35 nov 14 18:00 60-latin.conf -> /etc/fonts/conf.avail/60-latin.conf
+lrwxrwxrwx 1 root root  43 nov 14 18:00 65-fonts-persian.conf -> /etc/fonts/conf.avail/65-fonts-persian.conf
+lrwxrwxrwx 1 root root  38 nov 14 18:00 65-nonlatin.conf -> /etc/fonts/conf.avail/65-nonlatin.conf
+lrwxrwxrwx 1 root root  26 set 16  2017 69-c059.conf -> ../conf.avail/69-c059.conf
+lrwxrwxrwx 1 root root  30 set 16  2017 69-d050000l.conf -> ../conf.avail/69-d050000l.conf
+lrwxrwxrwx 1 root root  36 set 16  2017 69-nimbus-mono-ps.conf -> ../conf.avail/69-nimbus-mono-ps.conf
+lrwxrwxrwx 1 root root  34 set 16  2017 69-nimbus-roman.conf -> ../conf.avail/69-nimbus-roman.conf
+lrwxrwxrwx 1 root root  33 set 16  2017 69-nimbus-sans.conf -> ../conf.avail/69-nimbus-sans.conf
+lrwxrwxrwx 1 root root  40 set 16  2017 69-nimbus-sans-narrow.conf -> ../conf.avail/69-nimbus-sans-narrow.conf
+lrwxrwxrwx 1 root root  26 set 16  2017 69-p052.conf -> ../conf.avail/69-p052.conf
+lrwxrwxrwx 1 root root  41 set 16  2017 69-standard-symbols-ps.conf -> ../conf.avail/69-standard-symbols-ps.conf
+lrwxrwxrwx 1 root root  37 nov 14 18:00 69-unifont.conf -> /etc/fonts/conf.avail/69-unifont.conf
+lrwxrwxrwx 1 root root  33 set 16  2017 69-urw-bookman.conf -> ../conf.avail/69-urw-bookman.conf
+lrwxrwxrwx 1 root root  34 set 16  2017 69-urw-fallback.conf -> ../conf.avail/69-urw-fallback.conf
+lrwxrwxrwx 1 root root  32 set 16  2017 69-urw-gothic.conf -> ../conf.avail/69-urw-gothic.conf
+lrwxrwxrwx 1 root root  26 set 16  2017 69-z003.conf -> ../conf.avail/69-z003.conf
+lrwxrwxrwx 1 root root  34 jul 12  2017 75-yes-terminus.conf -> ../conf.avail/75-yes-terminus.conf
+lrwxrwxrwx 1 root root  39 nov 14 18:00 80-delicious.conf -> /etc/fonts/conf.avail/80-delicious.conf
+lrwxrwxrwx 1 root root  39 nov 14 18:00 90-synthetic.conf -> /etc/fonts/conf.avail/90-synthetic.conf
+-rw-r--r-- 1 root root 967 nov 14 18:00 README
+
+/etc/foomatic:
+total 4
+-rw-r--r-- 1 root root 5 nov 12 11:49 defaultspooler
+
+/etc/gconf:
+total 16
+drwxr-xr-x 2 root root 4096 fev  3 11:07 2
+drwxr-xr-x 2 root root 4096 ago  8  2016 gconf.xml.defaults
+drwxr-xr-x 2 root root 4096 ago  8  2016 gconf.xml.mandatory
+drwxr-xr-x 2 root root 4096 ago  8  2016 gconf.xml.system
+
+/etc/gconf/2:
+total 8
+-rw-r--r-- 1 root root 3397 ago  8  2016 evoldap.conf
+-rw-r--r-- 1 root root 1448 ago  8  2016 path
+
+/etc/gconf/gconf.xml.defaults:
+total 0
+
+/etc/gconf/gconf.xml.mandatory:
+total 0
+
+/etc/gconf/gconf.xml.system:
+total 0
+
+/etc/geoclue:
+total 4
+-rw-r--r-- 1 root root 2398 mai 30  2017 geoclue.conf
+
+/etc/grub.d:
+total 64
+-rwxr-xr-x 1 root root  8871 mar 18 09:28 00_header
+-rwxr-xr-x 1 root root 11323 mar 18 09:28 10_linux
+-rwxr-xr-x 1 root root 10793 mar 18 09:28 20_linux_xen
+-rwxr-xr-x 1 root root 11334 mar 18 09:28 30_os-prober
+-rwxr-xr-x 1 root root   214 mar 18 09:28 40_custom
+-rwxr-xr-x 1 root root   216 mar 18 09:28 41_custom
+-rwxr-xr-x 1 root root  1219 ago  3  2016 60_memtest86+
+-rw-r--r-- 1 root root   483 mar 18 09:28 README
+
+/etc/gss:
+total 4
+drwxr-xr-x 2 root root 4096 fev 17 11:37 mech.d
+
+/etc/gss/mech.d:
+total 4
+-rw-r--r-- 1 root root 187 fev  9 17:57 gssproxy.conf
+
+/etc/gssproxy:
+total 16
+-rw-r--r-- 1 root root 152 fev  9 17:57 24-nfs-server.conf
+-rw-r--r-- 1 root root 150 fev  9 17:57 80-httpd.conf
+-rw-r--r-- 1 root root 276 fev  9 17:57 99-nfs-client.conf
+-rw-r--r-- 1 root root  11 fev  9 17:57 gssproxy.conf
+
+/etc/gtk-2.0:
+total 4
+-rw-r--r-- 1 root root 890 jan  9 00:55 im-multipress.conf
+
+/etc/gtk-3.0:
+total 4
+-rw-r--r-- 1 root root 890 fev 15 01:17 im-multipress.conf
+
+/etc/hp:
+total 4
+-rw-r--r-- 1 root root 993 mar 16 04:29 hplip.conf
+
+/etc/ImageMagick-6:
+total 204
+-rw-r--r-- 1 root root    899 mar 18 20:47 coder.xml
+-rw-r--r-- 1 root root   1383 mar 18 20:47 colors.xml
+-rw-r--r-- 1 root root  13385 mar 18 20:47 delegates.xml
+-rw-r--r-- 1 root root   1642 mar 18 20:47 log.xml
+-rw-r--r-- 1 root root    888 mar 18 20:47 magic.xml
+-rw-r--r-- 1 root root 134216 mar 18 20:47 mime.xml
+-rw-r--r-- 1 root root   3651 mar 18 20:47 policy.xml
+-rw-r--r-- 1 root root   2369 mar 18 20:47 quantization-table.xml
+-rw-r--r-- 1 root root  11453 mar 18 20:47 thresholds.xml
+-rw-r--r-- 1 root root   4837 mar 18 20:47 type-dejavu.xml
+-rw-r--r-- 1 root root   7884 mar 18 20:47 type-ghostscript.xml
+-rw-r--r-- 1 root root    647 mar 18 20:47 type.xml
+
+/etc/ImageMagick-7:
+total 204
+-rw-r--r-- 1 root root    899 mar 18 16:30 coder.xml
+-rw-r--r-- 1 root root   1383 mar 18 16:30 colors.xml
+-rw-r--r-- 1 root root  13406 mar 18 16:30 delegates.xml
+-rw-r--r-- 1 root root   1642 mar 18 16:30 log.xml
+-rw-r--r-- 1 root root    888 mar 18 16:30 magic.xml
+-rw-r--r-- 1 root root 134216 mar 18 16:30 mime.xml
+-rw-r--r-- 1 root root   3651 mar 18 16:30 policy.xml
+-rw-r--r-- 1 root root   2369 mar 18 16:30 quantization-table.xml
+-rw-r--r-- 1 root root  11453 mar 18 16:30 thresholds.xml
+-rw-r--r-- 1 root root   4837 mar 18 16:30 type-dejavu.xml
+-rw-r--r-- 1 root root   7884 mar 18 16:30 type-ghostscript.xml
+-rw-r--r-- 1 root root    647 mar 18 16:30 type.xml
+
+/etc/initcpio:
+total 8
+drwxr-xr-x 2 root root 4096 out  6  2017 hooks
+drwxr-xr-x 2 root root 4096 out  6  2017 install
+
+/etc/initcpio/hooks:
+total 0
+
+/etc/initcpio/install:
+total 0
+
+/etc/iproute2:
+total 36
+-rw-r--r-- 1 root root  85 jan 29 17:15 bpf_pinning
+-rw-r--r-- 1 root root  75 jan 29 17:15 ematch_map
+-rw-r--r-- 1 root root  31 jan 29 17:15 group
+-rw-r--r-- 1 root root 262 jan 29 17:15 nl_protos
+-rw-r--r-- 1 root root 331 jan 29 17:15 rt_dsfield
+-rw-r--r-- 1 root root 326 jan 29 17:15 rt_protos
+-rw-r--r-- 1 root root 112 jan 29 17:15 rt_realms
+-rw-r--r-- 1 root root  92 jan 29 17:15 rt_scopes
+-rw-r--r-- 1 root root  87 jan 29 17:15 rt_tables
+
+/etc/iptables:
+total 8
+-rw-r--r-- 1 root root 105 fev 12 21:47 empty.rules
+-rw-r--r-- 1 root root 362 fev 12 21:47 simple_firewall.rules
+
+/etc/java-8-openjdk:
+total 64
+drwxr-xr-x 2 root root  4096 mar 19 21:44 amd64
+-rw-r--r-- 1 root root  2375 mar  1 13:52 calendars.properties
+-rw-r--r-- 1 root root  5916 mar  1 13:52 content-types.properties
+-rw-r--r-- 1 root root  3901 mar  1 13:52 flavormap.properties
+drwxr-xr-x 3 root root  4096 fev  3 11:08 images
+-rw-r--r-- 1 root root  2455 mar  1 13:52 logging.properties
+drwxr-xr-x 2 root root  4096 mar 19 21:44 management
+-rw-r--r-- 1 root root  4464 mar  1 13:52 net.properties
+-rw-r--r-- 1 root root 11390 mar  1 13:52 psfontj2d.properties
+-rw-r--r-- 1 root root  3793 mar  1 13:52 psfont.properties.ja
+drwxr-xr-x 2 root root  4096 mar 19 21:44 security
+-rw-r--r-- 1 root root  1210 mar  1 13:52 sound.properties
+
+/etc/java-8-openjdk/amd64:
+total 4
+-rw-r--r-- 1 root root 1624 mar  1 13:52 jvm.cfg
+
+/etc/java-8-openjdk/images:
+total 4
+drwxr-xr-x 2 root root 4096 mar 19 21:44 cursors
+
+/etc/java-8-openjdk/images/cursors:
+total 4
+-rw-r--r-- 1 root root 1274 mar  1 13:52 cursors.properties
+
+/etc/java-8-openjdk/management:
+total 32
+-rw-r--r-- 1 root root  3998 mar  1 13:52 jmxremote.access
+-rw-r--r-- 1 root root  2856 mar  1 13:52 jmxremote.password
+-rw-r--r-- 1 root root 16655 mar  1 13:52 management.properties
+-rw-r--r-- 1 root root  3376 mar  1 13:52 snmp.acl
+
+/etc/java-8-openjdk/security:
+total 44
+-rw-r--r-- 1 root root  2466 mar  1 13:52 java.policy
+-rw-r--r-- 1 root root 39745 mar  1 13:52 java.security
+
+/etc/kernel:
+total 4
+drwxr-xr-x 2 root root 4096 jan 15 11:12 install.d
+
+/etc/kernel/install.d:
+total 0
+
+/etc/ld.so.conf.d:
+total 16
+-rw-r--r-- 1 root root 70 mar  5 11:20 cuda.conf
+-rw-r--r-- 1 root root 21 ago 18  2017 fakeroot.conf
+-rw-r--r-- 1 root root 11 jan 17 19:10 lib32-glibc.conf
+-rw-r--r-- 1 root root 16 mar 15 06:13 R.conf
+
+/etc/libblockdev:
+total 4
+drwxr-xr-x 2 root root 4096 mar 19 21:44 conf.d
+
+/etc/libblockdev/conf.d:
+total 4
+-rw-r--r-- 1 root root 885 mar  2 14:56 00-default.cfg
+
+/etc/libnl:
+total 8
+-rw-r--r-- 1 root root 1130 out 10  2017 classid
+-rw-r--r-- 1 root root 1532 out 10  2017 pktloc
+
+/etc/libpaper.d:
+total 0
+
+/etc/libreoffice:
+total 12
+-rw-r--r-- 1 root root  111 mar  2 07:20 bootstraprc
+-rw-r--r-- 1 root root 4042 mar  2 07:20 psprint.conf
+-rw-r--r-- 1 root root  453 mar  2 07:20 sofficerc
+
+/etc/logrotate.d:
+total 12
+-rw-r--r-- 1 root root  68 jan 27 07:26 cups
+-rw-r--r-- 1 root root 219 fev 14 12:27 nghttpx
+-rw-r--r-- 1 root root 240 mar 13 09:54 samba
+
+/etc/lvm:
+total 116
+drwxr-xr-x 2 root root  4096 dez 19 05:16 archive
+drwxr-xr-x 2 root root  4096 dez 19 05:16 backup
+drwx------ 2 root root  4096 fev  3 11:05 cache
+-rw-r--r-- 1 root root 94420 mar 12 13:05 lvm.conf
+-rw-r--r-- 1 root root  2301 mar 12 13:05 lvmlocal.conf
+drwxr-xr-x 2 root root  4096 mar 19 21:44 profile
+
+/etc/lvm/archive:
+total 0
+
+/etc/lvm/backup:
+total 0
+
+/etc/lvm/profile:
+total 28
+-r--r--r-- 1 root root  531 dez 18 18:44 cache-mq.profile
+-r--r--r-- 1 root root  339 dez 18 18:44 cache-smq.profile
+-r--r--r-- 1 root root 3020 mar 12 13:05 command_profile_template.profile
+-r--r--r-- 1 root root 2309 dez 18 18:44 lvmdbusd.profile
+-r--r--r-- 1 root root  828 mar 12 13:05 metadata_profile_template.profile
+-r--r--r-- 1 root root   76 dez 18 18:44 thin-generic.profile
+-r--r--r-- 1 root root   80 dez 18 18:44 thin-performance.profile
+
+/etc/mkinitcpio.d:
+total 4
+-rw-r--r-- 1 root root 396 mar 21 13:50 linux414.preset
+
+/etc/modprobe.d:
+total 4
+-rw-r--r-- 1 root root 129 fev 14 16:00 mhwd-gpu.conf
+
+/etc/modules-load.d:
+total 8
+-rw-r--r-- 1 root root 76 fev 14 16:00 mhwd-gpu.conf
+-rw-r--r-- 1 root root 34 nov 27 16:29 modules.conf
+
+/etc/mysql:
+total 12
+-rw-r--r-- 1 root root 4920 mar 25 21:59 my.cnf
+-rw-r--r-- 1 root root 3452 fev  6 08:11 wsrep.cnf
+
+/etc/NetworkManager:
+total 28
+drwxr-xr-x 2 root root 4096 jan 11 18:33 conf.d
+drwxr-xr-x 5 root root 4096 fev  3 11:06 dispatcher.d
+drwxr-xr-x 2 root root 4096 jan 11 18:33 dnsmasq.d
+drwxr-xr-x 2 root root 4096 jan 11 18:33 dnsmasq-shared.d
+-rw-r--r-- 1 root root   88 mar 14 12:30 NetworkManager.conf
+drwx------ 2 root root 4096 jan 11 18:33 system-connections
+drwxr-xr-x 2 root root 4096 fev  3 11:06 VPN
+
+/etc/NetworkManager/conf.d:
+total 0
+
+/etc/NetworkManager/dispatcher.d:
+total 16
+-rwx------ 1 root root  602 set  1  2013 10-ntpd
+drwxr-xr-x 2 root root 4096 jan 11 18:33 no-wait.d
+drwxr-xr-x 2 root root 4096 jan 11 18:33 pre-down.d
+drwxr-xr-x 2 root root 4096 jan 11 18:33 pre-up.d
+
+/etc/NetworkManager/dispatcher.d/no-wait.d:
+total 0
+
+/etc/NetworkManager/dispatcher.d/pre-down.d:
+total 0
+
+/etc/NetworkManager/dispatcher.d/pre-up.d:
+total 0
+
+/etc/NetworkManager/dnsmasq.d:
+total 0
+
+/etc/NetworkManager/dnsmasq-shared.d:
+total 0
+
+/etc/NetworkManager/VPN:
+total 16
+-rw-r--r-- 1 root root 469 nov 22 13:05 nm-openconnect-service.name
+-rw-r--r-- 1 root root 447 nov 22 13:04 nm-openvpn-service.name
+-rw-r--r-- 1 root root 409 nov 22 13:07 nm-pptp-service.name
+-rw-r--r-- 1 root root 429 nov 22 13:06 nm-vpnc-service.name
+
+/etc/nghttpx:
+total 4
+-rw-r--r-- 1 root root 911 fev 14 12:27 nghttpx.conf
+
+/etc/nginx:
+total 32
+-rw-r--r-- 1 root root 32278 nov 22 17:40 mime.types
+
+/etc/ODBCDataSources:
+total 0
+
+/etc/OpenCL:
+total 4
+drwxr-xr-x 2 root root 4096 mar 19 21:44 vendors
+
+/etc/OpenCL/vendors:
+total 4
+-rw-r--r-- 1 root root 22 mar 13 19:16 nvidia.icd
+
+/etc/openldap:
+total 4
+-rw-r--r-- 1 root root 245 ago 26  2017 ldap.conf
+
+/etc/openvpn:
+total 8
+drwxr-x--- 2 root network 4096 set 26  2017 client
+drwxr-x--- 2 root network 4096 set 26  2017 server
+
+/etc/openvpn/client:
+total 0
+
+/etc/openvpn/server:
+total 0
+
+/etc/ostree:
+total 4
+drwxr-xr-x 2 root root 4096 jan 29 09:45 remotes.d
+
+/etc/ostree/remotes.d:
+total 0
+
+/etc/pacman.d:
+total 16
+drwxr-xr-x 5 root root 4096 mar 19 22:26 gnupg
+-rw-r--r-- 1 root root 7424 fev  3 11:09 mirrorlist
+
+/etc/pacman.d/gnupg:
+total 4436
+drwx------ 2 root root    4096 out 21 12:43 crls.d
+-rw-r--r-- 1 root root     114 out 24  2015 gpg.conf
+drwx------ 2 root root    4096 out 24  2015 openpgp-revocs.d
+drwx------ 2 root root    4096 out 24  2015 private-keys-v1.d
+-rw-r--r-- 1 root root 2220560 mar 19 21:28 pubring.gpg
+-rw-r--r-- 1 root root 2220560 mar 19 21:28 pubring.gpg~
+-rw------- 1 root root       0 out 24  2015 secring.gpg
+-rw-r--r-- 1 root root   49152 jan  9 19:49 tofu.db
+-rw-r--r-- 1 root root   16360 mar 19 21:28 trustdb.gpg
+
+/etc/pam.d:
+total 148
+-rw-r--r-- 1 root root 160 dez 16 14:03 chage
+-rw-r--r-- 1 root root 160 dez 21 07:14 chfn
+-rw-r--r-- 1 root root 103 dez 16 14:03 chgpasswd
+-rw-r--r-- 1 root root 174 dez 16 14:03 chpasswd
+-rw-r--r-- 1 root root 160 dez 21 07:14 chsh
+-rw-r--r-- 1 root root 281 jun 29  2016 crond
+-rw-r--r-- 1 root root  87 jan 27 07:26 cups
+-rw-r--r-- 1 root root 160 dez 16 14:03 groupadd
+-rw-r--r-- 1 root root 160 dez 16 14:03 groupdel
+-rw-r--r-- 1 root root 103 dez 16 14:03 groupmems
+-rw-r--r-- 1 root root 160 dez 16 14:03 groupmod
+-rw-r--r-- 1 root root 194 mar  6 10:52 kde
+-rw-r--r-- 1 root root 220 dez 21 07:14 login
+-rw-r--r-- 1 root root 174 dez 16 14:03 newusers
+-rw-r--r-- 1 root root 127 out  6  2017 other
+-rw-r--r-- 1 root root 198 dez 16 14:03 passwd
+-rw-r--r-- 1 root root 155 jan 14 12:49 polkit-1
+-rw-r--r-- 1 root root 500 nov  6  2016 rlogin
+-rw-r--r-- 1 root root 425 nov  6  2016 rsh
+-rw-r--r-- 1 root root  87 mar 13 09:54 samba
+-rw-r--r-- 1 root root 208 fev  3 11:09 sddm
+-rw-r--r-- 1 root root 554 dez  5 14:00 sddm-autologin
+-rw-r--r-- 1 root root 432 dez  5 14:00 sddm-greeter
+-rw-r--r-- 1 root root 160 dez 16 14:03 shadow
+-rw-r--r-- 1 root root 232 jan  6 05:44 sshd
+-rw-r--r-- 1 root root 366 dez 21 07:14 su
+-rw-r--r-- 1 root root  97 jan 21 17:06 sudo
+-rw-r--r-- 1 root root 366 dez 21 07:14 su-l
+-rw-r--r-- 1 root root 441 out  6  2017 system-auth
+-rw-r--r-- 1 root root 131 mar 17 08:37 systemd-user
+-rw-r--r-- 1 root root 143 out  6  2017 system-local-login
+-rw-r--r-- 1 root root 675 out  6  2017 system-login
+-rw-r--r-- 1 root root 143 out  6  2017 system-remote-login
+-rw-r--r-- 1 root root 260 out  6  2017 system-services
+-rw-r--r-- 1 root root 160 dez 16 14:03 useradd
+-rw-r--r-- 1 root root 160 dez 16 14:03 userdel
+-rw-r--r-- 1 root root 160 dez 16 14:03 usermod
+
+/etc/pcmcia:
+total 4
+-rw-r--r-- 1 root root 1117 mai 12  2013 config.opts
+
+/etc/pipewire:
+total 4
+-rw-r--r-- 1 root root 876 mar  1 12:52 pipewire.conf
+
+/etc/pkcs11:
+total 4
+-rw-r--r-- 1 root root 390 mar  1 12:26 pkcs11.conf.example
+
+/etc/polkit-1:
+total 4
+drwxr-x--- 2 root polkitd 4096 fev  3 11:08 rules.d
+
+/etc/ppp:
+total 64
+-rw------- 1 root root    78 set 17  2017 chap-secrets
+-rwxr-xr-x 1 root root   309 set 17  2017 ip-down
+drwxr-xr-x 2 root root  4096 fev  3 11:06 ip-down.d
+-rwxr-xr-x 1 root root   309 set 17  2017 ip-up
+drwxr-xr-x 2 root root  4096 fev  3 11:06 ip-up.d
+-rwxr-xr-x 1 root root   329 set 17  2017 ipv6-down
+drwxr-xr-x 2 root root  4096 set 17  2017 ipv6-down.d
+-rwxr-xr-x 1 root root   329 set 17  2017 ipv6-up
+drwxr-xr-x 2 root root  4096 fev  3 11:06 ipv6-up.d
+-rw-r--r-- 1 root root 13368 set 17  2017 options
+-rw-r--r-- 1 root root  2151 jan 20 11:11 options.pptp
+-rw------- 1 root root    77 set 17  2017 pap-secrets
+drwxr-xr-x 2 root root  4096 set 17  2017 peers
+
+/etc/ppp/ip-down.d:
+total 4
+-rwxr-xr-x 1 root root 191 set 17  2017 00-dns.sh
+
+/etc/ppp/ip-up.d:
+total 4
+-rwxr-xr-x 1 root root 344 set 17  2017 00-dns.sh
+
+/etc/ppp/ipv6-down.d:
+total 0
+
+/etc/ppp/ipv6-up.d:
+total 4
+-rwxr-xr-x 1 root root 106 set 17  2017 00-iface-config.sh
+
+/etc/ppp/peers:
+total 0
+
+/etc/profile.d:
+total 68
+-rwxr-xr-x 1 root root   32 mar  5 11:20 cuda.sh
+-rw-r--r-- 1 root root  225 fev 23 18:43 flatpak-bindir.sh
+-rw-r--r-- 1 root root  294 fev 23 18:43 flatpak.sh
+-rw-r--r-- 1 root root  545 jan 30 10:53 freetype2.sh
+-rw-r--r-- 1 root root 1107 fev 27 11:54 gawk.csh
+-rw-r--r-- 1 root root  757 fev 27 11:54 gawk.sh
+-rwxr-xr-x 1 root root  105 ago 17  2017 gpm.sh
+-rw-r--r-- 1 root root  207 set 22  2017 jre.csh
+-rw-r--r-- 1 root root  205 set 22  2017 jre.sh
+-rwxr-xr-x 1 root root  156 mar  2 07:20 libreoffice-fresh.csh
+-rwxr-xr-x 1 root root  156 mar  2 07:20 libreoffice-fresh.sh
+-rwxr-xr-x 1 root root  940 nov 27 16:29 locale.sh
+-rwxr-xr-x 1 root root   50 jul  1  2014 mozilla-common.csh
+-rwxr-xr-x 1 root root   50 jul  1  2014 mozilla-common.sh
+-rw-r--r-- 1 root root  699 jan  5 00:53 perlbin.csh
+-rw-r--r-- 1 root root  668 jan  5 00:53 perlbin.sh
+-rwxr-xr-x 1 root root   42 nov  3 17:30 qt5-accessibility.sh
+
+/etc/pulse:
+total 20
+-rw-r--r-- 1 root root 1216 set 19  2017 client.conf
+-rw-r--r-- 1 root root 2392 set 19  2017 daemon.conf
+-rw-r--r-- 1 root root 4929 set 19  2017 default.pa
+-rw-r--r-- 1 root root 2046 set 19  2017 system.pa
+
+/etc/R:
+total 24
+-rw-r--r-- 1 root root  165 mar 15 06:13 javaconf
+-rw-r--r-- 1 root root  745 mar 15 06:13 ldpaths
+-rw-r--r-- 1 root root 6426 mar 15 06:13 Makeconf
+-rw-r--r-- 1 root root 1545 mar 15 06:13 Renviron
+-rw-r--r-- 1 root root 1161 mar 15 06:13 repositories
+
+/etc/rc_keymaps:
+total 0
+
+/etc/request-key.d:
+total 12
+-rw-r--r-- 1 root root  49 mar 17  2017 cifs.idmap.conf
+-rw-r--r-- 1 root root  51 mar 17  2017 cifs.spnego.conf
+-rw-r--r-- 1 root root 336 dez 21 18:10 id_resolver.conf
+
+/etc/samba:
+total 4
+drwx------ 2 root root 4096 dez 27 08:54 private
+
+/etc/sane.d:
+total 336
+-rw-r--r-- 1 root root   25 mai 23  2017 abaton.conf
+-rw-r--r-- 1 root root   14 mai 23  2017 agfafocus.conf
+-rw-r--r-- 1 root root   24 mai 23  2017 apple.conf
+-rw-r--r-- 1 root root   26 mai 23  2017 artec.conf
+-rw-r--r-- 1 root root 4140 mai 23  2017 artec_eplus48u.conf
+-rw-r--r-- 1 root root  548 mai 23  2017 avision.conf
+-rw-r--r-- 1 root root   29 mai 23  2017 bh.conf
+-rw-r--r-- 1 root root  193 mai 23  2017 canon630u.conf
+-rw-r--r-- 1 root root   26 mai 23  2017 canon.conf
+-rw-r--r-- 1 root root 3961 mai 23  2017 canon_dr.conf
+-rw-r--r-- 1 root root 1160 mai 23  2017 canon_pp.conf
+-rw-r--r-- 1 root root  552 mai 23  2017 cardscan.conf
+-rw-r--r-- 1 root root  754 mai 23  2017 coolscan2.conf
+-rw-r--r-- 1 root root  754 mai 23  2017 coolscan3.conf
+-rw-r--r-- 1 root root   34 mai 23  2017 coolscan.conf
+-rw-r--r-- 1 root root  984 mai 23  2017 dc210.conf
+-rw-r--r-- 1 root root  984 mai 23  2017 dc240.conf
+-rw-r--r-- 1 root root  704 mai 23  2017 dc25.conf
+-rw-r--r-- 1 root root  492 mai 23  2017 dell1600n_net.conf
+-rw-r--r-- 1 root root 1095 mai 23  2017 dll.conf
+drwxr-xr-x 2 root root 4096 mar 25 14:29 dll.d
+-rw-r--r-- 1 root root   12 mai 23  2017 dmc.conf
+-rw-r--r-- 1 root root 2736 mai 23  2017 epjitsu.conf
+-rw-r--r-- 1 root root  376 mai 23  2017 epson2.conf
+-rw-r--r-- 1 root root  793 mai 23  2017 epson.conf
+-rw-r--r-- 1 root root  271 mai 23  2017 epsonds.conf
+-rw-r--r-- 1 root root 3404 mai 23  2017 fujitsu.conf
+-rw-r--r-- 1 root root 2008 mai 23  2017 genesys.conf
+-rw-r--r-- 1 root root 1149 mai 23  2017 gphoto2.conf
+-rw-r--r-- 1 root root 7792 mai 23  2017 gt68xx.conf
+-rw-r--r-- 1 root root  396 mai 23  2017 hp3900.conf
+-rw-r--r-- 1 root root   76 mai 23  2017 hp4200.conf
+-rw-r--r-- 1 root root  238 mai 23  2017 hp5400.conf
+-rw-r--r-- 1 root root  497 mai 23  2017 hp.conf
+-rw-r--r-- 1 root root   22 mai 23  2017 hpsj5s.conf
+-rw-r--r-- 1 root root   24 mai 23  2017 hs2p.conf
+-rw-r--r-- 1 root root   38 mai 23  2017 ibm.conf
+-rw-r--r-- 1 root root 2599 mai 23  2017 kodakaio.conf
+-rw-r--r-- 1 root root  367 mai 23  2017 kodak.conf
+-rw-r--r-- 1 root root   39 mai 23  2017 kvs1025.conf
+-rw-r--r-- 1 root root  113 mai 23  2017 leo.conf
+-rw-r--r-- 1 root root  119 mai 23  2017 lexmark.conf
+-rw-r--r-- 1 root root  187 mai 23  2017 ma1509.conf
+-rw-r--r-- 1 root root 1254 mai 23  2017 magicolor.conf
+-rw-r--r-- 1 root root  666 mai 23  2017 matsushita.conf
+-rw-r--r-- 1 root root  279 mai 23  2017 microtek2.conf
+-rw-r--r-- 1 root root  268 mai 23  2017 microtek.conf
+-rw-r--r-- 1 root root 2125 mai 23  2017 mustek.conf
+-rw-r--r-- 1 root root 3824 mai 23  2017 mustek_pp.conf
+-rw-r--r-- 1 root root  809 mai 23  2017 mustek_usb.conf
+-rw-r--r-- 1 root root   13 mai 23  2017 nec.conf
+-rw-r--r-- 1 root root  573 mai 23  2017 net.conf
+-rw-r--r-- 1 root root  365 mai 23  2017 p5.conf
+-rw-r--r-- 1 root root   75 mai 23  2017 pie.conf
+-rw-r--r-- 1 root root  554 mai 23  2017 pieusb.conf
+-rw-r--r-- 1 root root  985 mai 23  2017 pixma.conf
+-rw-r--r-- 1 root root 4142 mai 23  2017 plustek.conf
+-rw-r--r-- 1 root root  943 mai 23  2017 plustek_pp.conf
+-rw-r--r-- 1 root root  391 mai 23  2017 qcam.conf
+-rw-r--r-- 1 root root   29 mai 23  2017 ricoh.conf
+-rw-r--r-- 1 root root  183 mai 23  2017 rts8891.conf
+-rw-r--r-- 1 root root   13 mai 23  2017 s9036.conf
+-rw-r--r-- 1 root root 1052 mai 23  2017 saned.conf
+-rw-r--r-- 1 root root   48 mai 23  2017 sceptre.conf
+-rw-r--r-- 1 root root 1464 mai 23  2017 sharp.conf
+-rw-r--r-- 1 root root  115 mai 23  2017 sm3840.conf
+-rw-r--r-- 1 root root 2239 mai 23  2017 snapscan.conf
+-rw-r--r-- 1 root root   10 mai 23  2017 sp15c.conf
+-rw-r--r-- 1 root root 2224 mai 23  2017 st400.conf
+-rw-r--r-- 1 root root  178 mai 23  2017 stv680.conf
+-rw-r--r-- 1 root root   28 mai 23  2017 tamarack.conf
+-rw-r--r-- 1 root root  355 mai 23  2017 teco1.conf
+-rw-r--r-- 1 root root  636 mai 23  2017 teco2.conf
+-rw-r--r-- 1 root root  217 mai 23  2017 teco3.conf
+-rw-r--r-- 1 root root 1807 mai 23  2017 test.conf
+-rw-r--r-- 1 root root 1495 mai 23  2017 u12.conf
+-rw-r--r-- 1 root root  386 mai 23  2017 umax1220u.conf
+-rw-r--r-- 1 root root 3094 mai 23  2017 umax.conf
+-rw-r--r-- 1 root root 1684 mai 23  2017 umax_pp.conf
+-rw-r--r-- 1 root root  204 mai 23  2017 v4l.conf
+-rw-r--r-- 1 root root 3917 mai 23  2017 xerox_mfp.conf
+
+/etc/sane.d/dll.d:
+total 4
+-rw-r--r-- 1 root root 6 mar 16 04:29 hpaio
+
+/etc/security:
+total 44
+-rw-r--r-- 1 root root 4620 jun  9  2016 access.conf
+-rw-r--r-- 1 root root 3635 jun  9  2016 group.conf
+-rw-r--r-- 1 root root 1835 jun  9  2016 limits.conf
+drwxr-xr-x 2 root root 4096 fev  3 11:07 limits.d
+-rw-r--r-- 1 root root 1440 jun  9  2016 namespace.conf
+-rwxr-xr-x 1 root root 1016 jun  9  2016 namespace.init
+-rw-r--r-- 1 root root 2972 jun  9  2016 pam_env.conf
+-rw-r--r-- 1 root root 2151 nov  9 20:15 pwquality.conf
+drwxr-xr-x 2 root root 4096 nov  9 20:15 pwquality.conf.d
+-rw-r--r-- 1 root root 2179 jun  9  2016 time.conf
+
+/etc/security/limits.d:
+total 8
+-rw-r--r-- 1 root root 44 out 18 20:12 10-gcr.conf
+-rw-r--r-- 1 root root 50 nov  7  2016 99-audio.conf
+
+/etc/security/pwquality.conf.d:
+total 0
+
+/etc/sensors.d:
+total 0
+
+/etc/signon-ui:
+total 4
+drwxr-xr-x 2 root root 4096 mar 19 21:44 webkit-options.d
+
+/etc/signon-ui/webkit-options.d:
+total 16
+-rw-r--r-- 1 root root 329 mar  1 20:00 accounts.google.com.conf
+-rw-r--r-- 1 root root  82 mar  1 20:00 api.twitter.com.conf
+-rw-r--r-- 1 root root 330 mar  1 20:00 identi.ca.conf
+-rw-r--r-- 1 root root 149 mar  1 20:00 www.facebook.com.conf
+
+/etc/skel:
+total 0
+
+/etc/ssh:
+total 552
+-rw-r--r-- 1 root root 553185 jan  6 05:44 moduli
+-rw-r--r-- 1 root root   1495 jan  6 05:44 ssh_config
+-rw-r--r-- 1 root root   3189 jan  6 05:44 sshd_config
+
+/etc/ssl:
+total 52
+lrwxrwxrwx 1 root root    46 mar  7  2017 cert.pem -> ../ca-certificates/extracted/tls-ca-bundle.pem
+drwxr-xr-x 3 root root 20480 mar 19 21:45 certs
+drwxr-xr-x 2 root root  4096 fev  3 11:04 misc
+-rw-r--r-- 1 root root 10771 nov  2 14:20 openssl.cnf
+-rw-r--r-- 1 root root 10771 nov  2 14:20 openssl.cnf.dist
+drwxr-xr-x 2 root root  4096 nov  2 14:20 private
+
+/etc/ssl/certs:
+total 1384
+lrwxrwxrwx 1 root root   64 mar 19 21:45 00673b5b.0 -> ../../ca-certificates/extracted/cadir/thawte_Primary_Root_CA.pem
+lrwxrwxrwx 1 root root   83 mar 19 21:45 02265526.0 -> ../../ca-certificates/extracted/cadir/Entrust_Root_Certification_Authority_-_G2.pem
+lrwxrwxrwx 1 root root   61 mar 19 21:45 02756ea4.0 -> ../../ca-certificates/extracted/cadir/Certplus_Root_CA_G1.pem
+lrwxrwxrwx 1 root root   74 mar 19 21:45 03179a64.0 -> ../../ca-certificates/extracted/cadir/Staat_der_Nederlanden_EV_Root_CA.pem
+lrwxrwxrwx 1 root root   79 mar 19 21:45 04f60c28.0 -> ../../ca-certificates/extracted/cadir/USERTrust_ECC_Certification_Authority.pem
+lrwxrwxrwx 1 root root   65 mar 19 21:45 062cdee6.0 -> ../../ca-certificates/extracted/cadir/GlobalSign_Root_CA_-_R3.pem
+lrwxrwxrwx 1 root root   63 mar 19 21:45 064e0aa9.0 -> ../../ca-certificates/extracted/cadir/QuoVadis_Root_CA_2_G3.pem
+lrwxrwxrwx 1 root root   88 mar 19 21:45 06dc52d5.0 -> ../../ca-certificates/extracted/cadir/SSL.com_EV_Root_Certification_Authority_RSA_R2.pem
+lrwxrwxrwx 1 root root   58 mar 19 21:45 080911ac.0 -> ../../ca-certificates/extracted/cadir/QuoVadis_Root_CA.pem
+lrwxrwxrwx 1 root root   92 mar 19 21:45 09789157.0 -> ../../ca-certificates/extracted/cadir/Starfield_Services_Root_Certificate_Authority_-_G2.pem
+lrwxrwxrwx 1 root root   54 mar 19 21:45 0b1b94ef.0 -> ../../ca-certificates/extracted/cadir/CFCA_EV_ROOT.pem
+lrwxrwxrwx 1 root root   82 mar 19 21:45 0bf05006.0 -> ../../ca-certificates/extracted/cadir/SSL.com_Root_Certification_Authority_ECC.pem
+lrwxrwxrwx 1 root root   72 mar 19 21:45 0c4c9b6c.0 -> ../../ca-certificates/extracted/cadir/Global_Chambersign_Root_-_2008.pem
+lrwxrwxrwx 1 root root   99 mar 19 21:45 0d5a4e1c.0 -> ../../ca-certificates/extracted/cadir/T__RKTRUST_Elektronik_Sertifika_Hizmet_Sa__lay__c__s___H5.pem
+lrwxrwxrwx 1 root root   69 mar 19 21:45 0d69c7e1.0 -> ../../ca-certificates/extracted/cadir/GlobalSign_ECC_Root_CA_-_R4.pem
+lrwxrwxrwx 1 root root   64 mar 19 21:45 0f6fa695.0 -> ../../ca-certificates/extracted/cadir/GDCA_TrustAUTH_R5_ROOT.pem
+lrwxrwxrwx 1 root root   92 mar 19 21:45 10531352.0 -> ../../ca-certificates/extracted/cadir/Starfield_Services_Root_Certificate_Authority_-_G2.pem
+lrwxrwxrwx 1 root root   84 mar 19 21:45 106f3e4d.0 -> ../../ca-certificates/extracted/cadir/Entrust_Root_Certification_Authority_-_EC1.pem
+lrwxrwxrwx 1 root root   65 mar 19 21:45 111e6273.0 -> ../../ca-certificates/extracted/cadir/GlobalSign_Root_CA_-_R2.pem
+lrwxrwxrwx 1 root root   87 mar 19 21:45 116bf586.0 -> ../../ca-certificates/extracted/cadir/GeoTrust_Primary_Certification_Authority_-_G2.pem
+lrwxrwxrwx 1 root root   73 mar 19 21:45 128805a3.0 -> ../../ca-certificates/extracted/cadir/EE_Certification_Centre_Root_CA.pem
+lrwxrwxrwx 1 root root   56 mar 19 21:45 12d55845.0 -> ../../ca-certificates/extracted/cadir/DST_Root_CA_X3.pem
+lrwxrwxrwx 1 root root   64 mar 19 21:45 157753a5.0 -> ../../ca-certificates/extracted/cadir/AddTrust_External_Root.pem
+lrwxrwxrwx 1 root root   97 mar 19 21:45 1636090b.0 -> ../../ca-certificates/extracted/cadir/Hellenic_Academic_and_Research_Institutions_RootCA_2011.pem
+lrwxrwxrwx 1 root root   69 mar 19 21:45 17b51fe6.0 -> ../../ca-certificates/extracted/cadir/Certplus_Class_2_Primary_CA.pem
+lrwxrwxrwx 1 root root   61 mar 19 21:45 18856ac4.0 -> ../../ca-certificates/extracted/cadir/SecureSign_RootCA11.pem
+lrwxrwxrwx 1 root root   69 mar 19 21:45 1d3472b9.0 -> ../../ca-certificates/extracted/cadir/GlobalSign_ECC_Root_CA_-_R5.pem
+lrwxrwxrwx 1 root root   53 mar 19 21:45 1dcd6f4c.0 -> ../../ca-certificates/extracted/cadir/Taiwan_GRCA.pem
+lrwxrwxrwx 1 root root   72 mar 19 21:45 1df5a75f.0 -> ../../ca-certificates/extracted/cadir/D-TRUST_Root_Class_3_CA_2_2009.pem
+lrwxrwxrwx 1 root root   75 mar 19 21:45 1e08bfd1.0 -> ../../ca-certificates/extracted/cadir/IdenTrust_Public_Sector_Root_CA_1.pem
+lrwxrwxrwx 1 root root   70 mar 19 21:45 1e09d511.0 -> ../../ca-certificates/extracted/cadir/T-TeleSec_GlobalRoot_Class_2.pem
+lrwxrwxrwx 1 root root   70 mar 19 21:45 1e1eab7c.0 -> ../../ca-certificates/extracted/cadir/T-TeleSec_GlobalRoot_Class_3.pem
+lrwxrwxrwx 1 root root   65 mar 19 21:45 1e8e7201.0 -> ../../ca-certificates/extracted/cadir/GlobalSign_Root_CA_-_R3.pem
+lrwxrwxrwx 1 root root   74 mar 19 21:45 1eb37bdf.0 -> ../../ca-certificates/extracted/cadir/Chambers_of_Commerce_Root_-_2008.pem
+lrwxrwxrwx 1 root root   63 mar 19 21:45 1f58a078.0 -> ../../ca-certificates/extracted/cadir/QuoVadis_Root_CA_2_G3.pem
+lrwxrwxrwx 1 root root   61 mar 19 21:45 219d9499.0 -> ../../ca-certificates/extracted/cadir/Go_Daddy_Class_2_CA.pem
+lrwxrwxrwx 1 root root   62 mar 19 21:45 23f4c490.0 -> ../../ca-certificates/extracted/cadir/Starfield_Class_2_CA.pem
+lrwxrwxrwx 1 root root   76 mar 19 21:45 244b5494.0 -> ../../ca-certificates/extracted/cadir/DigiCert_High_Assurance_EV_Root_CA.pem
+lrwxrwxrwx 1 root root   87 mar 19 21:45 27af790d.0 -> ../../ca-certificates/extracted/cadir/GeoTrust_Primary_Certification_Authority_-_G2.pem
+lrwxrwxrwx 1 root root   69 mar 19 21:45 2add47b6.0 -> ../../ca-certificates/extracted/cadir/GlobalSign_ECC_Root_CA_-_R5.pem
+lrwxrwxrwx 1 root root   58 mar 19 21:45 2ae6433e.0 -> ../../ca-certificates/extracted/cadir/CA_Disig_Root_R2.pem
+lrwxrwxrwx 1 root root   64 mar 19 21:45 2b349938.0 -> ../../ca-certificates/extracted/cadir/AffirmTrust_Commercial.pem
+lrwxrwxrwx 1 root root   62 mar 19 21:45 2c11d503.0 -> ../../ca-certificates/extracted/cadir/OpenTrust_Root_CA_G3.pem
+lrwxrwxrwx 1 root root   60 mar 19 21:45 2c543cd1.0 -> ../../ca-certificates/extracted/cadir/GeoTrust_Global_CA.pem
+lrwxrwxrwx 1 root root   65 mar 19 21:45 2d9dafe4.0 -> ../../ca-certificates/extracted/cadir/Buypass_Class_3_Root_CA.pem
+lrwxrwxrwx 1 root root   64 mar 19 21:45 2e4eed3c.0 -> ../../ca-certificates/extracted/cadir/thawte_Primary_Root_CA.pem
+lrwxrwxrwx 1 root root   56 mar 19 21:45 2e5ac55d.0 -> ../../ca-certificates/extracted/cadir/DST_Root_CA_X3.pem
+lrwxrwxrwx 1 root root   81 mar 19 21:45 2fa87019.0 -> ../../ca-certificates/extracted/cadir/Network_Solutions_Certificate_Authority.pem
+lrwxrwxrwx 1 root root   87 mar 19 21:45 31188b5e.0 -> ../../ca-certificates/extracted/cadir/TUBITAK_Kamu_SM_SSL_Kok_Sertifikasi_-_Surum_1.pem
+lrwxrwxrwx 1 root root   97 mar 19 21:45 32888f65.0 -> ../../ca-certificates/extracted/cadir/Hellenic_Academic_and_Research_Institutions_RootCA_2015.pem
+lrwxrwxrwx 1 root root   82 mar 19 21:45 33ee480d.0 -> ../../ca-certificates/extracted/cadir/SSL.com_Root_Certification_Authority_RSA.pem
+lrwxrwxrwx 1 root root   64 mar 19 21:45 343eb6cb.0 -> ../../ca-certificates/extracted/cadir/Cybertrust_Global_Root.pem
+lrwxrwxrwx 1 root root   48 mar 19 21:45 349f2832.0 -> ../../ca-certificates/extracted/cadir/EC-ACC.pem
+lrwxrwxrwx 1 root root   79 mar 19 21:45 35105088.0 -> ../../ca-certificates/extracted/cadir/USERTrust_RSA_Certification_Authority.pem
+lrwxrwxrwx 1 root root   65 mar 19 21:45 3513523f.0 -> ../../ca-certificates/extracted/cadir/DigiCert_Global_Root_CA.pem
+lrwxrwxrwx 1 root root   62 mar 19 21:45 3929ec9f.0 -> ../../ca-certificates/extracted/cadir/OpenTrust_Root_CA_G2.pem
+lrwxrwxrwx 1 root root   65 mar 19 21:45 399e7759.0 -> ../../ca-certificates/extracted/cadir/DigiCert_Global_Root_CA.pem
+lrwxrwxrwx 1 root root   73 mar 19 21:45 3a3b02ce.0 -> ../../ca-certificates/extracted/cadir/OISTE_WISeKey_Global_Root_GA_CA.pem
+lrwxrwxrwx 1 root root   67 mar 19 21:45 3ad48a91.0 -> ../../ca-certificates/extracted/cadir/Baltimore_CyberTrust_Root.pem
+lrwxrwxrwx 1 root root   99 mar 19 21:45 3bde41ac.0 -> ../../ca-certificates/extracted/cadir/Autoridad_de_Certificacion_Firmaprofesional_CIF_A62634068.pem
+lrwxrwxrwx 1 root root   64 mar 19 21:45 3c58f906.0 -> ../../ca-certificates/extracted/cadir/AddTrust_External_Root.pem
+lrwxrwxrwx 1 root root   74 mar 19 21:45 3c6676aa.0 -> ../../ca-certificates/extracted/cadir/Staat_der_Nederlanden_EV_Root_CA.pem
+lrwxrwxrwx 1 root root   64 mar 19 21:45 3c860d51.0 -> ../../ca-certificates/extracted/cadir/SwissSign_Gold_CA_-_G2.pem
+lrwxrwxrwx 1 root root   51 mar 19 21:45 3c9a4d3b.0 -> ../../ca-certificates/extracted/cadir/ACCVRAIZ1.pem
+lrwxrwxrwx 1 root root   76 mar 19 21:45 3d441de8.0 -> ../../ca-certificates/extracted/cadir/Staat_der_Nederlanden_Root_CA_-_G2.pem
+lrwxrwxrwx 1 root root   64 mar 19 21:45 3e44d2f7.0 -> ../../ca-certificates/extracted/cadir/TrustCor_RootCert_CA-2.pem
+lrwxrwxrwx 1 root root   65 mar 19 21:45 3e45d192.0 -> ../../ca-certificates/extracted/cadir/Hongkong_Post_Root_CA_1.pem
+lrwxrwxrwx 1 root root   83 mar 19 21:45 3e7271e8.0 -> ../../ca-certificates/extracted/cadir/Entrust.net_Premium_2048_Secure_Server_CA.pem
+lrwxrwxrwx 1 root root   69 mar 19 21:45 40193066.0 -> ../../ca-certificates/extracted/cadir/Certum_Trusted_Network_CA_2.pem
+lrwxrwxrwx 1 root root   54 mar 19 21:45 4042bcee.0 -> ../../ca-certificates/extracted/cadir/ISRG_Root_X1.pem
+lrwxrwxrwx 1 root root   72 mar 19 21:45 40547a79.0 -> ../../ca-certificates/extracted/cadir/COMODO_Certification_Authority.pem
+lrwxrwxrwx 1 root root   97 mar 19 21:45 40dc992e.0 -> ../../ca-certificates/extracted/cadir/Hellenic_Academic_and_Research_Institutions_RootCA_2011.pem
+lrwxrwxrwx 1 root root   81 mar 19 21:45 4304c5e5.0 -> ../../ca-certificates/extracted/cadir/Network_Solutions_Certificate_Authority.pem
+lrwxrwxrwx 1 root root   61 mar 19 21:45 451b5485.0 -> ../../ca-certificates/extracted/cadir/Certplus_Root_CA_G2.pem
+lrwxrwxrwx 1 root root   83 mar 19 21:45 455f1b52.0 -> ../../ca-certificates/extracted/cadir/Entrust_Root_Certification_Authority_-_G2.pem
+lrwxrwxrwx 1 root root   82 mar 19 21:45 480720ec.0 -> ../../ca-certificates/extracted/cadir/GeoTrust_Primary_Certification_Authority.pem
+lrwxrwxrwx 1 root root   52 mar 19 21:45 48a195d8.0 -> ../../ca-certificates/extracted/cadir/Izenpe.com.pem
+lrwxrwxrwx 1 root root   67 mar 19 21:45 48bec511.0 -> ../../ca-certificates/extracted/cadir/Certum_Trusted_Network_CA.pem
+lrwxrwxrwx 1 root root   65 mar 19 21:45 4a6481c9.0 -> ../../ca-certificates/extracted/cadir/GlobalSign_Root_CA_-_R2.pem
+lrwxrwxrwx 1 root root   75 mar 19 21:45 4be590e0.0 -> ../../ca-certificates/extracted/cadir/IdenTrust_Public_Sector_Root_CA_1.pem
+lrwxrwxrwx 1 root root   83 mar 19 21:45 4bfab552.0 -> ../../ca-certificates/extracted/cadir/Starfield_Root_Certificate_Authority_-_G2.pem
+lrwxrwxrwx 1 root root   68 mar 19 21:45 4e18c148.0 -> ../../ca-certificates/extracted/cadir/Deutsche_Telekom_Root_CA_2.pem
+lrwxrwxrwx 1 root root   64 mar 19 21:45 4f316efb.0 -> ../../ca-certificates/extracted/cadir/SwissSign_Gold_CA_-_G2.pem
+lrwxrwxrwx 1 root root   66 mar 19 21:45 5046c355.0 -> ../../ca-certificates/extracted/cadir/SwissSign_Silver_CA_-_G2.pem
+lrwxrwxrwx 1 root root   89 mar 19 21:45 524d9b43.0 -> ../../ca-certificates/extracted/cadir/VeriSign_Universal_Root_Certification_Authority.pem
+lrwxrwxrwx 1 root root   73 mar 19 21:45 5273a94c.0 -> ../../ca-certificates/extracted/cadir/E-Tugra_Certification_Authority.pem
+lrwxrwxrwx 1 root root   63 mar 19 21:45 52b525c7.0 -> ../../ca-certificates/extracted/cadir/QuoVadis_Root_CA_1_G3.pem
+lrwxrwxrwx 1 root root   70 mar 19 21:45 5443e9e3.0 -> ../../ca-certificates/extracted/cadir/T-TeleSec_GlobalRoot_Class_3.pem
+lrwxrwxrwx 1 root root   65 mar 19 21:45 54657681.0 -> ../../ca-certificates/extracted/cadir/Buypass_Class_2_Root_CA.pem
+lrwxrwxrwx 1 root root   62 mar 19 21:45 559f7c71.0 -> ../../ca-certificates/extracted/cadir/OpenTrust_Root_CA_G3.pem
+lrwxrwxrwx 1 root root   66 mar 19 21:45 57bcb2da.0 -> ../../ca-certificates/extracted/cadir/SwissSign_Silver_CA_-_G2.pem
+lrwxrwxrwx 1 root root   88 mar 19 21:45 583d0756.0 -> ../../ca-certificates/extracted/cadir/SSL.com_EV_Root_Certification_Authority_RSA_R2.pem
+lrwxrwxrwx 1 root root   61 mar 19 21:45 590d426f.0 -> ../../ca-certificates/extracted/cadir/CAcert_Class_3_Root.pem
+lrwxrwxrwx 1 root root   76 mar 19 21:45 5a250ea7.0 -> ../../ca-certificates/extracted/cadir/Staat_der_Nederlanden_Root_CA_-_G3.pem
+lrwxrwxrwx 1 root root   72 mar 19 21:45 5a3f0ff8.0 -> ../../ca-certificates/extracted/cadir/COMODO_Certification_Authority.pem
+lrwxrwxrwx 1 root root   76 mar 19 21:45 5a4d6896.0 -> ../../ca-certificates/extracted/cadir/Staat_der_Nederlanden_Root_CA_-_G3.pem
+lrwxrwxrwx 1 root root   60 mar 19 21:45 5ad8a5d6.0 -> ../../ca-certificates/extracted/cadir/GlobalSign_Root_CA.pem
+lrwxrwxrwx 1 root root   76 mar 19 21:45 5c44d531.0 -> ../../ca-certificates/extracted/cadir/Staat_der_Nederlanden_Root_CA_-_G2.pem
+lrwxrwxrwx 1 root root   64 mar 19 21:45 5cd81ad7.0 -> ../../ca-certificates/extracted/cadir/TeliaSonera_Root_CA_v1.pem
+lrwxrwxrwx 1 root root   58 mar 19 21:45 5cf9d536.0 -> ../../ca-certificates/extracted/cadir/QuoVadis_Root_CA.pem
+lrwxrwxrwx 1 root root   64 mar 19 21:45 5d3033c5.0 -> ../../ca-certificates/extracted/cadir/TrustCor_RootCert_CA-1.pem
+lrwxrwxrwx 1 root root  102 mar 19 21:45 5e4e69e7.0 -> ../../ca-certificates/extracted/cadir/VeriSign_Class_3_Public_Primary_Certification_Authority_-_G4.pem
+lrwxrwxrwx 1 root root   67 mar 19 21:45 5ed36f99.0 -> ../../ca-certificates/extracted/cadir/CA_Cert_Signing_Authority.pem
+lrwxrwxrwx 1 root root   61 mar 19 21:45 5f15c80c.0 -> ../../ca-certificates/extracted/cadir/TWCA_Global_Root_CA.pem
+lrwxrwxrwx 1 root root   72 mar 19 21:45 5f47b495.0 -> ../../ca-certificates/extracted/cadir/Actalis_Authentication_Root_CA.pem
+lrwxrwxrwx 1 root root   65 mar 19 21:45 607986c7.0 -> ../../ca-certificates/extracted/cadir/DigiCert_Global_Root_G2.pem
+lrwxrwxrwx 1 root root   62 mar 19 21:45 608a55ad.0 -> ../../ca-certificates/extracted/cadir/OpenTrust_Root_CA_G2.pem
+lrwxrwxrwx 1 root root   86 mar 19 21:45 60afe812.0 -> ../../ca-certificates/extracted/cadir/NetLock_Arany__Class_Gold__F__tan__s__tv__ny.pem
+lrwxrwxrwx 1 root root   54 mar 19 21:45 6187b673.0 -> ../../ca-certificates/extracted/cadir/ISRG_Root_X1.pem
+lrwxrwxrwx 1 root root   64 mar 19 21:45 63a2c897.0 -> ../../ca-certificates/extracted/cadir/TeliaSonera_Root_CA_v1.pem
+lrwxrwxrwx 1 root root   53 mar 19 21:45 6410666e.0 -> ../../ca-certificates/extracted/cadir/Taiwan_GRCA.pem
+lrwxrwxrwx 1 root root   67 mar 19 21:45 653b494a.0 -> ../../ca-certificates/extracted/cadir/Baltimore_CyberTrust_Root.pem
+lrwxrwxrwx 1 root root   69 mar 19 21:45 67495436.0 -> ../../ca-certificates/extracted/cadir/thawte_Primary_Root_CA_-_G3.pem
+lrwxrwxrwx 1 root root   69 mar 19 21:45 69105f4f.0 -> ../../ca-certificates/extracted/cadir/DigiCert_Assured_ID_Root_CA.pem
+lrwxrwxrwx 1 root root   78 mar 19 21:45 6b99d060.0 -> ../../ca-certificates/extracted/cadir/Entrust_Root_Certification_Authority.pem
+lrwxrwxrwx 1 root root   58 mar 19 21:45 6d41d539.0 -> ../../ca-certificates/extracted/cadir/Amazon_Root_CA_2.pem
+lrwxrwxrwx 1 root root   82 mar 19 21:45 6fa5da56.0 -> ../../ca-certificates/extracted/cadir/SSL.com_Root_Certification_Authority_RSA.pem
+lrwxrwxrwx 1 root root   61 mar 19 21:45 6fcc125d.0 -> ../../ca-certificates/extracted/cadir/Visa_eCommerce_Root.pem
+lrwxrwxrwx 1 root root   62 mar 19 21:45 706f604c.0 -> ../../ca-certificates/extracted/cadir/XRamp_Global_CA_Root.pem
+lrwxrwxrwx 1 root root   63 mar 19 21:45 749e9e03.0 -> ../../ca-certificates/extracted/cadir/QuoVadis_Root_CA_1_G3.pem
+lrwxrwxrwx 1 root root   66 mar 19 21:45 75680d2e.0 -> ../../ca-certificates/extracted/cadir/Comodo_AAA_Services_root.pem
+lrwxrwxrwx 1 root root   66 mar 19 21:45 75d1b2ed.0 -> ../../ca-certificates/extracted/cadir/DigiCert_Trusted_Root_G4.pem
+lrwxrwxrwx 1 root root   62 mar 19 21:45 76579174.0 -> ../../ca-certificates/extracted/cadir/XRamp_Global_CA_Root.pem
+lrwxrwxrwx 1 root root   64 mar 19 21:45 76cb8f92.0 -> ../../ca-certificates/extracted/cadir/Cybertrust_Global_Root.pem
+lrwxrwxrwx 1 root root   60 mar 19 21:45 76faf6c0.0 -> ../../ca-certificates/extracted/cadir/QuoVadis_Root_CA_3.pem
+lrwxrwxrwx 1 root root  101 mar 19 21:45 7719f463.0 -> ../../ca-certificates/extracted/cadir/Hellenic_Academic_and_Research_Institutions_ECC_RootCA_2015.pem
+lrwxrwxrwx 1 root root   85 mar 19 21:45 7892ad52.0 -> ../../ca-certificates/extracted/cadir/SSL.com_EV_Root_Certification_Authority_ECC.pem
+lrwxrwxrwx 1 root root   99 mar 19 21:45 7992b8bb.0 -> ../../ca-certificates/extracted/cadir/T__RKTRUST_Elektronik_Sertifika_Hizmet_Sa__lay__c__s___H5.pem
+lrwxrwxrwx 1 root root   60 mar 19 21:45 7999be0d.0 -> ../../ca-certificates/extracted/cadir/GeoTrust_Global_CA.pem
+lrwxrwxrwx 1 root root   58 mar 19 21:45 7a7c655d.0 -> ../../ca-certificates/extracted/cadir/Amazon_Root_CA_3.pem
+lrwxrwxrwx 1 root root   60 mar 19 21:45 7a819ef2.0 -> ../../ca-certificates/extracted/cadir/QuoVadis_Root_CA_2.pem
+lrwxrwxrwx 1 root root   56 mar 19 21:45 7aaf71c0.0 -> ../../ca-certificates/extracted/cadir/TrustCor_ECA-1.pem
+lrwxrwxrwx 1 root root   64 mar 19 21:45 7c302982.0 -> ../../ca-certificates/extracted/cadir/TrustCor_RootCert_CA-1.pem
+lrwxrwxrwx 1 root root  102 mar 19 21:45 7d0b38bd.0 -> ../../ca-certificates/extracted/cadir/VeriSign_Class_3_Public_Primary_Certification_Authority_-_G4.pem
+lrwxrwxrwx 1 root root  102 mar 19 21:45 7d453d8f.0 -> ../../ca-certificates/extracted/cadir/Verisign_Class_3_Public_Primary_Certification_Authority_-_G3.pem
+lrwxrwxrwx 1 root root   69 mar 19 21:45 7f3d5d1d.0 -> ../../ca-certificates/extracted/cadir/DigiCert_Assured_ID_Root_G3.pem
+lrwxrwxrwx 1 root root   68 mar 19 21:45 812e17de.0 -> ../../ca-certificates/extracted/cadir/Deutsche_Telekom_Root_CA_2.pem
+lrwxrwxrwx 1 root root   72 mar 19 21:45 8160b96c.0 -> ../../ca-certificates/extracted/cadir/Microsec_e-Szigno_Root_CA_2009.pem
+lrwxrwxrwx 1 root root   76 mar 19 21:45 81b9768f.0 -> ../../ca-certificates/extracted/cadir/DigiCert_High_Assurance_EV_Root_CA.pem
+lrwxrwxrwx 1 root root   65 mar 19 21:45 82223c44.0 -> ../../ca-certificates/extracted/cadir/Buypass_Class_2_Root_CA.pem
+lrwxrwxrwx 1 root root   83 mar 19 21:45 85cde254.0 -> ../../ca-certificates/extracted/cadir/Starfield_Root_Certificate_Authority_-_G2.pem
+lrwxrwxrwx 1 root root   64 mar 19 21:45 86212b19.0 -> ../../ca-certificates/extracted/cadir/AffirmTrust_Networking.pem
+lrwxrwxrwx 1 root root   62 mar 19 21:45 87229d21.0 -> ../../ca-certificates/extracted/cadir/OpenTrust_Root_CA_G1.pem
+lrwxrwxrwx 1 root root   65 mar 19 21:45 87753b0d.0 -> ../../ca-certificates/extracted/cadir/GeoTrust_Universal_CA_2.pem
+lrwxrwxrwx 1 root root   58 mar 19 21:45 882de061.0 -> ../../ca-certificates/extracted/cadir/certSIGN_ROOT_CA.pem
+lrwxrwxrwx 1 root root   65 mar 19 21:45 8867006a.0 -> ../../ca-certificates/extracted/cadir/GeoTrust_Universal_CA_2.pem
+lrwxrwxrwx 1 root root   82 mar 19 21:45 88950faa.0 -> ../../ca-certificates/extracted/cadir/SSL.com_Root_Certification_Authority_ECC.pem
+lrwxrwxrwx 1 root root   76 mar 19 21:45 89c02a45.0 -> ../../ca-certificates/extracted/cadir/COMODO_ECC_Certification_Authority.pem
+lrwxrwxrwx 1 root root   58 mar 19 21:45 8cb5ee0f.0 -> ../../ca-certificates/extracted/cadir/Amazon_Root_CA_3.pem
+lrwxrwxrwx 1 root root   69 mar 19 21:45 8d6437c3.0 -> ../../ca-certificates/extracted/cadir/DigiCert_Assured_ID_Root_G2.pem
+lrwxrwxrwx 1 root root   58 mar 19 21:45 8d86cdd1.0 -> ../../ca-certificates/extracted/cadir/certSIGN_ROOT_CA.pem
+lrwxrwxrwx 1 root root   61 mar 19 21:45 9168f543.0 -> ../../ca-certificates/extracted/cadir/Certplus_Root_CA_G1.pem
+lrwxrwxrwx 1 root root   73 mar 19 21:45 91739615.0 -> ../../ca-certificates/extracted/cadir/EE_Certification_Centre_Root_CA.pem
+lrwxrwxrwx 1 root root   54 mar 19 21:45 9282e51c.0 -> ../../ca-certificates/extracted/cadir/CFCA_EV_ROOT.pem
+lrwxrwxrwx 1 root root   72 mar 19 21:45 930ac5d2.0 -> ../../ca-certificates/extracted/cadir/Actalis_Authentication_Root_CA.pem
+lrwxrwxrwx 1 root root   60 mar 19 21:45 9339512a.0 -> ../../ca-certificates/extracted/cadir/QuoVadis_Root_CA_3.pem
+lrwxrwxrwx 1 root root   64 mar 19 21:45 93bc0acc.0 -> ../../ca-certificates/extracted/cadir/AffirmTrust_Networking.pem
+lrwxrwxrwx 1 root root  101 mar 19 21:45 9479c8c3.0 -> ../../ca-certificates/extracted/cadir/Hellenic_Academic_and_Research_Institutions_ECC_RootCA_2015.pem
+lrwxrwxrwx 1 root root   58 mar 19 21:45 9576d26b.0 -> ../../ca-certificates/extracted/cadir/CA_Disig_Root_R2.pem
+lrwxrwxrwx 1 root root   67 mar 19 21:45 95aff9e3.0 -> ../../ca-certificates/extracted/cadir/Certum_Trusted_Network_CA.pem
+lrwxrwxrwx 1 root root   65 mar 19 21:45 9685a493.0 -> ../../ca-certificates/extracted/cadir/Hongkong_Post_Root_CA_1.pem
+lrwxrwxrwx 1 root root   82 mar 19 21:45 9772ca32.0 -> ../../ca-certificates/extracted/cadir/GeoTrust_Primary_Certification_Authority.pem
+lrwxrwxrwx 1 root root   86 mar 19 21:45 988a38cb.0 -> ../../ca-certificates/extracted/cadir/NetLock_Arany__Class_Gold__F__tan__s__tv__ny.pem
+lrwxrwxrwx 1 root root   67 mar 19 21:45 99d0fa06.0 -> ../../ca-certificates/extracted/cadir/CA_Cert_Signing_Authority.pem
+lrwxrwxrwx 1 root root   64 mar 19 21:45 9c2e7d30.0 -> ../../ca-certificates/extracted/cadir/Sonera_Class_2_Root_CA.pem
+lrwxrwxrwx 1 root root   62 mar 19 21:45 9c3323d4.0 -> ../../ca-certificates/extracted/cadir/OpenTrust_Root_CA_G1.pem
+lrwxrwxrwx 1 root root   65 mar 19 21:45 9c8dfbd4.0 -> ../../ca-certificates/extracted/cadir/AffirmTrust_Premium_ECC.pem
+lrwxrwxrwx 1 root root   69 mar 19 21:45 9d04f354.0 -> ../../ca-certificates/extracted/cadir/DigiCert_Assured_ID_Root_G2.pem
+lrwxrwxrwx 1 root root   75 mar 19 21:45 9d6523ce.0 -> ../../ca-certificates/extracted/cadir/ePKI_Root_Certification_Authority.pem
+lrwxrwxrwx 1 root root   62 mar 19 21:45 9f0f5fd6.0 -> ../../ca-certificates/extracted/cadir/Certinomis_-_Root_CA.pem
+lrwxrwxrwx 1 root root   72 mar 19 21:45 9f533518.0 -> ../../ca-certificates/extracted/cadir/Global_Chambersign_Root_-_2008.pem
+lrwxrwxrwx 1 root root   66 mar 19 21:45 a2c66da8.0 -> ../../ca-certificates/extracted/cadir/DigiCert_Trusted_Root_G4.pem
+lrwxrwxrwx 1 root root   72 mar 19 21:45 a3896b44.0 -> ../../ca-certificates/extracted/cadir/Security_Communication_Root_CA.pem
+lrwxrwxrwx 1 root root   64 mar 19 21:45 a7605362.0 -> ../../ca-certificates/extracted/cadir/Sonera_Class_2_Root_CA.pem
+lrwxrwxrwx 1 root root   61 mar 19 21:45 a760e1bd.0 -> ../../ca-certificates/extracted/cadir/Visa_eCommerce_Root.pem
+lrwxrwxrwx 1 root root   69 mar 19 21:45 a7d2cf64.0 -> ../../ca-certificates/extracted/cadir/thawte_Primary_Root_CA_-_G2.pem
+lrwxrwxrwx 1 root root   57 mar 19 21:45 a81e292b.0 -> ../../ca-certificates/extracted/cadir/SZAFIR_ROOT_CA2.pem
+lrwxrwxrwx 1 root root   51 mar 19 21:45 a94d09e5.0 -> ../../ca-certificates/extracted/cadir/ACCVRAIZ1.pem
+lrwxrwxrwx 1 root root   61 mar 19 21:45 ab5346f4.0 -> ../../ca-certificates/extracted/cadir/SecureSign_RootCA11.pem
+lrwxrwxrwx 1 root root   64 mar 19 21:45 ab59055e.0 -> ../../ca-certificates/extracted/cadir/GDCA_TrustAUTH_R5_ROOT.pem
+lrwxrwxrwx 1 root root   51 mar 19 21:45 ACCVRAIZ1.pem -> ../../ca-certificates/extracted/cadir/ACCVRAIZ1.pem
+lrwxrwxrwx 1 root root   58 mar 19 21:45 AC_RAIZ_FNMT-RCM.pem -> ../../ca-certificates/extracted/cadir/AC_RAIZ_FNMT-RCM.pem
+lrwxrwxrwx 1 root root   72 mar 19 21:45 Actalis_Authentication_Root_CA.pem -> ../../ca-certificates/extracted/cadir/Actalis_Authentication_Root_CA.pem
+lrwxrwxrwx 1 root root   63 mar 19 21:45 ad088e1d.0 -> ../../ca-certificates/extracted/cadir/GeoTrust_Universal_CA.pem
+lrwxrwxrwx 1 root root   64 mar 19 21:45 AddTrust_External_Root.pem -> ../../ca-certificates/extracted/cadir/AddTrust_External_Root.pem
+lrwxrwxrwx 1 root root   48 mar 19 21:45 aeb67534.0 -> ../../ca-certificates/extracted/cadir/EC-ACC.pem
+lrwxrwxrwx 1 root root   83 mar 19 21:45 aee5f10d.0 -> ../../ca-certificates/extracted/cadir/Entrust.net_Premium_2048_Secure_Server_CA.pem
+lrwxrwxrwx 1 root root   64 mar 19 21:45 AffirmTrust_Commercial.pem -> ../../ca-certificates/extracted/cadir/AffirmTrust_Commercial.pem
+lrwxrwxrwx 1 root root   64 mar 19 21:45 AffirmTrust_Networking.pem -> ../../ca-certificates/extracted/cadir/AffirmTrust_Networking.pem
+lrwxrwxrwx 1 root root   65 mar 19 21:45 AffirmTrust_Premium_ECC.pem -> ../../ca-certificates/extracted/cadir/AffirmTrust_Premium_ECC.pem
+lrwxrwxrwx 1 root root   61 mar 19 21:45 AffirmTrust_Premium.pem -> ../../ca-certificates/extracted/cadir/AffirmTrust_Premium.pem
+lrwxrwxrwx 1 root root   58 mar 19 21:45 Amazon_Root_CA_1.pem -> ../../ca-certificates/extracted/cadir/Amazon_Root_CA_1.pem
+lrwxrwxrwx 1 root root   58 mar 19 21:45 Amazon_Root_CA_2.pem -> ../../ca-certificates/extracted/cadir/Amazon_Root_CA_2.pem
+lrwxrwxrwx 1 root root   58 mar 19 21:45 Amazon_Root_CA_3.pem -> ../../ca-certificates/extracted/cadir/Amazon_Root_CA_3.pem
+lrwxrwxrwx 1 root root   58 mar 19 21:45 Amazon_Root_CA_4.pem -> ../../ca-certificates/extracted/cadir/Amazon_Root_CA_4.pem
+lrwxrwxrwx 1 root root   63 mar 19 21:45 Atos_TrustedRoot_2011.pem -> ../../ca-certificates/extracted/cadir/Atos_TrustedRoot_2011.pem
+lrwxrwxrwx 1 root root   99 mar 19 21:45 Autoridad_de_Certificacion_Firmaprofesional_CIF_A62634068.pem -> ../../ca-certificates/extracted/cadir/Autoridad_de_Certificacion_Firmaprofesional_CIF_A62634068.pem
+lrwxrwxrwx 1 root root   69 mar 19 21:45 b0e59380.0 -> ../../ca-certificates/extracted/cadir/GlobalSign_ECC_Root_CA_-_R4.pem
+lrwxrwxrwx 1 root root   61 mar 19 21:45 b0ed035a.0 -> ../../ca-certificates/extracted/cadir/TWCA_Global_Root_CA.pem
+lrwxrwxrwx 1 root root   60 mar 19 21:45 b0f3e76e.0 -> ../../ca-certificates/extracted/cadir/GlobalSign_Root_CA.pem
+lrwxrwxrwx 1 root root   69 mar 19 21:45 b1159c4c.0 -> ../../ca-certificates/extracted/cadir/DigiCert_Assured_ID_Root_CA.pem
+lrwxrwxrwx 1 root root   73 mar 19 21:45 b1b8a7f3.0 -> ../../ca-certificates/extracted/cadir/OISTE_WISeKey_Global_Root_GA_CA.pem
+lrwxrwxrwx 1 root root  102 mar 19 21:45 b204d74a.0 -> ../../ca-certificates/extracted/cadir/VeriSign_Class_3_Public_Primary_Certification_Authority_-_G5.pem
+lrwxrwxrwx 1 root root   84 mar 19 21:45 b3fb433b.0 -> ../../ca-certificates/extracted/cadir/Entrust_Root_Certification_Authority_-_EC1.pem
+lrwxrwxrwx 1 root root   58 mar 19 21:45 b66938e9.0 -> ../../ca-certificates/extracted/cadir/Secure_Global_CA.pem
+lrwxrwxrwx 1 root root   61 mar 19 21:45 b727005e.0 -> ../../ca-certificates/extracted/cadir/AffirmTrust_Premium.pem
+lrwxrwxrwx 1 root root   75 mar 19 21:45 b7a5b843.0 -> ../../ca-certificates/extracted/cadir/TWCA_Root_Certification_Authority.pem
+lrwxrwxrwx 1 root root   75 mar 19 21:45 b7db1890.0 -> ../../ca-certificates/extracted/cadir/TWCA_Root_Certification_Authority.pem
+lrwxrwxrwx 1 root root   63 mar 19 21:45 b872f2b4.0 -> ../../ca-certificates/extracted/cadir/Atos_TrustedRoot_2011.pem
+lrwxrwxrwx 1 root root   58 mar 19 21:45 b936d1c6.0 -> ../../ca-certificates/extracted/cadir/AC_RAIZ_FNMT-RCM.pem
+lrwxrwxrwx 1 root root   69 mar 19 21:45 ba89ed3b.0 -> ../../ca-certificates/extracted/cadir/thawte_Primary_Root_CA_-_G3.pem
+lrwxrwxrwx 1 root root   67 mar 19 21:45 Baltimore_CyberTrust_Root.pem -> ../../ca-certificates/extracted/cadir/Baltimore_CyberTrust_Root.pem
+lrwxrwxrwx 1 root root   82 mar 19 21:45 bc3f2570.0 -> ../../ca-certificates/extracted/cadir/Go_Daddy_Root_Certificate_Authority_-_G2.pem
+lrwxrwxrwx 1 root root   58 mar 19 21:45 bdacca6f.0 -> ../../ca-certificates/extracted/cadir/Secure_Global_CA.pem
+lrwxrwxrwx 1 root root   78 mar 19 21:45 bf64f35b.0 -> ../../ca-certificates/extracted/cadir/Entrust_Root_Certification_Authority.pem
+lrwxrwxrwx 1 root root   65 mar 19 21:45 Buypass_Class_2_Root_CA.pem -> ../../ca-certificates/extracted/cadir/Buypass_Class_2_Root_CA.pem
+lrwxrwxrwx 1 root root   65 mar 19 21:45 Buypass_Class_3_Root_CA.pem -> ../../ca-certificates/extracted/cadir/Buypass_Class_3_Root_CA.pem
+lrwxrwxrwx 1 root root   89 mar 19 21:45 c01cdfa2.0 -> ../../ca-certificates/extracted/cadir/VeriSign_Universal_Root_Certification_Authority.pem
+lrwxrwxrwx 1 root root   69 mar 19 21:45 c089bbbd.0 -> ../../ca-certificates/extracted/cadir/thawte_Primary_Root_CA_-_G2.pem
+lrwxrwxrwx 1 root root  102 mar 19 21:45 c0ff1f52.0 -> ../../ca-certificates/extracted/cadir/Verisign_Class_3_Public_Primary_Certification_Authority_-_G3.pem
+lrwxrwxrwx 1 root root   72 mar 19 21:45 c28a8a30.0 -> ../../ca-certificates/extracted/cadir/D-TRUST_Root_Class_3_CA_2_2009.pem
+lrwxrwxrwx 1 root root   56 mar 19 21:45 c2c1704e.0 -> ../../ca-certificates/extracted/cadir/TrustCor_ECA-1.pem
+lrwxrwxrwx 1 root root   74 mar 19 21:45 c47d9980.0 -> ../../ca-certificates/extracted/cadir/Chambers_of_Commerce_Root_-_2008.pem
+lrwxrwxrwx 1 root root   69 mar 19 21:45 c491639e.0 -> ../../ca-certificates/extracted/cadir/DigiCert_Assured_ID_Root_G3.pem
+lrwxrwxrwx 1 root root   61 mar 19 21:45 c51c224c.0 -> ../../ca-certificates/extracted/cadir/Trustis_FPS_Root_CA.pem
+lrwxrwxrwx 1 root root   87 mar 19 21:45 c7e2a638.0 -> ../../ca-certificates/extracted/cadir/GeoTrust_Primary_Certification_Authority_-_G3.pem
+lrwxrwxrwx 1 root root   64 mar 19 21:45 c907e29b.0 -> ../../ca-certificates/extracted/cadir/LuxTrust_Global_Root_2.pem
+lrwxrwxrwx 1 root root   65 mar 19 21:45 c90bc37d.0 -> ../../ca-certificates/extracted/cadir/DigiCert_Global_Root_G2.pem
+lrwxrwxrwx 1 root root   75 mar 19 21:45 ca6e4ad9.0 -> ../../ca-certificates/extracted/cadir/ePKI_Root_Certification_Authority.pem
+lrwxrwxrwx 1 root root   61 mar 19 21:45 CAcert_Class_3_Root.pem -> ../../ca-certificates/extracted/cadir/CAcert_Class_3_Root.pem
+lrwxrwxrwx 1 root root   49 mar  7  2017 ca-certificates.crt -> ../../ca-certificates/extracted/tls-ca-bundle.pem
+lrwxrwxrwx 1 root root   67 mar 19 21:45 CA_Cert_Signing_Authority.pem -> ../../ca-certificates/extracted/cadir/CA_Cert_Signing_Authority.pem
+lrwxrwxrwx 1 root root   58 mar 19 21:45 CA_Disig_Root_R2.pem -> ../../ca-certificates/extracted/cadir/CA_Disig_Root_R2.pem
+lrwxrwxrwx 1 root root   73 mar 19 21:45 cb156124.0 -> ../../ca-certificates/extracted/cadir/E-Tugra_Certification_Authority.pem
+lrwxrwxrwx 1 root root   69 mar 19 21:45 cb1c3204.0 -> ../../ca-certificates/extracted/cadir/Certum_Trusted_Network_CA_2.pem
+lrwxrwxrwx 1 root root   82 mar 19 21:45 cbf06781.0 -> ../../ca-certificates/extracted/cadir/Go_Daddy_Root_Certificate_Authority_-_G2.pem
+lrwxrwxrwx 1 root root   52 mar 19 21:45 cc450945.0 -> ../../ca-certificates/extracted/cadir/Izenpe.com.pem
+lrwxrwxrwx 1 root root   65 mar 19 21:45 ccc52f49.0 -> ../../ca-certificates/extracted/cadir/AffirmTrust_Premium_ECC.pem
+lrwxrwxrwx 1 root root   72 mar 19 21:45 cd58d51e.0 -> ../../ca-certificates/extracted/cadir/Security_Communication_RootCA2.pem
+lrwxrwxrwx 1 root root   58 mar 19 21:45 cd8c0d63.0 -> ../../ca-certificates/extracted/cadir/AC_RAIZ_FNMT-RCM.pem
+lrwxrwxrwx 1 root root   58 mar 19 21:45 ce5e74ef.0 -> ../../ca-certificates/extracted/cadir/Amazon_Root_CA_1.pem
+lrwxrwxrwx 1 root root   50 mar 19 21:45 Certigna.pem -> ../../ca-certificates/extracted/cadir/Certigna.pem
+lrwxrwxrwx 1 root root   62 mar 19 21:45 Certinomis_-_Root_CA.pem -> ../../ca-certificates/extracted/cadir/Certinomis_-_Root_CA.pem
+lrwxrwxrwx 1 root root   69 mar 19 21:45 Certplus_Class_2_Primary_CA.pem -> ../../ca-certificates/extracted/cadir/Certplus_Class_2_Primary_CA.pem
+lrwxrwxrwx 1 root root   61 mar 19 21:45 Certplus_Root_CA_G1.pem -> ../../ca-certificates/extracted/cadir/Certplus_Root_CA_G1.pem
+lrwxrwxrwx 1 root root   61 mar 19 21:45 Certplus_Root_CA_G2.pem -> ../../ca-certificates/extracted/cadir/Certplus_Root_CA_G2.pem
+lrwxrwxrwx 1 root root   58 mar 19 21:45 certSIGN_ROOT_CA.pem -> ../../ca-certificates/extracted/cadir/certSIGN_ROOT_CA.pem
+lrwxrwxrwx 1 root root   69 mar 19 21:45 Certum_Trusted_Network_CA_2.pem -> ../../ca-certificates/extracted/cadir/Certum_Trusted_Network_CA_2.pem
+lrwxrwxrwx 1 root root   67 mar 19 21:45 Certum_Trusted_Network_CA.pem -> ../../ca-certificates/extracted/cadir/Certum_Trusted_Network_CA.pem
+lrwxrwxrwx 1 root root   56 mar 19 21:45 cf701eeb.0 -> ../../ca-certificates/extracted/cadir/SecureTrust_CA.pem
+lrwxrwxrwx 1 root root   54 mar 19 21:45 CFCA_EV_ROOT.pem -> ../../ca-certificates/extracted/cadir/CFCA_EV_ROOT.pem
+lrwxrwxrwx 1 root root   74 mar 19 21:45 Chambers_of_Commerce_Root_-_2008.pem -> ../../ca-certificates/extracted/cadir/Chambers_of_Commerce_Root_-_2008.pem
+lrwxrwxrwx 1 root root   66 mar 19 21:45 Comodo_AAA_Services_root.pem -> ../../ca-certificates/extracted/cadir/Comodo_AAA_Services_root.pem
+lrwxrwxrwx 1 root root   72 mar 19 21:45 COMODO_Certification_Authority.pem -> ../../ca-certificates/extracted/cadir/COMODO_Certification_Authority.pem
+lrwxrwxrwx 1 root root   76 mar 19 21:45 COMODO_ECC_Certification_Authority.pem -> ../../ca-certificates/extracted/cadir/COMODO_ECC_Certification_Authority.pem
+lrwxrwxrwx 1 root root   76 mar 19 21:45 COMODO_RSA_Certification_Authority.pem -> ../../ca-certificates/extracted/cadir/COMODO_RSA_Certification_Authority.pem
+lrwxrwxrwx 1 root root   64 mar 19 21:45 Cybertrust_Global_Root.pem -> ../../ca-certificates/extracted/cadir/Cybertrust_Global_Root.pem
+lrwxrwxrwx 1 root root   70 mar 19 21:45 d06393bb.0 -> ../../ca-certificates/extracted/cadir/T-TeleSec_GlobalRoot_Class_2.pem
+lrwxrwxrwx 1 root root   64 mar 19 21:45 d0cddf45.0 -> ../../ca-certificates/extracted/cadir/TrustCor_RootCert_CA-2.pem
+lrwxrwxrwx 1 root root   99 mar 19 21:45 d16a5865.0 -> ../../ca-certificates/extracted/cadir/Autoridad_de_Certificacion_Firmaprofesional_CIF_A62634068.pem
+lrwxrwxrwx 1 root root   72 mar 19 21:45 d18e9066.0 -> ../../ca-certificates/extracted/cadir/IdenTrust_Commercial_Root_CA_1.pem
+lrwxrwxrwx 1 root root   58 mar 19 21:45 d41b5e2a.0 -> ../../ca-certificates/extracted/cadir/Amazon_Root_CA_4.pem
+lrwxrwxrwx 1 root root   76 mar 19 21:45 d4c339cb.0 -> ../../ca-certificates/extracted/cadir/COMODO_RSA_Certification_Authority.pem
+lrwxrwxrwx 1 root root   75 mar 19 21:45 d4dae3dd.0 -> ../../ca-certificates/extracted/cadir/D-TRUST_Root_Class_3_CA_2_EV_2009.pem
+lrwxrwxrwx 1 root root   72 mar 19 21:45 d59297b8.0 -> ../../ca-certificates/extracted/cadir/Security_Communication_RootCA2.pem
+lrwxrwxrwx 1 root root   76 mar 19 21:45 d6325660.0 -> ../../ca-certificates/extracted/cadir/COMODO_RSA_Certification_Authority.pem
+lrwxrwxrwx 1 root root   62 mar 19 21:45 d6e6eab9.0 -> ../../ca-certificates/extracted/cadir/Certinomis_-_Root_CA.pem
+lrwxrwxrwx 1 root root   75 mar 19 21:45 d7746a63.0 -> ../../ca-certificates/extracted/cadir/D-TRUST_Root_Class_3_CA_2_EV_2009.pem
+lrwxrwxrwx 1 root root   60 mar 19 21:45 d7e8dc79.0 -> ../../ca-certificates/extracted/cadir/QuoVadis_Root_CA_2.pem
+lrwxrwxrwx 1 root root   61 mar 19 21:45 d8317ada.0 -> ../../ca-certificates/extracted/cadir/Certplus_Root_CA_G2.pem
+lrwxrwxrwx 1 root root   61 mar 19 21:45 d853d49e.0 -> ../../ca-certificates/extracted/cadir/Trustis_FPS_Root_CA.pem
+lrwxrwxrwx 1 root root   61 mar 19 21:45 dbc54cab.0 -> ../../ca-certificates/extracted/cadir/AffirmTrust_Premium.pem
+lrwxrwxrwx 1 root root   97 mar 19 21:45 dc99f41e.0 -> ../../ca-certificates/extracted/cadir/Hellenic_Academic_and_Research_Institutions_RootCA_2015.pem
+lrwxrwxrwx 1 root root   65 mar 19 21:45 dd8e9d41.0 -> ../../ca-certificates/extracted/cadir/DigiCert_Global_Root_G3.pem
+lrwxrwxrwx 1 root root   58 mar 19 21:45 de6d66f3.0 -> ../../ca-certificates/extracted/cadir/Amazon_Root_CA_4.pem
+lrwxrwxrwx 1 root root   64 mar 19 21:45 def36a68.0 -> ../../ca-certificates/extracted/cadir/LuxTrust_Global_Root_2.pem
+lrwxrwxrwx 1 root root   68 mar 19 21:45 Deutsche_Telekom_Root_CA_2.pem -> ../../ca-certificates/extracted/cadir/Deutsche_Telekom_Root_CA_2.pem
+lrwxrwxrwx 1 root root   73 mar 19 21:45 dfc0fe80.0 -> ../../ca-certificates/extracted/cadir/OISTE_WISeKey_Global_Root_GB_CA.pem
+lrwxrwxrwx 1 root root   69 mar 19 21:45 DigiCert_Assured_ID_Root_CA.pem -> ../../ca-certificates/extracted/cadir/DigiCert_Assured_ID_Root_CA.pem
+lrwxrwxrwx 1 root root   69 mar 19 21:45 DigiCert_Assured_ID_Root_G2.pem -> ../../ca-certificates/extracted/cadir/DigiCert_Assured_ID_Root_G2.pem
+lrwxrwxrwx 1 root root   69 mar 19 21:45 DigiCert_Assured_ID_Root_G3.pem -> ../../ca-certificates/extracted/cadir/DigiCert_Assured_ID_Root_G3.pem
+lrwxrwxrwx 1 root root   65 mar 19 21:45 DigiCert_Global_Root_CA.pem -> ../../ca-certificates/extracted/cadir/DigiCert_Global_Root_CA.pem
+lrwxrwxrwx 1 root root   65 mar 19 21:45 DigiCert_Global_Root_G2.pem -> ../../ca-certificates/extracted/cadir/DigiCert_Global_Root_G2.pem
+lrwxrwxrwx 1 root root   65 mar 19 21:45 DigiCert_Global_Root_G3.pem -> ../../ca-certificates/extracted/cadir/DigiCert_Global_Root_G3.pem
+lrwxrwxrwx 1 root root   76 mar 19 21:45 DigiCert_High_Assurance_EV_Root_CA.pem -> ../../ca-certificates/extracted/cadir/DigiCert_High_Assurance_EV_Root_CA.pem
+lrwxrwxrwx 1 root root   66 mar 19 21:45 DigiCert_Trusted_Root_G4.pem -> ../../ca-certificates/extracted/cadir/DigiCert_Trusted_Root_G4.pem
+lrwxrwxrwx 1 root root   56 mar 19 21:45 DST_Root_CA_X3.pem -> ../../ca-certificates/extracted/cadir/DST_Root_CA_X3.pem
+lrwxrwxrwx 1 root root   72 mar 19 21:45 D-TRUST_Root_Class_3_CA_2_2009.pem -> ../../ca-certificates/extracted/cadir/D-TRUST_Root_Class_3_CA_2_2009.pem
+lrwxrwxrwx 1 root root   75 mar 19 21:45 D-TRUST_Root_Class_3_CA_2_EV_2009.pem -> ../../ca-certificates/extracted/cadir/D-TRUST_Root_Class_3_CA_2_EV_2009.pem
+lrwxrwxrwx 1 root root   50 mar 19 21:45 e113c810.0 -> ../../ca-certificates/extracted/cadir/Certigna.pem
+lrwxrwxrwx 1 root root   63 mar 19 21:45 e18bfb83.0 -> ../../ca-certificates/extracted/cadir/QuoVadis_Root_CA_3_G3.pem
+lrwxrwxrwx 1 root root   87 mar 19 21:45 e2799e36.0 -> ../../ca-certificates/extracted/cadir/GeoTrust_Primary_Certification_Authority_-_G3.pem
+lrwxrwxrwx 1 root root   63 mar 19 21:45 e36a6752.0 -> ../../ca-certificates/extracted/cadir/Atos_TrustedRoot_2011.pem
+lrwxrwxrwx 1 root root   63 mar 19 21:45 e442e424.0 -> ../../ca-certificates/extracted/cadir/QuoVadis_Root_CA_3_G3.pem
+lrwxrwxrwx 1 root root   64 mar 19 21:45 e48193cf.0 -> ../../ca-certificates/extracted/cadir/AffirmTrust_Commercial.pem
+lrwxrwxrwx 1 root root   61 mar 19 21:45 e5662767.0 -> ../../ca-certificates/extracted/cadir/CAcert_Class_3_Root.pem
+lrwxrwxrwx 1 root root   73 mar 19 21:45 e73d606e.0 -> ../../ca-certificates/extracted/cadir/OISTE_WISeKey_Global_Root_GB_CA.pem
+lrwxrwxrwx 1 root root   63 mar 19 21:45 e775ed2d.0 -> ../../ca-certificates/extracted/cadir/GeoTrust_Universal_CA.pem
+lrwxrwxrwx 1 root root   72 mar 19 21:45 e8651083.0 -> ../../ca-certificates/extracted/cadir/Microsec_e-Szigno_Root_CA_2009.pem
+lrwxrwxrwx 1 root root   65 mar 19 21:45 e8de2f56.0 -> ../../ca-certificates/extracted/cadir/Buypass_Class_3_Root_CA.pem
+lrwxrwxrwx 1 root root   48 mar 19 21:45 EC-ACC.pem -> ../../ca-certificates/extracted/cadir/EC-ACC.pem
+lrwxrwxrwx 1 root root   65 mar 19 21:45 ed39abd0.0 -> ../../ca-certificates/extracted/cadir/DigiCert_Global_Root_G3.pem
+lrwxrwxrwx 1 root root   66 mar 19 21:45 ee64a828.0 -> ../../ca-certificates/extracted/cadir/Comodo_AAA_Services_root.pem
+lrwxrwxrwx 1 root root   73 mar 19 21:45 EE_Certification_Centre_Root_CA.pem -> ../../ca-certificates/extracted/cadir/EE_Certification_Centre_Root_CA.pem
+lrwxrwxrwx 1 root root   76 mar 19 21:45 eed8c118.0 -> ../../ca-certificates/extracted/cadir/COMODO_ECC_Certification_Authority.pem
+lrwxrwxrwx 1 root root   72 mar 19 21:45 ef954a4e.0 -> ../../ca-certificates/extracted/cadir/IdenTrust_Commercial_Root_CA_1.pem
+lrwxrwxrwx 1 root root   83 mar 19 21:45 Entrust.net_Premium_2048_Secure_Server_CA.pem -> ../../ca-certificates/extracted/cadir/Entrust.net_Premium_2048_Secure_Server_CA.pem
+lrwxrwxrwx 1 root root   84 mar 19 21:45 Entrust_Root_Certification_Authority_-_EC1.pem -> ../../ca-certificates/extracted/cadir/Entrust_Root_Certification_Authority_-_EC1.pem
+lrwxrwxrwx 1 root root   83 mar 19 21:45 Entrust_Root_Certification_Authority_-_G2.pem -> ../../ca-certificates/extracted/cadir/Entrust_Root_Certification_Authority_-_G2.pem
+lrwxrwxrwx 1 root root   78 mar 19 21:45 Entrust_Root_Certification_Authority.pem -> ../../ca-certificates/extracted/cadir/Entrust_Root_Certification_Authority.pem
+lrwxrwxrwx 1 root root   75 mar 19 21:45 ePKI_Root_Certification_Authority.pem -> ../../ca-certificates/extracted/cadir/ePKI_Root_Certification_Authority.pem
+lrwxrwxrwx 1 root root   73 mar 19 21:45 E-Tugra_Certification_Authority.pem -> ../../ca-certificates/extracted/cadir/E-Tugra_Certification_Authority.pem
+lrwxrwxrwx 1 root root   69 mar 19 21:45 f060240e.0 -> ../../ca-certificates/extracted/cadir/Certplus_Class_2_Primary_CA.pem
+lrwxrwxrwx 1 root root   61 mar 19 21:45 f081611a.0 -> ../../ca-certificates/extracted/cadir/Go_Daddy_Class_2_CA.pem
+lrwxrwxrwx 1 root root   85 mar 19 21:45 f0c70a8d.0 -> ../../ca-certificates/extracted/cadir/SSL.com_EV_Root_Certification_Authority_ECC.pem
+lrwxrwxrwx 1 root root   79 mar 19 21:45 f30dd6ad.0 -> ../../ca-certificates/extracted/cadir/USERTrust_ECC_Certification_Authority.pem
+lrwxrwxrwx 1 root root   72 mar 19 21:45 f3377b1b.0 -> ../../ca-certificates/extracted/cadir/Security_Communication_Root_CA.pem
+lrwxrwxrwx 1 root root   62 mar 19 21:45 f387163d.0 -> ../../ca-certificates/extracted/cadir/Starfield_Class_2_CA.pem
+lrwxrwxrwx 1 root root   56 mar 19 21:45 f39fc864.0 -> ../../ca-certificates/extracted/cadir/SecureTrust_CA.pem
+lrwxrwxrwx 1 root root  102 mar 19 21:45 facacbc6.0 -> ../../ca-certificates/extracted/cadir/VeriSign_Class_3_Public_Primary_Certification_Authority_-_G5.pem
+lrwxrwxrwx 1 root root   58 mar 19 21:45 fb5fa911.0 -> ../../ca-certificates/extracted/cadir/Amazon_Root_CA_2.pem
+lrwxrwxrwx 1 root root   79 mar 19 21:45 fc5a8f99.0 -> ../../ca-certificates/extracted/cadir/USERTrust_RSA_Certification_Authority.pem
+lrwxrwxrwx 1 root root   58 mar 19 21:45 fd08c599.0 -> ../../ca-certificates/extracted/cadir/Amazon_Root_CA_1.pem
+lrwxrwxrwx 1 root root   50 mar 19 21:45 fde84897.0 -> ../../ca-certificates/extracted/cadir/Certigna.pem
+lrwxrwxrwx 1 root root   57 mar 19 21:45 fe8a2cd8.0 -> ../../ca-certificates/extracted/cadir/SZAFIR_ROOT_CA2.pem
+lrwxrwxrwx 1 root root   87 mar 19 21:45 ff34af3f.0 -> ../../ca-certificates/extracted/cadir/TUBITAK_Kamu_SM_SSL_Kok_Sertifikasi_-_Surum_1.pem
+lrwxrwxrwx 1 root root   64 mar 19 21:45 GDCA_TrustAUTH_R5_ROOT.pem -> ../../ca-certificates/extracted/cadir/GDCA_TrustAUTH_R5_ROOT.pem
+lrwxrwxrwx 1 root root   60 mar 19 21:45 GeoTrust_Global_CA.pem -> ../../ca-certificates/extracted/cadir/GeoTrust_Global_CA.pem
+lrwxrwxrwx 1 root root   87 mar 19 21:45 GeoTrust_Primary_Certification_Authority_-_G2.pem -> ../../ca-certificates/extracted/cadir/GeoTrust_Primary_Certification_Authority_-_G2.pem
+lrwxrwxrwx 1 root root   87 mar 19 21:45 GeoTrust_Primary_Certification_Authority_-_G3.pem -> ../../ca-certificates/extracted/cadir/GeoTrust_Primary_Certification_Authority_-_G3.pem
+lrwxrwxrwx 1 root root   82 mar 19 21:45 GeoTrust_Primary_Certification_Authority.pem -> ../../ca-certificates/extracted/cadir/GeoTrust_Primary_Certification_Authority.pem
+lrwxrwxrwx 1 root root   65 mar 19 21:45 GeoTrust_Universal_CA_2.pem -> ../../ca-certificates/extracted/cadir/GeoTrust_Universal_CA_2.pem
+lrwxrwxrwx 1 root root   63 mar 19 21:45 GeoTrust_Universal_CA.pem -> ../../ca-certificates/extracted/cadir/GeoTrust_Universal_CA.pem
+lrwxrwxrwx 1 root root   72 mar 19 21:45 Global_Chambersign_Root_-_2008.pem -> ../../ca-certificates/extracted/cadir/Global_Chambersign_Root_-_2008.pem
+lrwxrwxrwx 1 root root   69 mar 19 21:45 GlobalSign_ECC_Root_CA_-_R4.pem -> ../../ca-certificates/extracted/cadir/GlobalSign_ECC_Root_CA_-_R4.pem
+lrwxrwxrwx 1 root root   69 mar 19 21:45 GlobalSign_ECC_Root_CA_-_R5.pem -> ../../ca-certificates/extracted/cadir/GlobalSign_ECC_Root_CA_-_R5.pem
+lrwxrwxrwx 1 root root   60 mar 19 21:45 GlobalSign_Root_CA.pem -> ../../ca-certificates/extracted/cadir/GlobalSign_Root_CA.pem
+lrwxrwxrwx 1 root root   65 mar 19 21:45 GlobalSign_Root_CA_-_R2.pem -> ../../ca-certificates/extracted/cadir/GlobalSign_Root_CA_-_R2.pem
+lrwxrwxrwx 1 root root   65 mar 19 21:45 GlobalSign_Root_CA_-_R3.pem -> ../../ca-certificates/extracted/cadir/GlobalSign_Root_CA_-_R3.pem
+lrwxrwxrwx 1 root root   61 mar 19 21:45 Go_Daddy_Class_2_CA.pem -> ../../ca-certificates/extracted/cadir/Go_Daddy_Class_2_CA.pem
+lrwxrwxrwx 1 root root   82 mar 19 21:45 Go_Daddy_Root_Certificate_Authority_-_G2.pem -> ../../ca-certificates/extracted/cadir/Go_Daddy_Root_Certificate_Authority_-_G2.pem
+lrwxrwxrwx 1 root root  101 mar 19 21:45 Hellenic_Academic_and_Research_Institutions_ECC_RootCA_2015.pem -> ../../ca-certificates/extracted/cadir/Hellenic_Academic_and_Research_Institutions_ECC_RootCA_2015.pem
+lrwxrwxrwx 1 root root   97 mar 19 21:45 Hellenic_Academic_and_Research_Institutions_RootCA_2011.pem -> ../../ca-certificates/extracted/cadir/Hellenic_Academic_and_Research_Institutions_RootCA_2011.pem
+lrwxrwxrwx 1 root root   97 mar 19 21:45 Hellenic_Academic_and_Research_Institutions_RootCA_2015.pem -> ../../ca-certificates/extracted/cadir/Hellenic_Academic_and_Research_Institutions_RootCA_2015.pem
+lrwxrwxrwx 1 root root   65 mar 19 21:45 Hongkong_Post_Root_CA_1.pem -> ../../ca-certificates/extracted/cadir/Hongkong_Post_Root_CA_1.pem
+lrwxrwxrwx 1 root root   72 mar 19 21:45 IdenTrust_Commercial_Root_CA_1.pem -> ../../ca-certificates/extracted/cadir/IdenTrust_Commercial_Root_CA_1.pem
+lrwxrwxrwx 1 root root   75 mar 19 21:45 IdenTrust_Public_Sector_Root_CA_1.pem -> ../../ca-certificates/extracted/cadir/IdenTrust_Public_Sector_Root_CA_1.pem
+lrwxrwxrwx 1 root root   54 mar 19 21:45 ISRG_Root_X1.pem -> ../../ca-certificates/extracted/cadir/ISRG_Root_X1.pem
+lrwxrwxrwx 1 root root   52 mar 19 21:45 Izenpe.com.pem -> ../../ca-certificates/extracted/cadir/Izenpe.com.pem
+drwxr-xr-x 2 root root 4096 mar 19 21:45 java
+lrwxrwxrwx 1 root root   64 mar 19 21:45 LuxTrust_Global_Root_2.pem -> ../../ca-certificates/extracted/cadir/LuxTrust_Global_Root_2.pem
+lrwxrwxrwx 1 root root   72 mar 19 21:45 Microsec_e-Szigno_Root_CA_2009.pem -> ../../ca-certificates/extracted/cadir/Microsec_e-Szigno_Root_CA_2009.pem
+lrwxrwxrwx 1 root root   86 mar 19 21:45 NetLock_Arany__Class_Gold__F__tan__s__tv__ny.pem -> ../../ca-certificates/extracted/cadir/NetLock_Arany__Class_Gold__F__tan__s__tv__ny.pem
+lrwxrwxrwx 1 root root   81 mar 19 21:45 Network_Solutions_Certificate_Authority.pem -> ../../ca-certificates/extracted/cadir/Network_Solutions_Certificate_Authority.pem
+lrwxrwxrwx 1 root root   73 mar 19 21:45 OISTE_WISeKey_Global_Root_GA_CA.pem -> ../../ca-certificates/extracted/cadir/OISTE_WISeKey_Global_Root_GA_CA.pem
+lrwxrwxrwx 1 root root   73 mar 19 21:45 OISTE_WISeKey_Global_Root_GB_CA.pem -> ../../ca-certificates/extracted/cadir/OISTE_WISeKey_Global_Root_GB_CA.pem
+lrwxrwxrwx 1 root root   62 mar 19 21:45 OpenTrust_Root_CA_G1.pem -> ../../ca-certificates/extracted/cadir/OpenTrust_Root_CA_G1.pem
+lrwxrwxrwx 1 root root   62 mar 19 21:45 OpenTrust_Root_CA_G2.pem -> ../../ca-certificates/extracted/cadir/OpenTrust_Root_CA_G2.pem
+lrwxrwxrwx 1 root root   62 mar 19 21:45 OpenTrust_Root_CA_G3.pem -> ../../ca-certificates/extracted/cadir/OpenTrust_Root_CA_G3.pem
+lrwxrwxrwx 1 root root   63 mar 19 21:45 QuoVadis_Root_CA_1_G3.pem -> ../../ca-certificates/extracted/cadir/QuoVadis_Root_CA_1_G3.pem
+lrwxrwxrwx 1 root root   63 mar 19 21:45 QuoVadis_Root_CA_2_G3.pem -> ../../ca-certificates/extracted/cadir/QuoVadis_Root_CA_2_G3.pem
+lrwxrwxrwx 1 root root   60 mar 19 21:45 QuoVadis_Root_CA_2.pem -> ../../ca-certificates/extracted/cadir/QuoVadis_Root_CA_2.pem
+lrwxrwxrwx 1 root root   63 mar 19 21:45 QuoVadis_Root_CA_3_G3.pem -> ../../ca-certificates/extracted/cadir/QuoVadis_Root_CA_3_G3.pem
+lrwxrwxrwx 1 root root   60 mar 19 21:45 QuoVadis_Root_CA_3.pem -> ../../ca-certificates/extracted/cadir/QuoVadis_Root_CA_3.pem
+lrwxrwxrwx 1 root root   58 mar 19 21:45 QuoVadis_Root_CA.pem -> ../../ca-certificates/extracted/cadir/QuoVadis_Root_CA.pem
+lrwxrwxrwx 1 root root   58 mar 19 21:45 Secure_Global_CA.pem -> ../../ca-certificates/extracted/cadir/Secure_Global_CA.pem
+lrwxrwxrwx 1 root root   61 mar 19 21:45 SecureSign_RootCA11.pem -> ../../ca-certificates/extracted/cadir/SecureSign_RootCA11.pem
+lrwxrwxrwx 1 root root   56 mar 19 21:45 SecureTrust_CA.pem -> ../../ca-certificates/extracted/cadir/SecureTrust_CA.pem
+lrwxrwxrwx 1 root root   72 mar 19 21:45 Security_Communication_RootCA2.pem -> ../../ca-certificates/extracted/cadir/Security_Communication_RootCA2.pem
+lrwxrwxrwx 1 root root   72 mar 19 21:45 Security_Communication_Root_CA.pem -> ../../ca-certificates/extracted/cadir/Security_Communication_Root_CA.pem
+lrwxrwxrwx 1 root root   64 mar 19 21:45 Sonera_Class_2_Root_CA.pem -> ../../ca-certificates/extracted/cadir/Sonera_Class_2_Root_CA.pem
+lrwxrwxrwx 1 root root   85 mar 19 21:45 SSL.com_EV_Root_Certification_Authority_ECC.pem -> ../../ca-certificates/extracted/cadir/SSL.com_EV_Root_Certification_Authority_ECC.pem
+lrwxrwxrwx 1 root root   88 mar 19 21:45 SSL.com_EV_Root_Certification_Authority_RSA_R2.pem -> ../../ca-certificates/extracted/cadir/SSL.com_EV_Root_Certification_Authority_RSA_R2.pem
+lrwxrwxrwx 1 root root   82 mar 19 21:45 SSL.com_Root_Certification_Authority_ECC.pem -> ../../ca-certificates/extracted/cadir/SSL.com_Root_Certification_Authority_ECC.pem
+lrwxrwxrwx 1 root root   82 mar 19 21:45 SSL.com_Root_Certification_Authority_RSA.pem -> ../../ca-certificates/extracted/cadir/SSL.com_Root_Certification_Authority_RSA.pem
+lrwxrwxrwx 1 root root   74 mar 19 21:45 Staat_der_Nederlanden_EV_Root_CA.pem -> ../../ca-certificates/extracted/cadir/Staat_der_Nederlanden_EV_Root_CA.pem
+lrwxrwxrwx 1 root root   76 mar 19 21:45 Staat_der_Nederlanden_Root_CA_-_G2.pem -> ../../ca-certificates/extracted/cadir/Staat_der_Nederlanden_Root_CA_-_G2.pem
+lrwxrwxrwx 1 root root   76 mar 19 21:45 Staat_der_Nederlanden_Root_CA_-_G3.pem -> ../../ca-certificates/extracted/cadir/Staat_der_Nederlanden_Root_CA_-_G3.pem
+lrwxrwxrwx 1 root root   62 mar 19 21:45 Starfield_Class_2_CA.pem -> ../../ca-certificates/extracted/cadir/Starfield_Class_2_CA.pem
+lrwxrwxrwx 1 root root   83 mar 19 21:45 Starfield_Root_Certificate_Authority_-_G2.pem -> ../../ca-certificates/extracted/cadir/Starfield_Root_Certificate_Authority_-_G2.pem
+lrwxrwxrwx 1 root root   92 mar 19 21:45 Starfield_Services_Root_Certificate_Authority_-_G2.pem -> ../../ca-certificates/extracted/cadir/Starfield_Services_Root_Certificate_Authority_-_G2.pem
+lrwxrwxrwx 1 root root   64 mar 19 21:45 SwissSign_Gold_CA_-_G2.pem -> ../../ca-certificates/extracted/cadir/SwissSign_Gold_CA_-_G2.pem
+lrwxrwxrwx 1 root root   66 mar 19 21:45 SwissSign_Silver_CA_-_G2.pem -> ../../ca-certificates/extracted/cadir/SwissSign_Silver_CA_-_G2.pem
+lrwxrwxrwx 1 root root   57 mar 19 21:45 SZAFIR_ROOT_CA2.pem -> ../../ca-certificates/extracted/cadir/SZAFIR_ROOT_CA2.pem
+lrwxrwxrwx 1 root root   53 mar 19 21:45 Taiwan_GRCA.pem -> ../../ca-certificates/extracted/cadir/Taiwan_GRCA.pem
+lrwxrwxrwx 1 root root   64 mar 19 21:45 TeliaSonera_Root_CA_v1.pem -> ../../ca-certificates/extracted/cadir/TeliaSonera_Root_CA_v1.pem
+lrwxrwxrwx 1 root root   69 mar 19 21:45 thawte_Primary_Root_CA_-_G2.pem -> ../../ca-certificates/extracted/cadir/thawte_Primary_Root_CA_-_G2.pem
+lrwxrwxrwx 1 root root   69 mar 19 21:45 thawte_Primary_Root_CA_-_G3.pem -> ../../ca-certificates/extracted/cadir/thawte_Primary_Root_CA_-_G3.pem
+lrwxrwxrwx 1 root root   64 mar 19 21:45 thawte_Primary_Root_CA.pem -> ../../ca-certificates/extracted/cadir/thawte_Primary_Root_CA.pem
+lrwxrwxrwx 1 root root   99 mar 19 21:45 T__RKTRUST_Elektronik_Sertifika_Hizmet_Sa__lay__c__s___H5.pem -> ../../ca-certificates/extracted/cadir/T__RKTRUST_Elektronik_Sertifika_Hizmet_Sa__lay__c__s___H5.pem
+lrwxrwxrwx 1 root root   56 mar 19 21:45 TrustCor_ECA-1.pem -> ../../ca-certificates/extracted/cadir/TrustCor_ECA-1.pem
+lrwxrwxrwx 1 root root   64 mar 19 21:45 TrustCor_RootCert_CA-1.pem -> ../../ca-certificates/extracted/cadir/TrustCor_RootCert_CA-1.pem
+lrwxrwxrwx 1 root root   64 mar 19 21:45 TrustCor_RootCert_CA-2.pem -> ../../ca-certificates/extracted/cadir/TrustCor_RootCert_CA-2.pem
+lrwxrwxrwx 1 root root   61 mar 19 21:45 Trustis_FPS_Root_CA.pem -> ../../ca-certificates/extracted/cadir/Trustis_FPS_Root_CA.pem
+lrwxrwxrwx 1 root root   70 mar 19 21:45 T-TeleSec_GlobalRoot_Class_2.pem -> ../../ca-certificates/extracted/cadir/T-TeleSec_GlobalRoot_Class_2.pem
+lrwxrwxrwx 1 root root   70 mar 19 21:45 T-TeleSec_GlobalRoot_Class_3.pem -> ../../ca-certificates/extracted/cadir/T-TeleSec_GlobalRoot_Class_3.pem
+lrwxrwxrwx 1 root root   87 mar 19 21:45 TUBITAK_Kamu_SM_SSL_Kok_Sertifikasi_-_Surum_1.pem -> ../../ca-certificates/extracted/cadir/TUBITAK_Kamu_SM_SSL_Kok_Sertifikasi_-_Surum_1.pem
+lrwxrwxrwx 1 root root   61 mar 19 21:45 TWCA_Global_Root_CA.pem -> ../../ca-certificates/extracted/cadir/TWCA_Global_Root_CA.pem
+lrwxrwxrwx 1 root root   75 mar 19 21:45 TWCA_Root_Certification_Authority.pem -> ../../ca-certificates/extracted/cadir/TWCA_Root_Certification_Authority.pem
+lrwxrwxrwx 1 root root   79 mar 19 21:45 USERTrust_ECC_Certification_Authority.pem -> ../../ca-certificates/extracted/cadir/USERTrust_ECC_Certification_Authority.pem
+lrwxrwxrwx 1 root root   79 mar 19 21:45 USERTrust_RSA_Certification_Authority.pem -> ../../ca-certificates/extracted/cadir/USERTrust_RSA_Certification_Authority.pem
+lrwxrwxrwx 1 root root  102 mar 19 21:45 Verisign_Class_3_Public_Primary_Certification_Authority_-_G3.pem -> ../../ca-certificates/extracted/cadir/Verisign_Class_3_Public_Primary_Certification_Authority_-_G3.pem
+lrwxrwxrwx 1 root root  102 mar 19 21:45 VeriSign_Class_3_Public_Primary_Certification_Authority_-_G4.pem -> ../../ca-certificates/extracted/cadir/VeriSign_Class_3_Public_Primary_Certification_Authority_-_G4.pem
+lrwxrwxrwx 1 root root  102 mar 19 21:45 VeriSign_Class_3_Public_Primary_Certification_Authority_-_G5.pem -> ../../ca-certificates/extracted/cadir/VeriSign_Class_3_Public_Primary_Certification_Authority_-_G5.pem
+lrwxrwxrwx 1 root root   89 mar 19 21:45 VeriSign_Universal_Root_Certification_Authority.pem -> ../../ca-certificates/extracted/cadir/VeriSign_Universal_Root_Certification_Authority.pem
+lrwxrwxrwx 1 root root   61 mar 19 21:45 Visa_eCommerce_Root.pem -> ../../ca-certificates/extracted/cadir/Visa_eCommerce_Root.pem
+lrwxrwxrwx 1 root root   62 mar 19 21:45 XRamp_Global_CA_Root.pem -> ../../ca-certificates/extracted/cadir/XRamp_Global_CA_Root.pem
+
+/etc/ssl/certs/java:
+total 156
+-r--r--r-- 1 root root 158109 mar 19 21:45 cacerts
+
+/etc/ssl/misc:
+total 16
+-rwxr-xr-x 1 root root 6755 nov  2 14:20 CA.pl
+-rwxr-xr-x 1 root root 6579 nov  2 14:20 tsget
+
+/etc/ssl/private:
+total 0
+
+/etc/sysctl.d:
+total 4
+-rw-r--r-- 1 root root 36 fev  3 11:09 50-max_user_watches.conf
+
+/etc/systemd:
+total 52
+-rw-r--r-- 1 root root  615 mar 17 08:36 coredump.conf
+-rw-r--r-- 1 root root 1026 mar 17 08:36 journald.conf
+-rw-r--r-- 1 root root  198 mar 17 08:36 journal-remote.conf
+-rw-r--r-- 1 root root  175 mar 17 08:36 journal-upload.conf
+-rw-r--r-- 1 root root 1060 mar 17 08:36 logind.conf
+drwxr-xr-x 2 root root 4096 jan 15 11:12 network
+-rw-r--r-- 1 root root  660 mar 17 08:36 resolved.conf
+drwxr-xr-x 8 root root 4096 mar 19 21:44 system
+-rw-r--r-- 1 root root 1662 mar 17 08:36 system.conf
+-rw-r--r-- 1 root root  681 mar 17 08:36 timesyncd.conf
+drwxr-xr-x 4 root root 4096 fev  3 11:08 user
+-rw-r--r-- 1 root root 1130 mar 17 08:36 user.conf
+
+/etc/systemd/network:
+total 0
+
+/etc/systemd/system:
+total 28
+drwxr-xr-x 2 root root 4096 fev 14 16:00 bluetooth.target.wants
+lrwxrwxrwx 1 root root   41 fev 14 16:00 dbus-org.bluez.service -> /usr/lib/systemd/system/bluetooth.service
+lrwxrwxrwx 1 root root   44 fev 14 16:00 dbus-org.freedesktop.Avahi.service -> /usr/lib/systemd/system/avahi-daemon.service
+lrwxrwxrwx 1 root root   44 fev 14 16:00 dbus-org.freedesktop.ModemManager1.service -> /usr/lib/systemd/system/ModemManager.service
+lrwxrwxrwx 1 root root   46 fev 14 16:00 dbus-org.freedesktop.NetworkManager.service -> /usr/lib/systemd/system/NetworkManager.service
+lrwxrwxrwx 1 root root   57 fev 14 16:00 dbus-org.freedesktop.nm-dispatcher.service -> /usr/lib/systemd/system/NetworkManager-dispatcher.service
+lrwxrwxrwx 1 root root   36 fev 14 16:00 display-manager.service -> /usr/lib/systemd/system/sddm.service
+drwxr-xr-x 2 root root 4096 fev  3 11:04 getty.target.wants
+drwxr-xr-x 2 root root 4096 mar 25 22:10 multi-user.target.wants
+-rw-r--r-- 1 root root  191 mar 15 19:48 octopi.service
+drwxr-xr-x 2 root root 4096 fev 14 16:00 printer.target.wants
+drwxr-xr-x 2 root root 4096 fev 14 16:00 sleep.target.wants
+drwxr-xr-x 2 root root 4096 fev 14 16:00 sockets.target.wants
+
+/etc/systemd/system/bluetooth.target.wants:
+total 0
+lrwxrwxrwx 1 root root 41 fev 14 16:00 bluetooth.service -> /usr/lib/systemd/system/bluetooth.service
+
+/etc/systemd/system/getty.target.wants:
+total 0
+lrwxrwxrwx 1 root root 38 fev  3 11:04 getty@tty1.service -> /usr/lib/systemd/system/getty@.service
+
+/etc/systemd/system/multi-user.target.wants:
+total 0
+lrwxrwxrwx 1 root root 44 fev 14 16:00 avahi-daemon.service -> /usr/lib/systemd/system/avahi-daemon.service
+lrwxrwxrwx 1 root root 38 fev 14 16:00 cronie.service -> /usr/lib/systemd/system/cronie.service
+lrwxrwxrwx 1 root root 39 mar 25 22:10 mariadb.service -> /usr/lib/systemd/system/mariadb.service
+lrwxrwxrwx 1 root root 44 fev 14 16:00 ModemManager.service -> /usr/lib/systemd/system/ModemManager.service
+lrwxrwxrwx 1 root root 46 fev 14 16:00 NetworkManager.service -> /usr/lib/systemd/system/NetworkManager.service
+lrwxrwxrwx 1 root root 43 fev 14 16:00 org.cups.cupsd.path -> /usr/lib/systemd/system/org.cups.cupsd.path
+lrwxrwxrwx 1 root root 40 fev  3 11:04 remote-fs.target -> /usr/lib/systemd/system/remote-fs.target
+lrwxrwxrwx 1 root root 35 fev 14 16:00 tlp.service -> /usr/lib/systemd/system/tlp.service
+
+/etc/systemd/system/printer.target.wants:
+total 0
+lrwxrwxrwx 1 root root 46 fev 14 16:00 org.cups.cupsd.service -> /usr/lib/systemd/system/org.cups.cupsd.service
+
+/etc/systemd/system/sleep.target.wants:
+total 0
+lrwxrwxrwx 1 root root 41 fev 14 16:00 tlp-sleep.service -> /usr/lib/systemd/system/tlp-sleep.service
+
+/etc/systemd/system/sockets.target.wants:
+total 0
+lrwxrwxrwx 1 root root 43 fev 14 16:00 avahi-daemon.socket -> /usr/lib/systemd/system/avahi-daemon.socket
+lrwxrwxrwx 1 root root 45 fev 14 16:00 org.cups.cupsd.socket -> /usr/lib/systemd/system/org.cups.cupsd.socket
+
+/etc/systemd/user:
+total 8
+drwxr-xr-x 2 root root 4096 fev  3 11:08 default.target.wants
+drwxr-xr-x 2 root root 4096 fev 25 21:13 sockets.target.wants
+
+/etc/systemd/user/default.target.wants:
+total 0
+lrwxrwxrwx 1 root root 50 fev  3 11:08 xdg-user-dirs-update.service -> /usr/lib/systemd/user/xdg-user-dirs-update.service
+
+/etc/systemd/user/sockets.target.wants:
+total 0
+lrwxrwxrwx 1 root root 36 fev  3 11:05 dirmngr.socket -> /usr/lib/systemd/user/dirmngr.socket
+lrwxrwxrwx 1 root root 46 fev  3 11:05 gpg-agent-browser.socket -> /usr/lib/systemd/user/gpg-agent-browser.socket
+lrwxrwxrwx 1 root root 44 fev  3 11:05 gpg-agent-extra.socket -> /usr/lib/systemd/user/gpg-agent-extra.socket
+lrwxrwxrwx 1 root root 38 fev  3 11:05 gpg-agent.socket -> /usr/lib/systemd/user/gpg-agent.socket
+lrwxrwxrwx 1 root root 42 fev  3 11:05 gpg-agent-ssh.socket -> /usr/lib/systemd/user/gpg-agent-ssh.socket
+lrwxrwxrwx 1 root root 37 fev 25 21:13 pipewire.socket -> /usr/lib/systemd/user/pipewire.socket
+lrwxrwxrwx 1 root root 39 fev  3 11:07 pulseaudio.socket -> /usr/lib/systemd/user/pulseaudio.socket
+
+/etc/texmf:
+total 32
+drwxr-xr-x 2 root root 4096 mar  7 22:44 chktex
+drwxr-xr-x 2 root root 4096 mar  7 22:44 dvipdfmx
+drwxr-xr-x 3 root root 4096 fev 16 17:40 dvips
+-rw-r--r-- 1 root root  467 mar 30 10:33 ls-R
+drwxr-xr-x 3 root root 4096 fev 16 17:40 tex
+drwxr-xr-x 2 root root 4096 mar  7 22:44 ttf2pk
+drwxr-xr-x 2 root root 4096 mar  7 22:44 web2c
+drwxr-xr-x 2 root root 4096 mar  7 22:44 xdvi
+
+/etc/texmf/chktex:
+total 24
+-rw-r--r-- 1 root root 23700 mar  4 06:54 chktexrc
+
+/etc/texmf/dvipdfmx:
+total 12
+-rw-r--r-- 1 root root 8955 mar  4 06:54 dvipdfmx.cfg
+
+/etc/texmf/dvips:
+total 4
+drwxr-xr-x 2 root root 4096 mar  7 22:44 config
+
+/etc/texmf/dvips/config:
+total 16
+-rw-r--r-- 1 root root 16062 mar  4 06:54 config.ps
+
+/etc/texmf/tex:
+total 4
+drwxr-xr-x 4 root root 4096 fev 16 17:40 generic
+
+/etc/texmf/tex/generic:
+total 8
+drwxr-xr-x 2 root root 4096 mar  7 22:44 config
+drwxr-xr-x 2 root root 4096 mar  7 22:44 tex-ini-files
+
+/etc/texmf/tex/generic/config:
+total 16
+-rw-r--r-- 1 root root 6367 mar  4 06:54 language.dat
+-rw-r--r-- 1 root root 7478 mar  4 06:54 language.def
+
+/etc/texmf/tex/generic/tex-ini-files:
+total 4
+-rw-r--r-- 1 root root 549 mar  4 06:53 pdftexconfig.tex
+
+/etc/texmf/ttf2pk:
+total 4
+-rw-r--r-- 1 root root 51 mar  4 06:54 ttf2pk.cfg
+
+/etc/texmf/web2c:
+total 56
+-rw-r--r-- 1 root root  3805 mar  7 22:45 fmtutil.cnf
+-rw-r--r-- 1 root root    71 mar  4 06:54 mktex.cnf
+-rw-r--r-- 1 root root 32585 mar  4 06:54 texmf.cnf
+-rw-r--r-- 1 root root  8571 mar  7 22:45 updmap.cfg
+-rw-r--r-- 1 root root  3494 mar  4 06:54 updmap-hdr.cfg
+
+/etc/texmf/xdvi:
+total 16
+-rw-r--r-- 1 root root 13912 mar  4 06:54 XDvi
+
+/etc/tmpfiles.d:
+total 0
+
+/etc/udev:
+total 9216
+-r--r--r-- 1 root root 9421663 abr  1 19:17 hwdb.bin
+drwxr-xr-x 2 root root    4096 jan 15 11:12 hwdb.d
+drwxr-xr-x 2 root root    4096 jan 15 11:12 rules.d
+-rw-r--r-- 1 root root     215 mar 17 08:36 udev.conf
+
+/etc/udev/hwdb.d:
+total 0
+
+/etc/udev/rules.d:
+total 0
+
+/etc/udisks2:
+total 4
+-rw-r--r-- 1 root root 183 fev 12 07:20 udisks2.conf
+
+/etc/UPower:
+total 4
+-rw-r--r-- 1 root root 2836 dez 15 21:34 UPower.conf
+
+/etc/usb_modeswitch.d:
+total 0
+
+/etc/vpnc:
+total 28
+-rw-r--r-- 1 root root   407 mar  4  2017 default.conf
+-rwxr-xr-x 1 root root 23777 mar  4  2017 vpnc-script
+
+/etc/wpa_supplicant:
+total 0
+
+/etc/X11:
+total 16
+drwxr-xr-x 2 root root 4096 fev 14 16:00 mhwd.d
+drwxr-xr-x 3 root root 4096 mar 25 14:29 xinit
+drwxr-xr-x 2 root root 4096 fev 14 16:00 xorg.conf.d
+
+/etc/X11/mhwd.d:
+total 4
+-rw-r--r-- 1 root root 1596 fev 14 16:00 nvidia.conf
+-rw-r--r-- 1 root root    0 fev 14 16:00 nvidia.conf.nvidia-xconfig-original
+
+/etc/X11/xinit:
+total 12
+-rw-r--r-- 1 root root  739 mar 17 04:41 xinitrc
+drwxr-xr-x 2 root root 4096 mar 19 21:44 xinitrc.d
+-rw-r--r-- 1 root root   45 mar 17 04:41 xserverrc
+
+/etc/X11/xinit/xinitrc.d:
+total 8
+-rwxr-xr-x 1 root root 318 mai  4  2017 40-libcanberra-gtk-module.sh
+-rwxr-xr-x 1 root root 203 mar 17 08:36 50-systemd-user.sh
+
+/etc/X11/xorg.conf.d:
+total 4
+-rw-r--r-- 1 root root 307 fev 14 16:00 00-keyboard.conf
+lrwxrwxrwx 1 root root  27 fev 14 16:00 90-mhwd.conf -> /etc/X11/mhwd.d/nvidia.conf
+
+/etc/xdg:
+total 568
+-rw-r--r-- 1 root root     86 mar  4 08:01 accept-languages.codes
+-rw-r--r-- 1 root root    296 mar  3 19:55 ark.categories
+-rw-r--r-- 1 root root     22 mar  3 06:51 attica.categories
+-rw-r--r-- 1 root root   1614 mar  6 09:48 aurorae.knsrc
+drwxr-xr-x 2 root root   4096 mar 25 14:29 autostart
+-rw-r--r-- 1 root root     31 mar  3 07:00 baloo.categories
+-rw-r--r-- 1 root root     20 mar  3 06:51 bluez.categories
+-rw-r--r-- 1 root root     92 nov  3 17:30 breezerc
+-rw-r--r-- 1 root root   1058 mar  6 09:38 cgcgtk3.knsrc
+-rw-r--r-- 1 root root   1058 mar  6 09:38 cgctheme.knsrc
+drwxr-xr-x 2 root root   4096 mar 19 21:44 colors
+-rw-r--r-- 1 root root   1255 mar  6 09:54 colorschemes.knsrc
+-rw-r--r-- 1 root root   1043 mar  6 09:38 comic.knsrc
+-rw-r--r-- 1 root root    132 nov  3 17:30 dolphinrc
+-rw-r--r-- 1 root root   2419 mar  6 09:54 emoticons.knsrc
+-rw-r--r-- 1 root root     83 mar  1 19:55 filelightrc
+-rw-r--r-- 1 root root   2221 mar  6 11:05 icons.knsrc
+-rw-r--r-- 1 root root     22 mar  3 06:51 karchive.categories
+-rw-r--r-- 1 root root     50 nov  3 17:30 katepartrc
+-rw-r--r-- 1 root root     16 mar  3 07:01 kauth.categories
+-rw-r--r-- 1 root root     26 mar  3 07:01 kbookmarks.categories
+-rw-r--r-- 1 root root     69 mar  6 16:08 kcm-about-distrorc
+-rw-r--r-- 1 root root    144 nov  3 17:30 kcmdisplayrc
+-rw-r--r-- 1 root root     35 nov  3 17:30 kcminputrc
+-rw-r--r-- 1 root root     20 mar  3 07:01 kcodecs.categories
+-rw-r--r-- 1 root root     34 mar  3 07:01 kconfigwidgets.categories
+-rw-r--r-- 1 root root     71 mar  3 06:52 kcrash.categories
+-rw-r--r-- 1 root root     28 mar  3 07:02 kdbusaddons.categories
+-rw-r--r-- 1 root root  19859 mar  3 07:02 kdebug.areas
+-rw-r--r-- 1 root root   4337 mar  3 07:02 kdebugrc
+-rw-r--r-- 1 root root    134 nov  3 17:30 kded5rc
+-rw-r--r-- 1 root root    636 nov  3 17:30 kdeglobals
+-rwxr-xr-x 1 root root    574 nov  3 17:30 kde-mimeapps.list
+-rw-r--r-- 1 root root     32 mar  3 07:03 kfilemetadata.categories
+-rw-r--r-- 1 root root     50 mar  1 19:53 kfind.categories
+-rw-r--r-- 1 root root   2352 mar  6 09:54 kfontinst.knsrc
+-rw-r--r-- 1 root root     30 mar  3 07:03 kglobalaccel.categories
+-rw-r--r-- 1 root root    388 fev 12 03:59 khelpcenter.categories
+-rw-r--r-- 1 root root     96 mar  3 07:03 khtml.categories
+-rw-r--r-- 1 root root  12812 mar  3 07:03 khtmlrc
+-rw-r--r-- 1 root root    100 nov  3 17:30 kioslaverc
+-rw-r--r-- 1 root root     28 mar  3 06:52 kitemmodels.categories
+-rw-r--r-- 1 root root     29 mar  3 07:05 kjobwidgets.categories
+-rw-r--r-- 1 root root     85 mar  3 07:05 knewstuff.categories
+-rw-r--r-- 1 root root    249 nov  3 17:30 konsolerc
+-rw-r--r-- 1 root root   2068 nov  3 17:30 konversationrc
+-rw-r--r-- 1 root root     28 mar  3 07:05 kpackage.categories
+-rw-r--r-- 1 root root     24 mar  3 06:53 krunner.categories
+-rw-r--r-- 1 root root    135 nov  3 17:30 krunnerrc
+-rw-r--r-- 1 root root     70 mar  6 09:43 kscreen.categories
+-rw-r--r-- 1 root root    305 nov  3 17:30 kscreenlockerrc
+-rw-r--r-- 1 root root     85 mar  3 07:06 kservice.categories
+-rw-r--r-- 1 root root    153 mar  4 08:01 kshorturifilterrc
+-rw-r--r-- 1 root root 190652 mar  3 07:02 ksslcalist
+-rw-r--r-- 1 root root    829 mar  6 09:46 ksysguard.knsrc
+-rw-r--r-- 1 root root     28 nov  3 17:30 ktiprc
+-rw-r--r-- 1 root root     63 mar  6 10:01 kuiserver.categories
+-rw-r--r-- 1 root root    100 mar  3 07:07 kwallet.categories
+-rw-r--r-- 1 root root   1801 mar  6 09:48 kwineffect.knsrc
+-rw-r--r-- 1 root root     19 nov  3 17:30 kwinrc
+-rw-r--r-- 1 root root   1806 mar  6 09:48 kwinscripts.knsrc
+-rw-r--r-- 1 root root   2359 mar  6 09:48 kwinswitcher.knsrc
+-rw-r--r-- 1 root root   1480 mar  6 09:54 lookandfeel.knsrc
+drwxr-xr-x 2 root root   4096 mar 19 21:44 menus
+-rw-r--r-- 1 root root    847 mar  1 19:55 okular.categories
+-rw-r--r-- 1 root root     48 mar  3 07:08 org_kde_ksyntaxhighlighting.categories
+-rw-r--r-- 1 root root     80 mar  3 06:53 org_kde_kwayland.categories
+-rw-r--r-- 1 root root    959 mar  6 09:48 org_kde_kwin.categories
+-rw-r--r-- 1 root root    174 nov  3 17:30 oxygenrc
+-rw-r--r-- 1 root root     55 nov  3 17:30 plasmarc
+-rw-r--r-- 1 root root   1301 mar  6 09:54 plasma-themes.knsrc
+drwxr-xr-x 3 root root   4096 fev  3 11:08 plasma-workspace
+-rw-r--r-- 1 root root   1433 mar  6 10:01 plasmoids.knsrc
+-rw-r--r-- 1 root root     24 mar  3 06:54 prison.categories
+-rw-r--r-- 1 root root    124 mar  3 07:08 purpose.categories
+-rw-r--r-- 1 root root    201 mar  6 10:05 sddmtheme.knsrc
+-rw-r--r-- 1 root root    296 mar  2 03:07 servicemenu.knsrc
+-rw-r--r-- 1 root root    263 mar  3 07:08 sonnet.categories
+drwxr-xr-x 2 root root   4096 mar 19 21:44 systemd
+-rw-r--r-- 1 root root    262 mar  6 10:01 taskmanagerrulesrc
+-rwxr-xr-x 1 root root   1012 nov  3 17:30 Trolltech.conf
+drwxr-xr-x 2 root root   4096 mar 19 21:44 ui
+-rw-r--r-- 1 root root    414 set  5  2017 user-dirs.conf
+-rw-r--r-- 1 root root    418 set  5  2017 user-dirs.defaults
+-rw-r--r-- 1 root root   1477 mar  6 10:01 wallpaper.knsrc
+-rw-r--r-- 1 root root    973 mar  6 09:54 xcursor.knsrc
+-rw-r--r-- 1 root root     83 abr  3  2017 yakuake.knsrc
+-rw-r--r-- 1 root root    150 nov  3 17:30 yakuakerc
+
+/etc/xdg/autostart:
+total 84
+-rw-r--r-- 1 root root   292 out 30 20:25 at-spi-dbus-bus.desktop
+-rw-r--r-- 1 root root  1883 mar  3 07:00 baloo_file.desktop
+-rw-r--r-- 1 root root  7741 ago  8  2016 gsettings-data-convert.desktop
+-rw-r--r-- 1 root root  1449 jan 17 05:07 kdeconnectd.desktop
+-rwxr-xr-x 1 root root 11712 mar  6 10:01 klipper.desktop
+-rw-r--r-- 1 root root  1035 mar  6 10:01 krunner.desktop
+-rwxr-xr-x 1 root root   121 mar 22 04:49 msm_kde_notifier.desktop
+-rw-r--r-- 1 root root   204 mar 15 19:48 octopi-notifier.desktop
+-rw-r--r-- 1 root root  2376 mar  6 10:01 org.kde.plasmashell.desktop
+-rw-r--r-- 1 root root  3801 mar  6 11:03 pam_kwallet_init.desktop
+-rw-r--r-- 1 root root  3883 mar  6 10:58 polkit-kde-authentication-agent-1.desktop
+-rw-r--r-- 1 root root  5493 fev 20 03:36 powerdevil.desktop
+-rw-r--r-- 1 root root  7969 fev  8 14:03 print-applet.desktop
+-rw-r--r-- 1 root root  4973 set 19  2017 pulseaudio.desktop
+-rw-r--r-- 1 root root  1139 mar  6 10:01 xembedsniproxy.desktop
+
+/etc/xdg/colors:
+total 20
+-rw-r--r-- 1 root root  841 mar  3 07:02 40.colors
+-rw-r--r-- 1 root root 3080 mar  3 07:02 Oxygen.colors
+-rw-r--r-- 1 root root 1651 mar  3 07:02 Rainbow.colors
+-rw-r--r-- 1 root root 3121 mar  3 07:02 Royal.colors
+-rw-r--r-- 1 root root 2582 mar  3 07:02 Web.colors
+
+/etc/xdg/menus:
+total 28
+-rw-r--r-- 1 root root 10258 mar  3 07:06 applications.menu
+-rw-r--r-- 1 root root 11357 fev 25 23:53 kde-applications.menu
+-rw-r--r-- 1 root root   279 mar  6 09:41 kinfocenter.menu
+
+/etc/xdg/plasma-workspace:
+total 4
+drwxr-xr-x 2 root root 4096 fev  3 11:08 env
+
+/etc/xdg/plasma-workspace/env:
+total 4
+-rwxr-xr-x 1 root root 1203 nov  3 17:30 kde_gtk_config.manjaro.sh
+
+/etc/xdg/systemd:
+total 0
+lrwxrwxrwx 1 root root 18 mar 17 08:37 user -> ../../systemd/user
+
+/etc/xdg/ui:
+total 8
+-rw-r--r-- 1 root root 6692 mar  3 07:07 ui_standards.rc
+
+/etc/xinetd.d:
+total 32
+-rw-r--r-- 1 root root 306 nov  6  2016 rlogin
+-rw-r--r-- 1 root root 303 nov  6  2016 rsh
+-rw-r--r-- 1 root root 338 jan 29 05:41 rsync
+-rw-r--r-- 1 root root 205 mai 23  2017 sane
+-rw-r--r-- 1 root root 177 jan  3 05:51 svn
+-rw-r--r-- 1 root root 157 nov  6  2016 talk
+-rw-r--r-- 1 root root 160 nov  6  2016 telnet
+-rw-r--r-- 1 root root 155 fev 11  2017 tftp
+
+/etc/xml:
+total 12
+-rw-r--r-- 1 root root 1551 fev  3 11:07 catalog
+-rw-r--r-- 1 root root 6808 jul  1  2014 docbook-xml
+
+/etc/zsh:
+total 4
+-rw-r--r-- 1 root root 36 jan  5 00:47 zprofile
