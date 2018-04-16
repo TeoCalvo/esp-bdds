@@ -18,13 +18,24 @@ files=$(ls $diretorio | egrep "$ext1$")
 
 if [ "$opt" = "-c" ]; then
     for i in $files; do
-        cp $diretorio/$i $diretorio/${i/$ext1/$ext2}
+        if [ -r "$diretorio/$i" ]; then
+            cp $diretorio/$i $diretorio/${i/$ext1/$ext2}
+            echo "$diretorio/$i => $diretorio/${i/$ext1/$ext2}"
+        else
+            echo "Leitura de arquivo não permitida: $i"
+        fi
     done
 
 elif [ "$opt" = "-m" ]; then
-	for i in $files; do
-	    mv $diretorio/$i $diretorio/${i/$ext1/$ext2}
-	done
+    for i in $files; do
+        if [ -r "$diretorio/$i" ]; then
+            mv $diretorio/$i $diretorio/${i/$ext1/$ext2}
+            echo "$diretorio/$i => $diretorio/${i/$ext1/$ext2}"
+        else
+            echo "Leitura de arquivo não permitida: $i"
+        fi
+    done  
+
 else
     echo "Entre com uma opção para cópia ou mover válida"
     exit
