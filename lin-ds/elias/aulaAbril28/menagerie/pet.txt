@@ -1,0 +1,8 @@
+1	Fluffy	Harold	cat	f	1993-02-04	\N
+2	Claws	Gwen	cat	m	1994-03-17	\N
+3	Buffy	Harold	dog	f	1989-05-13	\N
+4	Fang	Benny	dog	m	1990-08-27	\N
+5	Bowser	Diane	dog	m	1979-08-31	1995-07-29
+6	Chirpy	Gwen	bird	f	1998-09-11	\N
+7	Whistler	Gwen	bird	\N	1997-12-09	\N
+8	Slim	Benny	snake	m	1996-04-29	\N

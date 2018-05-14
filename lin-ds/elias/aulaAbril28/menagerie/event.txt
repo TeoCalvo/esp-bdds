@@ -1,0 +1,10 @@
+1	1	1995-05-15	litter	4 kittens, 3 female, 1 male
+2	3	1993-06-23	litter	5 puppies, 2 female, 3 male
+3	3	1994-06-19	litter	3 puppies, 3 female
+4	6	1999-03-21	vet	needed beak straightened
+5	8	1997-08-03	vet	broken rib
+6	5	1991-10-12	kennel	\N
+7	4	1991-10-12	kennel	\N
+8	4	1998-08-28	birthday	Gave him a new chew toy
+9	2	1998-03-17	birthday	Gave him a new flea collar
+10	7	1998-12-09	birthday	First birthday
