@@ -1,9 +1,12 @@
 # O mapa foi obtido a partir do link abaixo.
 # sendo orientato pelo professor a utilizar tal fonte de maps.
 # "http://geoftp.ibge.gov.br/organizacao_do_territorio/malhas_territoriais/malhas_municipais/municipio_2016/UFs/PR/pr_municipios.zip"
+
+# Importa as bibliotecas necessárias para trabalhar com os arquivos de mapas e dbf
 library(foreign)
 library(rgdal)
 
+# Define os caminhos dos arquivos na web e diretórios locais para serem criados
 path_url = "http://geoftp.ibge.gov.br/organizacao_do_territorio/malhas_territoriais/malhas_municipais/municipio_2016/UFs/PR/pr_municipios.zip"
 path_file = "pr_municipios.zip"
 path_file_unz = "pr_municipios"
@@ -17,6 +20,7 @@ unzip(path_file, exdir=path_file_unz)
 map = readOGR( path_file_unz , "41MUE250GC_SIR")
 
 # Importa dados obtidos pela página da wikipedia a respespeito da população em cada municipio do estado do paramá
+# https://pt.wikipedia.org/wiki/Lista_de_munic%C3%ADpios_do_Paran%C3%A1_por_popula%C3%A7%C3%A3o
 df_wiki = read.csv( path_wiki_file, sep=";")
 
 # Padroniza o nome dos municipios para tudo maiusculo
