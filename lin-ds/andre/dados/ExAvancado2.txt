@@ -1,0 +1,7 @@
+Dada a previsão do tempo para 7 dias provida pelo CPTEC, criar um programa que:
+
+1. tenha uma função que permita que o usuário coloque uma localidade e a normalize (tire os acentos, transforme a string para letras minúsculas), retornando o código da localidade. A localidade é uma cidade.
+
+2. tenha uma função que mostre a previsão de tempo para os próximos 7 dias naquela localidade, bem como a média de temperatura da semana, a máxima e a mínima.
+
+3. o programa deve buscar os XML necessários na Internet e processá-los. 

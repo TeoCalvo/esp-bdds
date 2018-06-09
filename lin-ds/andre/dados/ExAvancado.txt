@@ -1,0 +1,16 @@
+Usar a Google Maps API para, dados latitude e longitude de entrada, retornar um endereço e vice-versa.  
+
+https://maps.googleapis.com/maps/api/directions/json?origin=27.6325&destination=85.1453=end&sensor=false
+
+https://developers.google.com/maps/documentation/
+
+Como conectar? 
+
+http://www.netinstructions.com/how-to-make-a-web-crawler-in-under-50-lines-of-python-code/
+https://scrapy.org/
+https://code.activestate.com/recipes/578060-a-simple-webcrawler/
+https://github.com/indrajithi/tiny-web-crawler
+
+Como plotar a latitude e longitude em um mapa?
+
+https://sensitivecities.com/so-youd-like-to-make-a-map-using-python-EN.html#.WwhuDIAh0UE
