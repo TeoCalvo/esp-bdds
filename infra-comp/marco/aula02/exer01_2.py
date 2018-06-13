@@ -20,6 +20,7 @@ def multi_f(start, end, n):
 	print(soma)
 
 n, m = 100000, 4
+
 start, end = 0, 1
 bounds = np.linspace(start, end, m+1)
 
