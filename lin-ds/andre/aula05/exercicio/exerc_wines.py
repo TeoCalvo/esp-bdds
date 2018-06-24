@@ -2,16 +2,18 @@
 # coding: utf-8
 
 import numpy as np
-import csv
 import sys
 
 if len( sys.argv ) >=3 :
-    actual, arq1, arq2, arq3, arq4, *_ = sys.argv
+	arq1, arq2, arq3, arq4, *_ = sys.argv[1:]
 
 else:
     print("Entre com os nomes dos arquivos corretos.")
 
-print(arq1, arq2, arq3, arq4, sep="\n")
+label_1 = "red" if "red" in arq1 else "white"
+label_2 = "red" if "red" in arq2 else "white"
+
+print("\n Arquivos a serem importados:", arq1, arq2, arq3, arq4, sep="\n")
 
 # Importa os dados dos arquivos txt
 d1 = np.genfromtxt(arq1, delimiter=";", skip_header=1)
@@ -35,15 +37,9 @@ d4 = np.append( d3, type_wine, axis=1 )
 header += ",tipo"
 header_list = header.split(",")
 
-print("\n Header: ", header)
-print( "\n Numero de linhas totais, somando cada matriz: " , d1.shape[0] + d2.shape[0] )
-print( "\n Número de linhas na nova matriz: " , d4.shape[0] )
-
 # Verifica se os dados importados são os mesmos que foram salvados
 np.savetxt(arq3, d4, header=header , delimiter=",")
 d5 = np.genfromtxt(arq3, delimiter=",", skip_header=True)
-print("\n Checagem de dados...")
-print(d4 == d5)
 
 # Busca o indice em que se encontra a qualidade
 quality_index = header_list.index('"quality"')
@@ -53,16 +49,25 @@ tipo = header_list.index("tipo")
 
 # Realiza os cálculos das médias
 mean_all = d4[:,quality_index].mean()
-mean_red = d4[ d4[:,tipo]==1, quality_index ].mean()
-mean_white = d4[ d4[:,tipo]==2, quality_index ].mean()
+mean_1 = d4[ d4[:,tipo]==1, quality_index ].mean()
+mean_2 = d4[ d4[:,tipo]==2, quality_index ].mean()
 
 # Cria vetor de médias
-means = np.array([mean_all, mean_red, mean_white], ndmin=2)
+means = np.array([mean_1, mean_2, mean_all], ndmin=2)
 
 # Exibe as médias calculadas
-print("\n Qualidade média geral:" , mean_all)
-print(" Qualidade média red:" , mean_red)
-print(" Qualidade média white:" , mean_white)
+
+texto_1 = "| {0:<10} | {1:>.10} |"
+texto_2 = "| {0:<10} | {1:<11} |"
+linha = "+" + "-"*26 + "+"
+
+print("\n", linha, sep="")
+print( texto_2.format("Rótulo", "Média") )
+print(linha)
+print( texto_1.format(label_1, mean_1) )
+print( texto_1.format(label_2, mean_2) )
+print( texto_1.format("Geral", mean_all) )
+print(linha)
 
 # Salva o arquivo com as médias calculadas
 header_mean = "geral,tinto,branco"
