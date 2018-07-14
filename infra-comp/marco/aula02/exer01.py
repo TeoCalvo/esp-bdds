@@ -14,4 +14,4 @@ for i in range(n):
 
 soma *= m
 
-print soma
+print(soma)
