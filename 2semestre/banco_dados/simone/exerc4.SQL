@@ -43,7 +43,7 @@
 /* EXERCICIO 5 */
 
 SELECT T1.C_NAME,
-           T3.O_TOTALPRICE
+       T3.O_TOTALPRICE
     FROM CUSTOMER AS T1,
          NATION AS T2,
          ORDERS AS T3
