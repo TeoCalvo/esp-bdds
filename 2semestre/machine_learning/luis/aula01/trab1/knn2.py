@@ -35,15 +35,15 @@ def main(data):
         y_pred = neigh.predict(X_test)
 
         # mostra o resultado do classificador na base de teste
-        print(neigh.score(X_test, y_test))
+        print neigh.score(X_test, y_test)
 
         # cria a matriz de confusao
         cm = confusion_matrix(y_test, y_pred)
-        print(cm)
+        print cm
         
-        pl.matshow(cm)
-        pl.colorbar()
-        pl.show()
+	pl.matshow(cm)
+	pl.colorbar()
+	pl.show()
 
 if __name__ == "__main__":
         if len(sys.argv) != 2:

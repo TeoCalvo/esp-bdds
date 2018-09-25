@@ -1,0 +1,37 @@
+De maneira manual e diversos testes realizados, a combinação de X e Y que performou melhor em relação à acurácia na base de teste, foi com X=28 e Y=25.
+
+Para X=20 e Y=10
+Acurácia: 0.905 
+Matriz de confusão:
+[[ 95   1   0   0   0   1   0   0   0   0]
+ [  0  94   0   1   0   0   0   0   0   0]
+ [  2   8  97   0   1   0   0   2   1   0]
+ [  0   1   1  93   1   3   0   1   3   0]
+ [  0  10   1   0  81   0   0   0   0   3]
+ [  1   1   0   5   0  89   0   0   1   0]
+ [  0   5   0   0   0   0 101   0   0   0]
+ [  1   7   0   0   0   0   0  84   0   5]
+ [  1   3   0   3   1   1   0   2  75   1]
+ [  0   1   1   0   4   0   0  10   0  96]]
+
+
+Para X=28 e Y=25
+Acurácia: 0.928
+Matriz de confusão:
+[[ 96   0   0   0   0   1   0   0   0   0]
+ [  0  95   0   0   0   0   0   0   0   0]
+ [  1   4 100   0   1   0   1   3   1   0]
+ [  0   1   0  99   0   1   0   1   1   0]
+ [  0  10   2   0  82   0   0   0   0   1]
+ [  1   0   0   6   0  89   0   0   1   0]
+ [  1   5   0   0   0   0 100   0   0   0]
+ [  0   5   0   0   0   0   0  90   0   2]
+ [  0   3   0   3   0   1   0   3  76   1]
+ [  0   0   0   0   2   0   0   9   0 101]]
+
+A taxa de acurácia geral aumentou em relação à mudanca de dimensão em que o modelos foi treinado.
+A classe que recebeu o maior incremento na taxa de acurária, foi a última. Onde o ganho foi de 5+ ponto de acertos.
+Houveram classes em que não foi observada alteração na taxa de acurácia como a sexta.
+Como o impacto no tempo de processamento não foi perceptível, vale a pena aumentar um pouco a dimensão para obter melhroes resultados.
+
+Foram testados diferentes valores para 'k' no modelo ajustado, bem como diferentes distâncias para o ajuste, não houve melhorias para os valores testados.
