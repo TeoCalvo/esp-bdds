@@ -1,0 +1,12 @@
+Qual é o classificador que tem o melhor desempenho com poucos dados < 1000 exemplos.
+    O melhor classificador para tamanho de amostra menor que 1000 e o KNN, embora seu custo computacional seja muito maior que os demais.
+
+Qual é o classificador que tem melhor desempenho com todos os dados.
+    O classificador que apresenta o melhor resultado na grande maioria dos casos e o KNN. Da mesma forma como foi discutido no item anterior, o mesmo apresenta um custo computacional extremamente alto, que não jusitifica a diferença de performance em relação à outros classificadores. isto é, ao realizar a avaliação conjunta de esforço e performance, não é viável utilizar o knn.
+
+Qual é o classificador é mais rápido para classificar os 58k exemplos de teste.
+    O classificador que mais rápido se realizou os ajustes e predições, foi o LDA. A representação gráfica (em anexo) apresente este resultado na escala de log, uma vez que o tempo do KNN era muito maior que os dos demais não se podia avaliar de maneira visual os outros classificados. Mesmo assim, é notório que LDA é o classificador mais rápido.
+
+O que vc pode dizer a respeito das matrizes de confusão. Os erros são os mesmos para todos
+os classificadores quando todos eles utlizam toda a base de teste?
+    Não, os erros não são os mesmos para todos os classificadores, embora se tenha uma nossão que proporcionalmente seja similar. Isto é, a dificuldade que um classificar tem em ser acurado para determinada classe, não difere entre os demais. Assim, não foi notado que um classificado é melhor em determinada classe do que outro.

@@ -17,7 +17,7 @@ plt.plot( lag_500, nb['performance'] )
 plt.plot( lag_500, lg['performance'] )
 plt.plot( lag_500, lda['performance'] )  
 plt.plot( lag_500,knn['performance'] ) 
-plt.legend( ['Naive-Bayes', "Regressao Logistica", "Linear Discriminante", 'Knn'], loc='best' )
+plt.legend( ['Naive-Bayes', "Regressao Logistica", "Análise Discriminante Linear", 'Knn'], loc='best' )
 plt.title( "Comparacao de modelos" )
 plt.xlabel("Tamanho de amostra")
 plt.ylabel("Performance")
@@ -35,5 +35,4 @@ plt.ylabel("Tempo log(segundos)")
 plt.grid(True)
 
 plt.show()
-
 
