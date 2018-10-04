@@ -1,0 +1,19 @@
+BLOBS
+Como podemos ver pela tabela abaixo, após rodar 150 vezes o programa svmtoy.py para geração de dados 'make_blobs', a média de vetores criado pelo kernel linear é muito menor que o de kernel RBF.
+E ainda, a não ha uma diferença significativa entre as acurácias encontradas.
+
+media de vetores kernel linear :  9.420000
+media de vetores kernel rbf    : 185.373333
+media da acuracia kernel linear:   0.990689
+media da acuracia kernel rbf   :   0.991400
+
+---------------------------------------------------------------
+
+GAUSSIAN_QUANTILES
+Ja para a geração utilizando GAUSSIAN_QUANTILES temos um cenário diferente. Uma vez que o kernel linear teve em média muito mais vetores criados do que o RBF. E diferentemente do exemplo anterior, ha uma diferença significativa entre as acurácias médias, dado que o kernel rbf obteve uma performance muito superior.
+
+media de vetores kernel linear : 289.086667
+media de vetores kerl rbf      :  24.793333
+media de acuracia kernel linear:   0.629711
+media de acuracia kernel rbf   :   0.994778
+
