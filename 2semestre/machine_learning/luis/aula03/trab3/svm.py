@@ -10,13 +10,11 @@ from sklearn.datasets import load_svmlight_file
 from sklearn.grid_search import GridSearchCV
 from sklearn import preprocessing
 
-def GridSearch(X_train, y_train):
+def GridSearch(X_train, y_train, k):
 
 	# define range dos parametros
 	C_range = 2. ** numpy.arange(-5,15,2)
 	gamma_range = 2. ** numpy.arange(3,-15,-2)
-	k = [ 'rbf']
-	#k = ['linear', 'rbf']
 	param_grid = dict(gamma=gamma_range, C=C_range, kernel=k)
 
 	# instancia o classificador, gerando probabilidades
@@ -30,8 +28,9 @@ def GridSearch(X_train, y_train):
 	model = grid.best_estimator_
 
 	# imprime os parametros desse modelo
-	print grid.best_params_
+	print(grid.best_params_)
 	return model
+
 def main(datatr, datats):
 
 	# loads data
@@ -78,7 +77,7 @@ def main(datatr, datats):
 
 	# cria a matriz de confusao
 	cm = confusion_matrix(y_test, y_pred)
-	print cm
+	print( cm )
 
 	# probabilidades
 	#probs = best.predict_proba(X_test)
