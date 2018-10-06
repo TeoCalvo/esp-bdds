@@ -1,7 +1,7 @@
 import sys
 import numpy
 import pandas as pd
-#from sklearn import cross_validation
+from sklearn import cross_validation
 from sklearn import svm
 from sklearn.metrics import confusion_matrix
 from sklearn.datasets import load_svmlight_file
@@ -40,12 +40,12 @@ def main(datatr, datats):
     # GridSearch retorna o melhor modelo encontrado na busca
     print("Treinamento grid search LINEA...")
     t_s = time.time()
-    best_linear = GridSearch(X_train, y_train, k='linear')
+    best_linear = GridSearch(X_train[:1000], y_train[:1000], k='linear')
     time_linear_grid = time.time() - t_s
     
     print("Treinamento grid search RBF...")
     t_s = time.time()
-    best_rbf = GridSearch(X_train, y_train, k='rbf')
+    best_rbf = GridSearch(X_train[:1000], y_train[:1000], k='rbf')
     time_rbf_grid = time.time() - t_s
 
     # Treina usando o melhor modelo
