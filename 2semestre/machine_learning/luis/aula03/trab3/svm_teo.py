@@ -40,12 +40,12 @@ def main(datatr, datats):
     # GridSearch retorna o melhor modelo encontrado na busca
     print("Treinamento grid search LINEA...")
     t_s = time.time()
-    best_linear = GridSearch(X_train[:1000], y_train[:1000], k='linear')
+    best_linear = GridSearch(X_train, y_train, k='linear')
     time_linear_grid = time.time() - t_s
     
     print("Treinamento grid search RBF...")
     t_s = time.time()
-    best_rbf = GridSearch(X_train[:1000], y_train[:1000], k='rbf')
+    best_rbf = GridSearch(X_train, y_train, k='rbf')
     time_rbf_grid = time.time() - t_s
 
     # Treina usando o melhor modelo
@@ -56,6 +56,12 @@ def main(datatr, datats):
     t_s = time.time()
     best_rbf.fit(X_train, y_train)
     time_rbf = time.time() - t_s
+
+    linear_pars = best_linear.get_params()
+    rbs_pars = best_rbf.get_params()
+
+    linear_vectors = best_linear.n_support_.sum()
+    rbf_vectors = best_rbf.n_support_.sum()
 
     # resultado do treinamento
     
@@ -80,10 +86,15 @@ def main(datatr, datats):
                           "Tempo treino Linear": [time_linear],
                           "Tempo treino RBF": [time_rbf],
                           "Score Train Linear": [linear_score],
-                          "Score Train RBF": [rbf_score]} )
+                          "Score Train RBF": [rbf_score],                          
+                          "Parametros Linear": [linear_pars],
+                          "Parametros RBS": [rbs_pars] ,
+                          "Qtd vetores Linear": [linear_vectors] ,
+                          "Qtd vetores RBS": [rbf_vectors] } )
 
 if __name__ == "__main__":
     if len(sys.argv) != 3:
         sys.exit("Use: svm.py <tr> <ts>")
-
-    print( main(sys.argv[1], sys.argv[2]) )
+        
+    df = main(sys.argv[1], sys.argv[2])
+    df.to_csv( "resultado_svm.csv", index=False)
